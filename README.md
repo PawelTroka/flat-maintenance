@@ -4,46 +4,45 @@ checklist for keeping my apartment clean and tidy
 
 # Lista zadań domowych – podzielona na strefy i z częstotliwością
 
-## 🟢 Codzienne / Cotygodniowe obowiązki (kluczowe)
+## 🟢 Podstawowe
 
 | #  | Czynność                                         | Częstotliwość |
 | -- | ------------------------------------------------ | ------------- |
-| 1  | Odkurzanie całego mieszkania                     | Co tydzień    |
-| 2  | Mycie podłóg                                     | Co tydzień    |
-| 3  | Opróżnianie koszy na śmieci                      | Co tydzień    |
-| 4  | Wytarcie blatów kuchennych                       | Co tydzień    |
-| 5  | Uporządkowanie widocznych powierzchni            | Co tydzień    |
-| 6  | Wytarcie stołu, biurka, szafek                   | Co tydzień    |
-| 7  | Mycie zlewu kuchennego                           | Co tydzień    |
-| 8  | Mycie umywalki i baterii łazienkowych            | Co tydzień    |
-| 9  | Uporządkowanie rzeczy leżących luzem             | Co tydzień    |
-| 10 | Uzupełnianie papieru toaletowego                 | Co tydzień    |
-| 11 | Uporządkowanie łazienki                          | Co tydzień    |
-| 12 | Podlanie roślin                                  | Co tydzień    |
-| 13 | Wstawienie prania                                | Co tydzień    |
-| 14 | Wypakowanie i rozwieszenie prania                | Co tydzień    |
-| 15 | Odkurzenie sofy                                  | Co tydzień    |
-| 76 | Czyszczenie ręczne stalowej butelki na siłownię  | Co tydzień    |
-| 77 | Czyszczenie ręczne przezroczystego kubka na wodę | Co tydzień    |
-| 78 | Wymiana ręczników do rąk i ciała w łazience i WC | Co tydzień    |
-| 79 | Wymiana pościeli                                 | Co tydzień    |
+| p1  | Odkurzanie całego mieszkania                     | Co tydzień    |
+| p2  | Mycie podłóg                                     | Co tydzień    |
+| p3  | Opróżnianie koszy na śmieci (kuchnia, łazienka, WC, biuro, sypialnia)                      | Co tydzień    |
+| p4  | Czyszczenie blatów kuchennych, łazienkowych, WC                       | Co tydzień    |
+| p5  | Uporządkowanie widocznych powierzchni            | Co tydzień    |
+| p6  | Wytarcie stołu, biurka, szafek                   | Co tydzień    |
+| p7  | Mycie zlewu kuchennego                           | Co tydzień    |
+| p8  | Mycie umywalki i baterii łazienkowych            | Co tydzień    |
+| p9  | Uporządkowanie rzeczy leżących luzem             | Co tydzień    |
+| p10 | Uzupełnianie papieru toaletowego                 | Co tydzień    |
+| p11 | Uporządkowanie łazienki                          | Co tydzień    |
+| p12 | Podlanie roślin                                  | Co tydzień    |
+| p13 | Wkładanie naczyń do zmywarki / wyjmowanie        | Co tydzień    |
+| p14 | Wstawienie prania                                | Co tydzień    |
+| p15 | Wypakowanie i rozwieszenie prania                | Co tydzień    |
+| p16 | Odkurzenie sofy                                  | Co tydzień    |
+| p17 | Mycie/pranie sofy                                  | Co miesiąc    |
+| p18 | Mycie ręczne stalowej butelki na siłownię  | Co tydzień    |
+| p19 | Mycie ręczne przezroczystego kubka na wodę | Co tydzień    |
+| p20 | Wymiana ręczników do rąk i ciała w łazience i WC | Co tydzień    |
+| p21 | Wymiana pościeli                                 | Co tydzień    |
 
 ## 🍳 Kuchnia i jedzenie
 
 | #  | Czynność                                         | Częstotliwość |
 | -- | ------------------------------------------------ | ------------- |
-| 16 | Czyszczenie lodówki                              | Co 2 tygodnie |
-| 17 | Wyrzucanie przeterminowanego jedzenia            | Co 2 tygodnie |
-| 18 | Zakupy spożywcze                                 | Co tydzień    |
-| 19 | Uzupełnienie podstawowych produktów              | Co tydzień    |
-| 20 | Mycie mikrofalówki                               | Co miesiąc    |
-| 21 | Mycie zmywarki                                   | Co miesiąc    |
-| 22 | Zrobienie listy zakupów                          | Co tydzień    |
-| 23 | Wkładanie naczyń do zmywarki / wyjmowanie        | Co tydzień    |
-| 24 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
-| 25 | Sprawdzenie stanu filtrów wody                   | Co miesiąc    |
-| 80 | Czyszczenie zmywarki (żółty czyścik + tryb care) | Co miesiąc    |
-| 81 | Odkamienianie czajnika                           | Co miesiąc    |
+| k1 | Czyszczenie lodówki                              | Co 2 tygodnie |
+| k2 | Wyrzucanie przeterminowanego jedzenia            | Co 2 tygodnie |
+| k3 | Mycie piekarnika                       | Co miesiąc |
+| k4 | Mycie mikrofalówki                               | Co miesiąc    |
+| k5 | Mycie zmywarki                                   | Co miesiąc    |
+| k6 | Zrobienie listy zakupów jeżeli czegoś brakuje                        | Co 2 tygodnie    |
+| k7 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
+| k8 | Czyszczenie zmywarki (żółty czyścik + tryb care) | Co miesiąc    |
+| k9 | Odkamienianie czajnika                           | Co miesiąc    |
 
 ## 🚿 Łazienka i higiena
 
@@ -56,17 +55,29 @@ checklist for keeping my apartment clean and tidy
 | 30 | Uporządkowanie kosmetyków                     | Co miesiąc    |
 | 31 | Czyszczenie pralki                            | Co miesiąc    |
 | 32 | Odkamienianie pralki (machine care + proszek) | Co miesiąc    |
-| 33 | Czyszczenie szczoteczek do zębów i pojemnika  | Co miesiąc    |
+| 33 | Czyszczenie irygatora waterpik  | Co tydzień    |
+
+## 🏢 Biuro i miejsce pracy
+
+| Lp. | Czynność                                    | Częstotliwość |
+| --- | ------------------------------------------- | ------------- |
+| b1   | Uporządkowanie biurka                       | Co tydzień    |
+| b2   | Przetarcie kurzu z mebli biurowych          | Co tydzień    |
+| b3   | Czyszczenie monitora i ekranu laptopa       | Co tydzień    |
+| b4   | Czyszczenie klawiatury, myszki i podkładki  | Co 2 tygodnie |
+| b5   | Organizacja kabli i ładowarek               | Co miesiąc    |
+| b6   | Uporządkowanie dokumentów i notatek         | Co miesiąc    |
+| b7   | Sprawdzenie i uzupełnienie art. biurowych   | Co miesiąc    |
+| b8 | Czyszczenie wentylatorów i kratek (serwer)              | Co miesiąc    |
 
 ## 🛏️ Sypialnia i garderoba
 
 | #  | Czynność                          | Częstotliwość |
 | -- | --------------------------------- | ------------- |
-| 34 | Wymiana pościeli                  | Co 2 tygodnie |
-| 35 | Uporządkowanie szafy              | Co miesiąc    |
-| 36 | Przegląd i selekcja ubrań         | Co 3 miesiące |
-| 37 | Uporządkowanie szuflad i bielizny | Co miesiąc    |
-| 38 | Odłożenie rzeczy na miejsce       | Co tydzień    |
+| s1 | Wymiana pościeli                  | Co 2 tygodnie |
+| s2 | Uporządkowanie szafy              | Co miesiąc    |
+| s3 | Uporządkowanie szuflad i bielizny | Co miesiąc    |
+| s4 | Odłożenie rzeczy na miejsce       | Co tydzień    |
 
 ## 🗃️ Organizacja i porządek
 
@@ -87,42 +98,38 @@ checklist for keeping my apartment clean and tidy
 
 | #  | Czynność                          | Częstotliwość |
 | -- | --------------------------------- | ------------- |
-| 49 | Podlewanie roślin                 | Co tydzień    |
-| 50 | Zraszanie roślin                  | 2x w tygodniu |
-| 51 | Obracanie roślin w stronę światła | Co tydzień    |
-| 52 | Usuwanie suchych liści            | Co tydzień    |
-| 53 | Nawożenie roślin                  | Co miesiąc    |
+| r1 | Podlewanie roślin                 | Co tydzień    |
+| r2 | Zraszanie roślin                  | Co tydzien |
+| r3 | Obracanie roślin w stronę światła | Co tydzień    |
+| r4 | Usuwanie suchych liści            | Co tydzień    |
+| r5 | Nawożenie roślin                  | Co miesiąc    |
 
 ## 🛠️ Techniczne i domowe systemy
 
 | #  | Czynność                                         | Częstotliwość |
 | -- | ------------------------------------------------ | ------------- |
-| 54 | Czyszczenie filtrów powietrza / oczyszczacza     | Co miesiąc    |
-| 55 | Uzupełnienie wody w nawilżaczu                   | Co 2–3 dni    |
-| 56 | Czyszczenie nawilżacza                           | Co 2 tygodnie |
-| 57 | Wymiana olejków eterycznych                      | Co tydzień    |
-| 58 | Sprawdzenie baterii w urządzeniach               | Co miesiąc    |
-| 59 | Przetarcie elektroniki (laptopy, monitory)       | Co tydzień    |
-| 60 | Czyszczenie wentylatorów lub kratek              | Co miesiąc    |
-| 61 | Weryfikacja filtrów w dzbanku filtrującym        | Co miesiąc    |
-| 82 | Czyszczenie pralki (machine care + odkamieniacz) | Co miesiąc    |
+| t1 | Wymiana wody robota odkurzacza     | Co tydzien    |
+| t2 | Czyszczenie robota odkurzacza i jego stacji dokujacej     | Co miesiąc    |
+| t3 | Uzupełnienie wody w nawilżaczu                   | Co 2–3 dni    |
+| t4 | Wymiana olejków eterycznych w nawilzaczu                      | Co tydzień    |
+| t5 | Czyszczenie nawilżacza                           | Co miesiąc |
+| t6 | Czyszczenie filtrów powietrza / oczyszczacza     | Co miesiąc    |
+| t7 | Sprawdzenie baterii w urządzeniach               | Co miesiąc    |
+| t8 | Przetarcie elektroniki (laptopy, monitory)       | Co tydzień    |
+| t11 | Czyszczenie pralki (machine care + odkamieniacz) | Co miesiąc    |
 
 ## 🔁 Rzadziej wykonywane zadania sezonowe
 
 | #  | Czynność                               | Częstotliwość |
 | -- | -------------------------------------- | ------------- |
-| 62 | Mycie okien                            | Co 2 miesiące |
-| 63 | Pranie zasłon                          | Co 6 miesięcy |
-| 64 | Mycie ścian                            | Co 6 miesięcy |
-| 65 | Pranie poduszek i kołder               | Co 6 miesięcy |
-| 66 | Odkurzanie pod meblami                 | Co 2 miesiące |
-| 67 | Generalne sprzątanie szafek kuchennych | Co 3 miesiące |
-| 68 | Odkurzanie materaca                    | Co 2 miesiące |
-| 69 | Czyszczenie lamp i żyrandoli           | Co 3 miesiące |
-| 70 | Mycie drzwi i framug                   | Co 3 miesiące |
-| 71 | Usuwanie pajęczyn z rogów              | Co 3 miesiące |
-| 72 | Przegląd stanu technicznego urządzeń   | Co 6 miesięcy |
-| 73 | Przegląd i aktualizacja leków          | Co 6 miesięcy |
-| 74 | Mycie piekarnika                       | Co 3 miesiące |
-| 75 | Czyszczenie ekspresu do kawy           | Co miesiąc    |
+| z1 | Mycie okien                            | Co 2 miesiące |
+| z2 | Mycie balkonu                            | Co 2 miesiące |
+| z3 | Mycie ścian                            | Co 6 miesięcy |
+| z4 | Pranie poduszek i kołder               | Co 2 miesiące |
+| z5 | Odkurzanie pod meblami                 | Co 2 miesiące |
+| z6 | Generalne sprzątanie szafek kuchennych | Co 3 miesiące |
+| z7 | Czyszczenie lamp i sufitów           | Co 3 miesiące |
+| z8 | Mycie drzwi i framug                   | Co miesiąc |
+| z9 | Usuwanie pajęczyn z rogów              | Co miesiąc |
+| z10 | Przegląd i aktualizacja leków          | Co 2 miesiące |
 
