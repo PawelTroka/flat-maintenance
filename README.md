@@ -36,26 +36,26 @@ checklist for keeping my apartment clean and tidy
 | -- | ------------------------------------------------ | ------------- |
 | k1 | Czyszczenie lodówki                              | Co 2 tygodnie |
 | k2 | Wyrzucanie przeterminowanego jedzenia            | Co 2 tygodnie |
-| k3 | Mycie piekarnika                       | Co miesiąc |
+| k3 | Mycie piekarnika                                 | Co 2 tygodnie |
 | k4 | Mycie mikrofalówki                               | Co miesiąc    |
 | k5 | Mycie zmywarki                                   | Co miesiąc    |
-| k6 | Zrobienie listy zakupów jeżeli czegoś brakuje                        | Co 2 tygodnie    |
+| k6 | Zrobienie listy zakupów jeżeli czegoś brakuje    | Co 2 tygodnie |
 | k7 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
 | k8 | Czyszczenie zmywarki (żółty czyścik + tryb care) | Co miesiąc    |
 | k9 | Odkamienianie czajnika                           | Co miesiąc    |
 
-## 🚿 Łazienka i higiena
+## 🚿 Łazienka, WC i higiena
 
 | #  | Czynność                                      | Częstotliwość |
 | -- | --------------------------------------------- | ------------- |
 | 26 | Mycie kabiny prysznicowej                     | Co tydzień    |
 | 27 | Usuwanie kamienia z armatury                  | Co tydzień    |
 | 28 | Wymiana ręczników                             | Co tydzień    |
-| 29 | Wymiana mydła / żelu pod prysznic             | Co 2 tygodnie |
+| 29 | Uzupełnienie mydła / żelu pod prysznic        | Co 2 tygodnie |
 | 30 | Uporządkowanie kosmetyków                     | Co miesiąc    |
 | 31 | Czyszczenie pralki                            | Co miesiąc    |
-| 32 | Odkamienianie pralki (machine care + proszek) | Co miesiąc    |
-| 33 | Czyszczenie irygatora waterpik  | Co tydzień    |
+| 32 | Odkamienianie pralki (machine care + proszek calgon) | Co miesiąc    |
+| 33 | Czyszczenie irygatora waterpik                | Co tydzień    |
 
 ## 🏢 Biuro i miejsce pracy
 
@@ -63,7 +63,7 @@ checklist for keeping my apartment clean and tidy
 | --- | ------------------------------------------- | ------------- |
 | b1   | Uporządkowanie biurka                       | Co tydzień    |
 | b2   | Przetarcie kurzu z mebli biurowych          | Co tydzień    |
-| b3   | Czyszczenie monitora i ekranu laptopa       | Co tydzień    |
+| b3   | Czyszczenie monitora, ekranu laptopa, ekranów TV specjalnym środkiem i specjalną ścierką z mikrofibry       | Co tydzień    |
 | b4   | Czyszczenie klawiatury, myszki i podkładki  | Co 2 tygodnie |
 | b5   | Organizacja kabli i ładowarek               | Co miesiąc    |
 | b6   | Uporządkowanie dokumentów i notatek         | Co miesiąc    |
@@ -87,7 +87,6 @@ checklist for keeping my apartment clean and tidy
 | 40 | Czyszczenie luster                      | Co tydzień    |
 | 41 | Przetarcie klamek i włączników          | Co tydzień    |
 | 42 | Porządkowanie apteczki                  | Co 3 miesiące |
-| 43 | Przetarcie ram obrazów / TV             | Co miesiąc    |
 | 44 | Czyszczenie rolet / zasłon              | Co miesiąc    |
 | 45 | Wyrzucenie niepotrzebnych rzeczy        | Co miesiąc    |
 | 46 | Oddanie niepotrzebnych ubrań na zbiórkę | Co 6 miesięcy |
@@ -115,8 +114,8 @@ checklist for keeping my apartment clean and tidy
 | t5 | Czyszczenie nawilżacza                           | Co miesiąc |
 | t6 | Czyszczenie filtrów powietrza / oczyszczacza     | Co miesiąc    |
 | t7 | Sprawdzenie baterii w urządzeniach               | Co miesiąc    |
-| t8 | Przetarcie elektroniki (laptopy, monitory)       | Co tydzień    |
-| t11 | Czyszczenie pralki (machine care + odkamieniacz) | Co miesiąc    |
+| t8 | Przetarcie elektroniki (pady do XBOX-a, piloty, itp)       | Co tydzień    |
+| t9 | Odkurzanie samochodów w hali garażowej i przetarcie kokpitów       | Co 2 tygodnie    |
 
 ## 🔁 Rzadziej wykonywane zadania sezonowe
 
@@ -124,10 +123,10 @@ checklist for keeping my apartment clean and tidy
 | -- | -------------------------------------- | ------------- |
 | z1 | Mycie okien                            | Co 2 miesiące |
 | z2 | Mycie balkonu                            | Co 2 miesiące |
-| z3 | Mycie ścian                            | Co 6 miesięcy |
+| z3 | Mycie ścian magiczną białą gąbką tam gdzie są zabrudzone                            | Co 2 miesiące |
 | z4 | Pranie poduszek i kołder               | Co 2 miesiące |
 | z5 | Odkurzanie pod meblami                 | Co 2 miesiące |
-| z6 | Generalne sprzątanie szafek kuchennych | Co 3 miesiące |
+| z6 | Generalne sprzątanie szafek kuchennych | Co 2 miesiące |
 | z7 | Czyszczenie lamp i sufitów           | Co 3 miesiące |
 | z8 | Mycie drzwi i framug                   | Co miesiąc |
 | z9 | Usuwanie pajęczyn z rogów              | Co miesiąc |
