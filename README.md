@@ -18,15 +18,7 @@ checklist for keeping my apartment clean and tidy
 | p4  | Czyszczenie mebli                               | Co 2 tygodnie    |
 | p5  | Uporządkowanie widocznych powierzchni            | Co tydzień    |
 | p6  | Wytarcie stołu, biurka, szafek                   | Co tydzień    |
-| p7  | Mycie zlewu kuchennego                           | Co tydzień    |
 | p9  | Uporządkowanie rzeczy leżących luzem             | Co tydzień    |
-| p10 | Uzupełnianie papieru toaletowego                 | Co tydzień    |
-| p11 | Uporządkowanie łazienki                          | Co tydzień    |
-| p12 | Podlanie roślin                                  | Co tydzień    |
-| p13 | Wkładanie naczyń do zmywarki (program Eco 3h lub auto)        | Co tydzień    |
-| p13 | Wyjmowanie naczyń ze zmywarki i ukladanie w szafkach        | Co tydzień    |
-| p14 | Wstawienie prania (program bawełna 40 stopni 1200RPM + suszenie 1h lub 2h)                                | Co tydzień    |
-| p15 | Wypakowanie i rozwieszenie prania                | Co tydzień    |
 | p15 | Pranie lub czyszczenie butow jezeli mocno brudne                | Co miesiąc    |
 | p18 | Mycie ręczne duzych stalowych butelek na siłownię        | Co tydzień    |
 | p19 | Mycie ręczne ogromnego przezroczystego kubka na wodę       | Co tydzień    |
@@ -34,7 +26,7 @@ checklist for keeping my apartment clean and tidy
 | 40 | Czyszczenie luster                      | Co tydzień    |
 | 41 | Przetarcie klamek i włączników          | Co tydzień    |
 | b4   | Czyszczenie krzesel  | Co 2 tygodnie |
-| t8 | Przetarcie elektroniki (pady do XBOX-a, piloty, itp)       | Co tydzień    |
+| t8 | Czyszczenie elektroniki (pady do XBOX-a, piloty, itp)       | Co tydzień    |
 | b3   | Czyszczenie ekranów (TV, komputer, laptop, tablet, telefon) specjalnym środkiem i specjalną ścierką z mikrofibry       | Co 3 tygodnie    |
 | 44 | Czyszczenie rolet / zasłon              | Co miesiąc    |
 | 44 | Czyszczenie kamer              | Co miesiąc    |
@@ -45,12 +37,15 @@ checklist for keeping my apartment clean and tidy
 | #  | Czynność                                         | Częstotliwość |
 | -- | ------------------------------------------------ | ------------- |
 | k0 | Wymiana ręczników do rąk i naczyń                | Co tydzień    |
+| p7  | Mycie zlewu kuchennego                           | Co tydzień    |
 | k1 | Czyszczenie lodówki                              | Co 2 tygodnie |
 | k2 | Wyrzucanie przeterminowanego jedzenia            | Co 2 tygodnie |
 | k3 | Mycie piekarnika                                 | Co 2 tygodnie |
 | k4 | Mycie mikrofalówki                               | Co 2 tygodnie |
 | 26 | Mycie blendera                                | Co tydzień    |
 | k7 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
+| p13 | Wkładanie naczyń do zmywarki (program Eco 3h lub auto)        | Co tydzień    |
+| p13 | Wyjmowanie naczyń ze zmywarki i ukladanie w szafkach        | Co tydzień    |
 | k8 | Czyszczenie zmywarki (żółty czyścik + tryb Machine Care - 65 stopni) | Co miesiąc    |
 | k8 | Uzupelnienie nablyszczacza zmywarce | Co miesiąc    |
 | k8 | Uzupelnienie soli w zmywarce | Co miesiąc    |
@@ -61,6 +56,7 @@ checklist for keeping my apartment clean and tidy
 
 | #  | Czynność                                      | Częstotliwość |
 | -- | --------------------------------------------- | ------------- |
+| p10 | Uzupełnianie papieru toaletowego                 | Co tydzień    |
 | p20 | Wymiana ręczników do rąk w łazience i w WC | Co tydzień    |
 | p20 | Wymiana ręczników do ciała (dwie sztuki) w łazience | Co 2 tygodnie    |
 | 28 | Mycie toalet                             | Co tydzień    |
@@ -72,6 +68,8 @@ checklist for keeping my apartment clean and tidy
 | 30 | Uporządkowanie kosmetyków, wyrzucenie pustych opakowań| Co miesiąc    |
 | 33 | Czyszczenie irygatora waterpik                | Co tydzień    |
 | 33 | Czyszczenie czarnej wagi Withings                | Co 2 tygodnie    |
+| p14 | Wstawienie prania (program bawełna 40 stopni 1200RPM + suszenie 1h lub 2h)                                | Co tydzień    |
+| p15 | Wypakowanie i rozwieszenie prania                | Co tydzień    |
 | 31 | Czyszczenie pralki                            | Co miesiąc    |
 | 32 | Odkamienianie pralki (machine care + proszek calgon) | Co miesiąc    |
 | 28 | Uzupelnienie naklejek zapachowych w toaletach                             | Co 2 miesiące    |
@@ -81,7 +79,7 @@ checklist for keeping my apartment clean and tidy
 | Lp. | Czynność                                    | Częstotliwość |
 | --- | ------------------------------------------- | ------------- |
 | b1   | Uporządkowanie biurka                       | Co tydzień    |
-| b4   | Czyszczenie klawiatury, myszki i podkładki  | Co 2 tygodnie |
+| b4   | Czyszczenie klawiatury, myszki, sluchawek i podkładki  | Co 2 tygodnie |
 | b4   | Czyszczenie laptopa  | Co miesiac |
 | b4   | Czyszczenie tapicerki krzesla biurowego  | Co 2 tygodnie |
 | b5   | Organizacja kabli i ładowarek               | Co miesiąc    |
