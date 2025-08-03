@@ -30,7 +30,9 @@ checklist for keeping my apartment clean and tidy
 | p20   | Czyszczenie ekranów (TV, komputer, laptop, tablet, telefon) specjalnym środkiem i specjalną ścierką z mikrofibry       | Co 3 tygodnie    |
 | p21 | Czyszczenie rolet / zasłon              | Co miesiąc    |
 | p22 | Czyszczenie kamer              | Co miesiąc    |
-| p23 | Organizacja kabli              | Co miesiąc    |
+| p23 | Czyszczenie pojemników na tabletki z zewnątrz              | Co miesiąc    |
+| p24  | Wymiana ręcznika w torbie na siłownię                   | Co tydzień    |
+| p25  | Pstryknąć zapachowanym sprayem w każdym pomieszczeniu                   | Co tydzień    |
 
 ## 🍳 Kuchnia
 
@@ -43,14 +45,15 @@ checklist for keeping my apartment clean and tidy
 | k5 | Mycie piekarnika                                 | Co 2 tygodnie |
 | k6 | Mycie mikrofalówki                               | Co 2 tygodnie |
 | k7 | Mycie blendera                                | Co tydzień    |
-| k8 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
-| k9 | Wkładanie naczyń do zmywarki (program Eco 3h lub auto)        | Co tydzień    |
-| k10 | Wyjmowanie naczyń ze zmywarki i układanie w szafkach        | Co tydzień    |
-| k11 | Czyszczenie zmywarki (żółty czyścik + tryb Machine Care - 65 stopni) | Co miesiąc    |
-| k12 | Uzupełnienie nabłyszczacza w zmywarce | Co miesiąc    |
-| k13 | Uzupełnienie soli w zmywarce | Co miesiąc    |
-| k14 | Odkamienianie czajnika                           | Co miesiąc    |
-| k15 | Porządkowanie apteczki                           | Co 2 miesiące |
+| k8 | Czyszczenie opiekacza do chleba                                | Co tydzień    |
+| k9 | Uporządkowanie szafek kuchennych                 | Co miesiąc    |
+| k10 | Wkładanie naczyń do zmywarki (program Eco 3h lub auto)        | Co tydzień    |
+| k11 | Wyjmowanie naczyń ze zmywarki i układanie w szafkach        | Co tydzień    |
+| k12 | Czyszczenie zmywarki (żółty czyścik + tryb Machine Care - 65 stopni) | Co miesiąc    |
+| k13 | Uzupełnienie nabłyszczacza w zmywarce | Co miesiąc    |
+| k14 | Uzupełnienie soli w zmywarce | Co miesiąc    |
+| k15 | Odkamienianie czajnika                           | Co miesiąc    |
+| k16 | Porządkowanie apteczki                           | Co 2 miesiące |
 
 ## 🚿 Łazienka i WC
 
@@ -61,7 +64,7 @@ checklist for keeping my apartment clean and tidy
 | l3 | Wymiana ręczników do ciała (dwie sztuki) w łazience | Co 2 tygodnie    |
 | l4 | Mycie toalet                             | Co tydzień    |
 | l5 | Mycie kabiny prysznicowej                     | Co tydzień    |
-| l6 | Mycie umywalki (środek z koala do konglomeratu)| Co tydzień    |
+| l6 | Mycie umywalek (środek z koala do konglomeratu)| Co tydzień    |
 | l7 | Mycie armatury                                | Co tydzień    |
 | l8 | Usuwanie kamienia z armatury (Odkamieniacz / odwapniacz do chromowej armatury)               | Co miesiąc    |
 | l9 | Uzupełnienie mydła / żelu pod prysznic        | Co 2 tygodnie |
@@ -92,6 +95,8 @@ checklist for keeping my apartment clean and tidy
 | sa2 | Pranie i wymiana poszewek poduszek         | Co miesiąc    |
 | sa3 | Odkurzenie sofy                  | Co tydzień    |
 | sa4 | Mycie/pranie sofy                | Co miesiąc    |
+| sa5 | Przetarcie czapki z diodami LED                | Co tydzień    |
+| sa6 | Przetarcie maski na twarz z diodami LED                | Co tydzień    |
 
 
 ## 🛏️ Sypialnia i garderoba
@@ -131,10 +136,11 @@ checklist for keeping my apartment clean and tidy
 
 | #  | Czynność                               | Częstotliwość |
 | -- | -------------------------------------- | ------------- |
-| z1 | Mycie okien   (Niebieski W5 płyn do mycia okien)        | Co 2 miesiące |
-| z2 | Mycie balkonu                            | Co 2 miesiące |
-| z3 | Mycie ścian magiczną białą gąbką tam gdzie są zabrudzone                            | Co 2 miesiące |
-| z4 | Pranie poduszek i kołder               | Co 2 miesiące |
+| z1 | Udrażnianie odpływów (Kret)        | Co miesiąc |
+| z2 | Mycie okien   (Niebieski W5 płyn do mycia okien)        | Co 2 miesiące |
+| z3 | Mycie balkonu                            | Co 2 miesiące |
+| z4 | Mycie ścian magiczną białą gąbką tam gdzie są zabrudzone                            | Co 2 miesiące |
+| z5 | Pranie poduszek i kołder               | Co 2 miesiące |
 | z5 | Odkurzanie pod meblami                 | Co 2 miesiące |
 | z6 | Generalne sprzątanie szafek kuchennych | Co 2 miesiące |
 | z7 | Mycie drzwi i framug                   | Co miesiąc |
