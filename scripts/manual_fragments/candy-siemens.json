@@ -1,0 +1,510 @@
+[
+  {
+    "id": "l15",
+    "device": "Candy BP 49SBL8-S",
+    "steps": [
+      "Wyłącz pralkę, wyjmij wtyczkę z gniazdka i zakręć dopływ wody.",
+      "Wysuń szufladę do oporu, naciśnij zatrzask i wyjmij ją. Wypłucz pozostałości detergentu i włóż szufladę z powrotem.",
+      "Uszczelkę i obudowę przetrzyj miękką ściereczką z wodą z mydłem."
+    ],
+    "clips": [
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 31,
+        "box": [
+          26,
+          48,
+          403,
+          266.3
+        ],
+        "caption": "Szuflada na detergent oraz obudowa i elementy gumowe — s. 31."
+      }
+    ],
+    "safety": [
+      "Bez żrących środków i rozpuszczalników."
+    ]
+  },
+  {
+    "id": "l16",
+    "device": "Candy BP 49SBL8-S",
+    "steps": [
+      "Przed rozpoczęciem możesz [sprawdzić licznik prań](candy-counter.md).",
+      "Opróżnij bęben. Nie dodawaj detergentu, Calgonu ani środka do czyszczenia pralki.",
+      "Wybierz BĘBEN CZYSTY (90°C) i uruchom program."
+    ],
+    "clips": [
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 20,
+        "box": [
+          17,
+          443.3,
+          389,
+          492.4
+        ],
+        "caption": "BĘBEN CZYSTY: co 50 prań, bez dodatków — s. 20."
+      },
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 19,
+        "box": [
+          29.4,
+          278.6,
+          217.6,
+          294.5
+        ],
+        "caption": "Wiersz BĘBEN CZYSTY: temperatura domyślna i maksymalna to 90°C — s. 19."
+      }
+    ]
+  },
+  {
+    "id": "candy-counter",
+    "device": "Candy BP 49SBL8-S",
+    "steps": [
+      "Włącz pralkę i wybierz program BAWEŁNA.",
+      "Naciśnij jednocześnie TEMPERATURA i PRĘDKOŚĆ.",
+      "Odczytaj liczbę cykli: pojawi się na około 2 sekundy, potem wyświetlacz wróci do programu BAWEŁNA."
+    ],
+    "clips": [
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 21,
+        "box": [
+          29,
+          366.5,
+          402,
+          461
+        ],
+        "caption": "Sprawdzenie liczby wykonanych cykli — s. 21."
+      }
+    ],
+    "title": "Sprawdź licznik prań",
+    "when": "Przy sprawdzaniu terminu samoczyszczenia",
+    "notes": [
+      "Samoczyszczenie: [l16 — BĘBEN CZYSTY](l16.md)."
+    ]
+  },
+  {
+    "id": "l18",
+    "device": "Candy BP 49SBL8-S",
+    "steps": [
+      "Wyłącz pralkę, wyjmij wtyczkę, zakręć dopływ wody i poczekaj, aż woda ostygnie.",
+      "Otwórz klapkę filtra. Przygotuj płaską miskę — wody może być dużo.",
+      "Wyciągnij wężyk, skieruj go do miski i wyjmij korek. Spuść całą wodę, zatkaj wężyk i schowaj go.",
+      "Odkręć filtr w lewo, usuń zanieczyszczenia i wypłucz filtr pod bieżącą wodą.",
+      "Oczyść i sprawdź uszczelkę. Dokładnie dokręć filtr i zamknij klapkę."
+    ],
+    "clips": [
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 32,
+        "box": [
+          14,
+          164.8,
+          395,
+          491
+        ],
+        "caption": "Filtr pompy: ostudzenie i spuszczenie wody, wyjęcie filtra — s. 32."
+      },
+      {
+        "source": "candy-bp-49sbl8-s.pdf",
+        "page": 33,
+        "box": [
+          27,
+          48,
+          404,
+          224
+        ],
+        "caption": "Płukanie, dokręcenie i kontrola uszczelki — s. 33."
+      }
+    ],
+    "safety": [
+      "Gorąca woda grozi oparzeniem. Źle dokręcony filtr lub uszkodzona uszczelka mogą spowodować wyciek."
+    ]
+  },
+  {
+    "id": "l19",
+    "device": "Candy BPS 8N2BX-S",
+    "steps": [
+      "Po zakończeniu cyklu wyłącz suszarkę i wyjmij wtyczkę z gniazdka.",
+      "Wyjmij i otwórz filtr przy otworze bębna. Usuń kłaczki z filtra oraz jego wnęki.",
+      "Zamknij filtr i włóż go z powrotem."
+    ],
+    "clips": [
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          12,
+          53,
+          255.6,
+          265
+        ],
+        "caption": "Filtr kłaczków: wyjęcie, otwarcie i oczyszczenie — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          258,
+          54,
+          402,
+          289
+        ],
+        "caption": "Filtr kłaczków: rysunki 10-1–10-4 — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          12,
+          524,
+          407,
+          575
+        ],
+        "caption": "Po płukaniu filtry muszą całkowicie wyschnąć — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          13,
+          103,
+          258,
+          243
+        ],
+        "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          258.2,
+          129,
+          402,
+          273
+        ],
+        "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22."
+      }
+    ],
+    "safety": [
+      "Mocno zabrudzony filtr można wypłukać. Przed ponownym użyciem musi całkowicie wyschnąć."
+    ]
+  },
+  {
+    "id": "l20",
+    "device": "Candy BPS 8N2BX-S",
+    "steps": [
+      "Po zakończeniu cyklu wyłącz suszarkę i wyjmij wtyczkę z gniazdka.",
+      "Otwórz drzwi i wyjmij filtr kłaczków. Spod niego wyjmij filtr skraplacza.",
+      "Oddziel gąbkę od filtra skraplacza. Oczyść gąbkę i filtr z pozostałości.",
+      "Załóż gąbkę na filtr skraplacza, zamontuj go w kanale i włóż filtr kłaczków."
+    ],
+    "clips": [
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          12,
+          273,
+          255.6,
+          510
+        ],
+        "caption": "Filtr skraplacza z gąbką: wyjęcie i oczyszczenie — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          258,
+          290.5,
+          402,
+          524.5
+        ],
+        "caption": "Filtr skraplacza z gąbką: rysunki 10-5–10-8 — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 55,
+        "box": [
+          12,
+          524,
+          407,
+          575
+        ],
+        "caption": "Po płukaniu filtry muszą całkowicie wyschnąć — s. 23."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          13,
+          103,
+          258,
+          243
+        ],
+        "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          258.2,
+          129,
+          402,
+          273
+        ],
+        "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22."
+      }
+    ],
+    "safety": [
+      "Mocno zabrudzony filtr można wypłukać. Przed ponownym użyciem wszystkie części muszą całkowicie wyschnąć."
+    ]
+  },
+  {
+    "id": "l21",
+    "device": "Candy BPS 8N2BX-S",
+    "steps": [
+      "Po zakończeniu cyklu wyłącz suszarkę i wyjmij wtyczkę z gniazdka.",
+      "Wysuń zbiornik u góry po lewej. Podtrzymuj go obiema rękami.",
+      "Wylej wodę i wsuń zbiornik z powrotem do końca."
+    ],
+    "clips": [
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 56,
+        "box": [
+          12,
+          54,
+          407,
+          352
+        ],
+        "caption": "Opróżnianie zbiornika po każdym suszeniu — s. 24."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          13,
+          103,
+          258,
+          243
+        ],
+        "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22."
+      },
+      {
+        "source": "candy-bps-8n2bx-s.pdf",
+        "page": 54,
+        "box": [
+          258.2,
+          129,
+          402,
+          273
+        ],
+        "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22."
+      }
+    ],
+    "safety": [
+      "Woda ze zbiornika nie nadaje się do picia ani przygotowywania żywności."
+    ]
+  },
+  {
+    "id": "k10",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Wstaw naczynia do zmywarki.",
+      "Wybierz Eco 50°C albo Auto 45–65°C i uruchom zmywanie."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 29,
+        "box": [
+          25,
+          112,
+          399,
+          137.2
+        ],
+        "caption": "Nagłówki tabeli programów — s. 29."
+      },
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 29,
+        "box": [
+          25,
+          213.5,
+          399,
+          426.7
+        ],
+        "caption": "Programy Auto 45–65°C i Eco 50°C — s. 29."
+      }
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Opróżnij zmywarkę. Usuń luźne resztki wilgotną ściereczką i [wyczyść filtr (k17)](k17.md).",
+      "Zastosuj środek do czyszczenia zmywarek zgodnie z jego etykietą.",
+      "Uruchom Machine Care / Czyszczenie zmywarki 70°C bez naczyń."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 40,
+        "box": [
+          24,
+          40,
+          205,
+          529
+        ],
+        "caption": "Czyszczenie zmywarki: pusty wsad i specjalny środek — s. 40."
+      },
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 30,
+        "box": [
+          28,
+          432.2,
+          402,
+          475.5
+        ],
+        "caption": "Program Czyszczenie zmywarki 70°C — s. 30."
+      }
+    ],
+    "safety": [
+      "Nie dodawaj zwykłego detergentu do mycia naczyń."
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Gdy świeci kontrolka nabłyszczacza, otwórz pokrywę zbiornika po wewnętrznej stronie drzwi: naciśnij zatrzask i podnieś pokrywę.",
+      "Wlej nabłyszczacz do zmywarek do oznaczenia MAX.",
+      "Zamknij pokrywę do zatrzaśnięcia i wytrzyj rozlany płyn, żeby nie tworzyła się piana."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 17,
+        "box": [
+          212,
+          40,
+          394,
+          450
+        ],
+        "caption": "Uzupełnianie nabłyszczacza do MAX i wycieranie rozlanego płynu — s. 17."
+      }
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Gdy świeci kontrolka soli, odkręć zakrętkę zbiornika na dnie zmywarki.",
+      "Wsyp specjalną sól do zmywarek, jak na rysunku, i zamknij zbiornik. Wodę dolewa się tylko przy pierwszym uruchomieniu urządzenia.",
+      "Od razu uruchom zmywanie, aby wypłukać rozlany roztwór soli i zapobiec korozji."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 16,
+        "box": [
+          215,
+          40,
+          397,
+          465
+        ],
+        "caption": "Sól: uzupełnianie bezpośrednio przed zmywaniem — s. 16."
+      }
+    ],
+    "safety": [
+      "Do zbiornika soli nie wsypuj detergentu, soli kuchennej ani soli w tabletkach."
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Wyłącz i odłącz zmywarkę od zasilania przed demontażem części.",
+      "Po zmywaniu sprawdź, czy filtry są zabrudzone.",
+      "Jeśli wymagają mycia, odkręć filtr cylindryczny i wyjmij cały układ filtrujący zgodnie z rysunkiem.",
+      "Usuń resztki, rozłóż filtry i wypłucz je pod bieżącą wodą.",
+      "Złóż i zamontuj filtry. Po zamknięciu strzałki muszą być naprzeciw siebie."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 41,
+        "box": [
+          21,
+          40,
+          203,
+          423
+        ],
+        "caption": "Wyjęcie, płukanie i prawidłowe zamknięcie filtrów — s. 41."
+      }
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "device": "Siemens SR656D00TE",
+    "steps": [
+      "Wyłącz i odłącz zmywarkę od zasilania przed demontażem części.",
+      "Sprawdź, czy dysze ramion nie są zatkane.",
+      "Jeśli wymagają czyszczenia, górne ramię odkręć o ¼ obrotu; dolne wyciągnij do góry.",
+      "Wypłucz ramiona i dysze pod bieżącą wodą.",
+      "Zamontuj ramiona z powrotem: dolne zatrzaśnij, górne przykręć."
+    ],
+    "clips": [
+      {
+        "source": "siemens-sr656d00te.pdf",
+        "page": 41,
+        "box": [
+          212,
+          40,
+          398,
+          521
+        ],
+        "caption": "Demontaż, płukanie i ponowny montaż ramion spryskujących — s. 41."
+      }
+    ],
+    "sources": [
+      {
+        "path": "README.md#siemens",
+        "title": "Wersje instrukcji i pełny E-Nr"
+      }
+    ]
+  }
+]

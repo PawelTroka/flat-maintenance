@@ -1,0 +1,771 @@
+[
+  {
+    "id": "t6a",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Przed ręcznym czyszczeniem wyłącz urządzenie i odłącz je od prądu."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 48,
+        "box": [
+          50,
+          60,
+          544,
+          380
+        ],
+        "caption": "Panel tylny: odkurzanie i mycie tylko przy silnym zabrudzeniu."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 48,
+        "box": [
+          50,
+          407,
+          544,
+          720
+        ],
+        "caption": "Czujniki i ich wyjmowany filtr."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 47,
+        "box": [
+          50,
+          637,
+          544,
+          803
+        ],
+        "caption": "Obudowa: sucha, miękka ściereczka."
+      }
+    ],
+    "notes": [
+      "Jeśli świeci komunikat Maintenance, po zakończeniu wszystkich czynności konserwacyjnych [skasuj przypomnienie](sharp-reset.md)."
+    ]
+  },
+  {
+    "id": "t6b",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Przed ręcznym czyszczeniem wyłącz urządzenie i odłącz je od prądu.",
+      "Nie używaj wody. Nie wystawiaj filtra na bezpośrednie słońce. Nie czyść strony bez etykiety."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 50,
+        "box": [
+          50,
+          380,
+          544,
+          430
+        ],
+        "caption": "Zakaz mycia wodą i suszenia w słońcu."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 50,
+        "box": [
+          50,
+          450,
+          544,
+          540
+        ],
+        "caption": "Filtr HEPA: wyłącznie strona z etykietą."
+      }
+    ],
+    "notes": [
+      "Jeśli świeci komunikat Maintenance, po zakończeniu wszystkich czynności konserwacyjnych [skasuj przypomnienie](sharp-reset.md)."
+    ]
+  },
+  {
+    "id": "t6c",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Przed ręcznym czyszczeniem wyłącz urządzenie i odłącz je od prądu.",
+      "Nie używaj wody. Nie wystawiaj filtra na bezpośrednie słońce."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 50,
+        "box": [
+          50,
+          380,
+          544,
+          430
+        ],
+        "caption": "Zakaz mycia wodą i suszenia w słońcu."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 50,
+        "box": [
+          50,
+          544,
+          544,
+          650
+        ],
+        "caption": "Filtr pochłaniający zapachy: można odkurzać obie strony."
+      }
+    ],
+    "notes": [
+      "Jeśli świeci komunikat Maintenance, po zakończeniu wszystkich czynności konserwacyjnych [skasuj przypomnienie](sharp-reset.md)."
+    ]
+  },
+  {
+    "id": "t6d",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Przed napełnianiem zbiornika i ręcznym czyszczeniem wyłącz urządzenie i odłącz je od prądu.",
+      "Nie używaj wody o temperaturze 40°C lub wyższej ani dodatków zapachowych."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 32,
+        "box": [
+          50,
+          201,
+          295,
+          475
+        ],
+        "caption": "Codzienna wymiana wody, wilgotność otoczenia i opróżnianie przy nieużywanym nawilżaniu."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 32,
+        "box": [
+          300,
+          421,
+          544,
+          533
+        ],
+        "caption": "Do nawilżania tylko świeża kranówka; bez gorącej wody i dodatków."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 47,
+        "box": [
+          50,
+          378,
+          408,
+          495
+        ],
+        "caption": "Płukanie wnętrza zbiornika."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 47,
+        "box": [
+          50,
+          496,
+          544,
+          634
+        ],
+        "caption": "Usuwanie trudniejszych zabrudzeń zbiornika i korka."
+      }
+    ],
+    "steps": [
+      "Wyłącz i odłącz oczyszczacz. Wylej pozostałą wodę i wypłucz wnętrze zbiornika wodą.",
+      "Napełnij zbiornik świeżą kranówką i zamontuj go ponownie.",
+      "Gdy nie używasz nawilżania, opróżnij i wyczyść zbiornik oraz tackę."
+    ]
+  },
+  {
+    "id": "t6e",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Przed ręcznym czyszczeniem wyłącz urządzenie i odłącz je od prądu.",
+      "Nie demontuj pływaka w tacce. Łagodny płyn do mycia naczyń z tabeli dotyczy wyłącznie tacki."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 49,
+        "box": [
+          50,
+          68,
+          544,
+          543
+        ],
+        "caption": "Miesięczne płukanie: wyjmowanie, płukanie i ponowny montaż filtra oraz tacki."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 49,
+        "box": [
+          50,
+          546,
+          544,
+          798
+        ],
+        "caption": "Tylko przy silnych zabrudzeniach: sposoby namaczania i dokładne płukanie."
+      }
+    ],
+    "notes": [
+      "Jeśli świeci komunikat Maintenance, po zakończeniu wszystkich czynności konserwacyjnych [skasuj przypomnienie](sharp-reset.md)."
+    ]
+  },
+  {
+    "id": "t6f",
+    "device": "Sharp KI-TX100EU-W",
+    "safety": [
+      "Do tego programu używaj wyłącznie kwasku cytrynowego; nie detergentu ani alkoholu.",
+      "Także po przerwaniu programu trzeba wypłukać zbiornik, tackę i filtr."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 39,
+        "box": [
+          50,
+          69,
+          544,
+          800
+        ],
+        "caption": "Pełny program czyszczenia filtra nawilżającego: przyciski, kwasek, zakończenie i płukanie."
+      }
+    ],
+    "steps": [
+      "Naciśnij przycisk czyszczenia filtra nawilżającego, aby zatrzymać pracę i rozpocząć przygotowanie.",
+      "Opróżnij tackę i wsyp do niej 1 łyżeczkę kwasku cytrynowego. Zbiornik napełnij wodą ponad połowę.",
+      "Zamontuj z powrotem filtr, tackę i zbiornik. Naciśnij przycisk czyszczenia filtra nawilżającego; program trwa około 6 godzin.",
+      "Po zakończeniu naciśnij AUTO. Wylej wodę ze zbiornika i tacki; ostrożnie wypłucz zbiornik, tackę i filtr.",
+      "Zamontuj części z powrotem i naciśnij przycisk zasilania, aby zakończyć."
+    ]
+  },
+  {
+    "id": "t6g",
+    "device": "Sharp KI-TX100EU-W",
+    "steps": [
+      "Wyłącz i odłącz oczyszczacz. Zdejmij osłonę modułu.",
+      "Wyjmij uchwyt według ilustracji KI-TX100EU.",
+      "Dołączoną szczoteczką usuń kurz z elektrod oraz wokół ich podstaw.",
+      "Wsuń uchwyt i załóż osłonę."
+    ],
+    "safety": [
+      "Nie dotykaj elektrod ani gniazda podłączeniowego. Nie używaj innych przyborów niż dołączona szczoteczka."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 51,
+        "box": [
+          50,
+          68,
+          544,
+          774
+        ],
+        "caption": "Co 6 miesięcy: wyjęcie uchwytu, czyszczenie elektrod i montaż; ostrzeżenia poniżej."
+      }
+    ],
+    "notes": [
+      "Jeśli świeci komunikat Maintenance, po zakończeniu wszystkich czynności konserwacyjnych [skasuj przypomnienie](sharp-reset.md)."
+    ]
+  },
+  {
+    "id": "t6h",
+    "device": "Sharp KI-TX100EU-W",
+    "steps": [
+      "Zgłoś utrzymujący się zapach lub brud mimo czyszczenia filtrów.",
+      "Zgłoś powiadomienie aplikacji o wymianie części albo komunikat UNIT."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 50,
+        "box": [
+          53,
+          662,
+          543,
+          759
+        ],
+        "caption": "Wymiana filtra, gdy zapach lub kurz pozostaje po czyszczeniu."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 52,
+        "box": [
+          51,
+          84,
+          544,
+          177
+        ],
+        "caption": "Trwałość filtrów zależy od warunków pracy."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 52,
+        "box": [
+          60,
+          552,
+          530,
+          576
+        ],
+        "caption": "Aplikacja informuje o potrzebie wymiany części."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 53,
+        "box": [
+          50,
+          84,
+          544,
+          210
+        ],
+        "caption": "Moduł jonizatora: komunikat UNIT i wskazania aplikacji."
+      }
+    ]
+  },
+  {
+    "id": "sharp-reset",
+    "device": "Sharp KI-TX100EU-W",
+    "title": "Skasuj komunikat Maintenance po konserwacji",
+    "steps": [
+      "Po wykonaniu wszystkich czynności konserwacyjnych podłącz oczyszczacz i włącz go.",
+      "Przytrzymaj HUMIDIFY ON/OFF przez 3 sekundy, aby wyłączyć komunikat Maintenance."
+    ],
+    "clips": [
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 47,
+        "box": [
+          50,
+          306,
+          404,
+          374
+        ],
+        "caption": "Reset przypomnienia dopiero po zakończeniu konserwacji."
+      },
+      {
+        "source": "sharp-ki-tx100eu.pdf",
+        "page": 47,
+        "box": [
+          407,
+          295,
+          540,
+          394
+        ],
+        "caption": "Przycisk HUMIDIFY ON/OFF: przytrzymaj przez 3 sekundy."
+      }
+    ],
+    "when": "Po zakończeniu wszystkich czynności konserwacyjnych"
+  },
+  {
+    "id": "t3",
+    "device": "Vestfrost VP-H2I40WH",
+    "safety": [
+      "Przed zdjęciem i ponownym założeniem zbiornika odłącz urządzenie od prądu.",
+      "Nie nalewaj wody do podstawy; styki zasilania muszą być suche przed włączeniem.",
+      "Nie dodawaj olejków do wody."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          249,
+          418,
+          263
+        ],
+        "caption": "Codzienna wymiana wody."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 4,
+        "box": [
+          62,
+          124,
+          421,
+          433
+        ],
+        "caption": "Napełnianie zbiornika i prawidłowe osadzenie na podstawie."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 4,
+        "box": [
+          62,
+          441,
+          421,
+          591
+        ],
+        "caption": "Zasady bezpiecznego napełniania: odłączone zasilanie, temperatura wody i ochrona podstawy."
+      }
+    ]
+  },
+  {
+    "id": "t4",
+    "device": "Vestfrost VP-H2I40WH",
+    "safety": [
+      "Odłącz urządzenie przed czyszczeniem.",
+      "Olejek dodawaj wyłącznie na wkład zapachowy; nigdy do zbiornika z wodą ani na inne elementy urządzenia."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 9,
+        "box": [
+          62,
+          296,
+          418,
+          591
+        ],
+        "caption": "Dodawanie 8–10 kropli olejku wyłącznie na wkład zapachowy; położenie wkładu i uwagi."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 15,
+        "box": [
+          150.54,
+          488.19,
+          412,
+          533.55
+        ],
+        "caption": "Zanieczyszczony wkład zapachowy: wypłucz w czystej wodzie i pozostaw do wyschnięcia."
+      }
+    ]
+  },
+  {
+    "id": "t5a",
+    "device": "Vestfrost VP-H2I40WH",
+    "safety": [
+      "Odłącz wtyczkę przed czyszczeniem.",
+      "Nie zanurzaj urządzenia i nie zalewaj podstawy.",
+      "Nie używaj środków żrących, powodujących korozję ani łatwopalnych."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          209,
+          418,
+          248
+        ],
+        "caption": "Sucha ściereczka i cotygodniowe czyszczenie obudowy oraz zbiornika."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          288,
+          418,
+          328
+        ],
+        "caption": "Zakaz zanurzania urządzenia oraz stosowania żrących, korozyjnych i łatwopalnych środków."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          449,
+          418,
+          497
+        ],
+        "caption": "Zdejmij zbiornik, wypłucz go i osusz czystą ściereczką."
+      }
+    ]
+  },
+  {
+    "id": "t5b",
+    "device": "Vestfrost VP-H2I40WH",
+    "steps": [
+      "Odłącz urządzenie i wyjmij filtr nawilżający pionowo w górę z mocowania.",
+      "Wypłucz filtr pod bieżącą wodą.",
+      "Włóż filtr z powrotem: wyrównaj otwór wlotowy wody z wylotem pompy i dociśnij."
+    ],
+    "safety": [
+      "Odłącz wtyczkę przed wyjęciem filtra."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          209,
+          418,
+          248
+        ],
+        "caption": "Filtry płucz raz w miesiącu."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 11,
+        "box": [
+          62,
+          99,
+          418,
+          297
+        ],
+        "caption": "Płukanie filtra nawilżającego pod bieżącą wodą; uwaga o oryginalnym filtrze."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 9,
+        "box": [
+          62,
+          99,
+          418,
+          275
+        ],
+        "caption": "Wyjmowanie filtra pionowo i dopasowanie wlotu filtra do wylotu pompy podczas montażu."
+      }
+    ]
+  },
+  {
+    "id": "t5c",
+    "device": "Vestfrost VP-H2I40WH",
+    "steps": [
+      "Odłącz urządzenie; zdejmij zbiornik z podstawy.",
+      "Odwróć samą podstawę i otwórz pokrywę dolnego filtra.",
+      "Wyjmij wkład i wypłucz 2–3 razy w czystej wodzie.",
+      "Osusz wkład i zamontuj go ponownie w podstawie."
+    ],
+    "safety": [
+      "Odłącz wtyczkę przed konserwacją.",
+      "Nie odwracaj urządzenia ze zbiornikiem wody."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 11,
+        "box": [
+          62,
+          307,
+          418,
+          590
+        ],
+        "caption": "Otwieranie podstawy, wyjęcie filtra przeciwkurzowego, 2–3 płukania i montaż po osuszeniu."
+      }
+    ]
+  },
+  {
+    "id": "t5d",
+    "device": "Vestfrost VP-H2I40WH",
+    "safety": [
+      "Wyjmij moduł uzdatniania wody przed dodaniem roztworu.",
+      "Odłącz zasilanie przed demontażem oraz przed opróżnieniem i płukaniem zbiornika.",
+      "Nie zanurzaj urządzenia."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 12,
+        "box": [
+          62,
+          169,
+          418,
+          346
+        ],
+        "caption": "Zdjęcie osłony i demontaż modułu uzdatniania przed odkamienianiem."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          288,
+          418,
+          437
+        ],
+        "caption": "Pełna procedura odkamieniania przewodów i zbiornika oraz ostrzeżenia dotyczące czyszczenia."
+      }
+    ],
+    "steps": [
+      "Wyłącz i odłącz urządzenie. Zdejmij pokrywę i wyjmij moduł uzdatniania wody.",
+      "Dodaj do zbiornika kwasek cytrynowy i wodę w proporcjach podanych na opakowaniu kwasku.",
+      "Złóż urządzenie bez modułu uzdatniania. Podłącz i uruchom z maksymalnym nawiewem na 10 minut.",
+      "Wyłącz i odłącz urządzenie. Pozostaw roztwór na 30 minut.",
+      "Wylej roztwór i wypłucz zbiornik czystą wodą.",
+      "Zamontuj moduł uzdatniania we właściwym kierunku i załóż pokrywę."
+    ]
+  },
+  {
+    "id": "t5e",
+    "device": "Vestfrost VP-H2I40WH",
+    "steps": [
+      "Odłącz urządzenie; unieś zużyty filtr pionowo i zdejmij go z mocowania.",
+      "Włóż nowy oryginalny filtr. Wyrównaj otwór wlotowy filtra z wylotem wody z pompy i dociśnij."
+    ],
+    "safety": [
+      "Odłącz wtyczkę przed wymianą filtra."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 9,
+        "box": [
+          62,
+          99,
+          418,
+          275
+        ],
+        "caption": "Wyjmowanie zużytego filtra i montaż nowego z wyrównaniem otworów wody."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 11,
+        "box": [
+          62,
+          240,
+          418,
+          297
+        ],
+        "caption": "Wymiana co 3–6 miesięcy zależnie od jakości wody; wyłącznie oryginalny filtr Vestfrost."
+      }
+    ]
+  },
+  {
+    "id": "t5f",
+    "device": "Vestfrost VP-H2I40WH",
+    "steps": [
+      "Odłącz urządzenie i zdejmij osłonę wylotu powietrza.",
+      "Wyjmij zużyty moduł ze spodu zbiornika na wodę.",
+      "Załóż nowy oryginalny moduł zgodnie z kierunkiem nacięcia pokazanym na rysunku."
+    ],
+    "safety": [
+      "Odłącz wtyczkę przed wymianą modułu."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 12,
+        "box": [
+          62,
+          99,
+          418,
+          590
+        ],
+        "caption": "Pełna procedura wymiany modułu uzdatniania: demontaż, kierunek nacięcia i termin wymiany."
+      }
+    ]
+  },
+  {
+    "id": "t5g",
+    "device": "Vestfrost VP-H2I40WH",
+    "safety": [
+      "Odłącz wtyczkę przed opróżnianiem i czyszczeniem.",
+      "Nie zanurzaj urządzenia i nie stosuj środków żrących, korozyjnych ani łatwopalnych."
+    ],
+    "clips": [
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          112,
+          418,
+          181
+        ],
+        "caption": "Przed konserwacją odłącz wtyczkę zasilania."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          264,
+          418,
+          328
+        ],
+        "caption": "Przerwa co najmniej tydzień: nie zostawiaj wody; oczyść i osusz zbiornik. Zasady bezpiecznego czyszczenia."
+      },
+      {
+        "source": "vestfrost-vp-h2i40wh.pdf",
+        "page": 10,
+        "box": [
+          62,
+          449,
+          418,
+          497
+        ],
+        "caption": "Zdejmowanie, płukanie i osuszanie zbiornika czystą ściereczką."
+      }
+    ]
+  }
+]

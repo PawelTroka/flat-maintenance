@@ -1,6 +1,6 @@
 # Źródła instrukcji
 
-Sprawdzono 25.09.2026. [Archiwum instrukcji](manuals/README.md) zawiera pełne pliki PDF, polskie skróty poradników, oryginalne adresy i listę braków. Linki w liście sprzątania prowadzą do lokalnych kopii; adresy sklepów służą rozpoznaniu produktów. Numery `#page` oznaczają strony pliku PDF. Jeśli podgląd GitHub nie przechodzi do wskazanej strony, pobierz PDF i otwórz go lokalnie.
+Sprawdzono 25.09.2026. Linki „Instrukcja” przy zadaniach prowadzą do [krótkich kart z potrzebnymi krokami i rysunkami](instrukcje/README.md). Fragmenty pochodzą z lokalnych PDF-ów; ich strony i granice zapisuje [manifest wycinków](instrukcje/manifest.json). [Archiwum instrukcji](manuals/README.md) zachowuje pełne pliki PDF, polskie skróty poradników, oryginalne adresy i listę braków. Adresy sklepów służą rozpoznaniu produktów. Numery `#page` w poniższych źródłach oznaczają strony pliku PDF.
 
 - **Sharp KI-TX100EU:** panel i czujniki — PDF 48; obudowa i reset — PDF 47. Odkamienianie — PDF 39: 1 łyżeczka kwasku do pustej tacki, zbiornik ponad połowę, następnie program i płukanie. Comiesięczne sprawdzenie HEPA i filtra zapachowego to praktyczny odstęp kontrolny; instrukcja nakazuje usuwać kurz, bez konkretnego terminu.
 - **Withings Body Scan:** pełna instrukcja EU zaleca czyszczenie szklanej płyty i elektrod uchwytu **przed każdym pomiarem** — [PDF 50, polskie strony 98–99](manuals/withings-body-scan-eu.pdf#page=50). Dlatego l12 obejmuje także każdą wizytę. [Polski skrót poradnika](manuals/withings-cleaning.md) zachowuje zakaz detergentów.

@@ -1,0 +1,903 @@
+[
+  {
+    "id": "l11a",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Opróżnij zbiornik",
+    "steps": [
+      "Po użyciu płukanki wlej do zbiornika trochę czystej ciepłej wody. Skieruj końcówkę do umywalki i przepompuj wodę do opróżnienia zbiornika.",
+      "Wyłącz urządzenie, wylej pozostałą ciecz ze zbiornika i odłącz zasilanie."
+    ],
+    "clips": [
+      {
+        "source": "waterpik-wp-660eu.pdf",
+        "page": 7,
+        "box": [
+          111,
+          394,
+          335,
+          447
+        ],
+        "caption": "Po użyciu: wyłącz, opróżnij zbiornik i odłącz zasilanie — instrukcja, s. 7 (EN)."
+      },
+      {
+        "source": "waterpik-wp-660eu.pdf",
+        "page": 9,
+        "box": [
+          111,
+          68,
+          336,
+          133
+        ],
+        "caption": "Płukanie po użyciu płynu do ust — instrukcja, s. 9 (EN)."
+      }
+    ]
+  },
+  {
+    "id": "l11b",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Umyj zbiornik i zawór; przetrzyj obudowę",
+    "steps": [
+      "Wyjmij zbiornik. Jeśli ma czarny zawór, wypchnij go od spodu i delikatnie ugniataj pod ciepłą wodą przez 30–45 sekund.",
+      "Zbiornik umyj ręcznie ciepłą wodą z płynem albo w górnym koszu zmywarki, bez suszenia grzałką. Pozostaw do wyschnięcia.",
+      "Włóż zawór wypukłością do góry. Cztery wypustki powinny być widoczne pod zbiornikiem.",
+      "Obudowę przetrzyj miękką ściereczką z łagodnym, nieściernym środkiem."
+    ],
+    "clips": [],
+    "safety": [
+      "Przed ręcznym czyszczeniem odłącz zasilanie. Nie zanurzaj podstawy urządzenia."
+    ],
+    "sources": [
+      {
+        "path": "waterpik-cleaning.md",
+        "title": "Polski skrót poradnika producenta — źródło kroków"
+      },
+      {
+        "path": "waterpik-wp-660eu.pdf",
+        "title": "Pełna instrukcja urządzenia"
+      }
+    ]
+  },
+  {
+    "id": "l11c",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Umyj rączkę i końcówkę",
+    "steps": [
+      "Odłącz zasilanie i zdejmij końcówkę z rączki.",
+      "Przygotuj mieszaninę 1 części białego octu i 2 części wody. Zanurz rączkę i osobno zdjętą końcówkę na 5 minut.",
+      "Wypłucz rączkę i końcówkę pod ciepłą bieżącą wodą."
+    ],
+    "clips": [],
+    "safety": [
+      "Mocz tylko rączkę i końcówkę, nigdy podstawę urządzenia."
+    ],
+    "sources": [
+      {
+        "path": "waterpik-cleaning.md",
+        "title": "Polski skrót poradnika producenta — źródło kroków"
+      },
+      {
+        "path": "waterpik-wp-660eu.pdf",
+        "title": "Pełna instrukcja urządzenia"
+      }
+    ]
+  },
+  {
+    "id": "l11d",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Odkamień irygator",
+    "steps": [
+      "Do pełnego zbiornika ciepłej wody dodaj 2 łyżki stołowe białego octu.",
+      "Skieruj rączkę z końcówką do umywalki. Włącz urządzenie i przepompuj całą zawartość zbiornika.",
+      "Napełnij zbiornik czystą ciepłą wodą i przepompuj całość do umywalki, aby wypłukać układ. Wyłącz urządzenie."
+    ],
+    "clips": [
+      {
+        "source": "waterpik-wp-660eu.pdf",
+        "page": 9,
+        "box": [
+          111,
+          231,
+          336,
+          321
+        ],
+        "caption": "Odkamienianie: 2 łyżki octu na pełny zbiornik i końcowe płukanie — instrukcja, s. 9 (EN)."
+      }
+    ]
+  },
+  {
+    "id": "l11e",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Wymień końcówki specjalistyczne",
+    "steps": [
+      "Co 3 miesiące wymień używane końcówki: A — Orthodontic, B — Pik Pocket, C — Plaque Seeker, D — końcówka-szczoteczka.",
+      "Dopasuj rodzaj końcówki do rysunku A–D w legendzie poniżej."
+    ],
+    "clips": [
+      {
+        "source": "waterpik-wp-660eu.pdf",
+        "page": 5,
+        "box": [
+          24,
+          343,
+          308,
+          473
+        ],
+        "caption": "Rozpoznaj końcówkę po literze A–F. Gwiazdka: wymiana co 3 miesiące; dwie gwiazdki: co 6 miesięcy — instrukcja, s. 5 (EN)."
+      }
+    ]
+  },
+  {
+    "id": "l11f",
+    "device": "Waterpik WP-660 Ultra Professional",
+    "title": "Wymień końcówki standardowe",
+    "steps": [
+      "Co 6 miesięcy wymień używane końcówki: E — Classic Jet i F — końcówka do języka.",
+      "Dopasuj rodzaj końcówki do rysunku E lub F w legendzie poniżej."
+    ],
+    "clips": [
+      {
+        "source": "waterpik-wp-660eu.pdf",
+        "page": 5,
+        "box": [
+          24,
+          343,
+          308,
+          473
+        ],
+        "caption": "Rozpoznaj końcówkę po literze A–F. Gwiazdka: wymiana co 3 miesiące; dwie gwiazdki: co 6 miesięcy — instrukcja, s. 5 (EN)."
+      }
+    ]
+  },
+  {
+    "id": "t1a",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Uzupełnij czystą wodę",
+    "steps": [
+      "Otwórz zbiornik czystej wody (A10-11 na rysunku) i napełnij go wodą.",
+      "Zamknij pokrywę, zablokuj zatrzask, wytrzyj pozostałe ślady wody i włóż zbiornik na miejsce."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 65,
+        "box": [
+          184,
+          34,
+          331,
+          129
+        ],
+        "caption": "Napełnianie zbiornika czystej wody wraz z uwagami — instrukcja PL, s. 65."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 1,
+        "box": [
+          35,
+          322,
+          192,
+          500
+        ],
+        "caption": "Stacja A10: zbiornik czystej wody to A10-11, brudnej wody A10-3 — rysunki, s. 1."
+      }
+    ],
+    "safety": [
+      "Nie używaj gorącej wody. Ewentualny środek do podłóg wyłącznie marki Roborock, zgodnie z jego etykietą."
+    ]
+  },
+  {
+    "id": "t1b",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Opróżnij i wypłucz zbiornik brudnej wody",
+    "steps": [
+      "Otwórz pokrywę zbiornika brudnej wody i wylej jego zawartość.",
+      "Nalej czystej wody, zamknij pokrywę i wstrząśnij zbiornikiem. Wylej wodę po płukaniu.",
+      "Zamknij pokrywę i włóż zbiornik z powrotem do stacji."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          338,
+          95,
+          486,
+          179
+        ],
+        "caption": "C11: zbiornik brudnej wody — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          28,
+          33,
+          135,
+          125
+        ],
+        "caption": "C11: opróżnienie zbiornika brudnej wody — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  },
+  {
+    "id": "t2a",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść szczotki główne",
+    "steps": [
+      "Odwróć robota, wciśnij zatrzaski i zdejmij pokrywę szczotek. Wyjmij obie szczotki, łożyska i nasadki.",
+      "Usuń włosy i zabrudzenia z obu końców. Szczotki przetrzyj wilgotną ściereczką i pozostaw do wyschnięcia poza bezpośrednim słońcem.",
+      "Zamontuj nasadki, łożyska i szczotki. Dociśnij pokrywę do kliknięcia."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          184,
+          52,
+          330,
+          259
+        ],
+        "caption": "C1: szczotki główne — demontaż, czyszczenie i terminy — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          142,
+          137,
+          357,
+          267
+        ],
+        "caption": "C1: położenie szczotek, łożysk i nasadek; otwarcie pokrywy — rysunki, s. 2."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          20,
+          278,
+          351,
+          384
+        ],
+        "caption": "C1-7–C1-10: wyjęcie łożysk i nasadek, usunięcie włosów, zamknięcie pokrywy — rysunki, s. 2."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Nie używaj żrących detergentów ani środków dezynfekcyjnych."
+    ]
+  },
+  {
+    "id": "t2b",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wypłucz filtr robota",
+    "steps": [
+      "Otwórz pokrywę filtra i wyjmij filtr.",
+      "Kilkakrotnie wypłucz filtr i delikatnie w niego postukaj, aby usunąć zanieczyszczenia.",
+      "Susz filtr przez 24 godziny. Zamontuj dopiero po całkowitym wyschnięciu."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          30,
+          171,
+          178,
+          273
+        ],
+        "caption": "C6: filtr zmywalny; suszenie przez 24 godziny — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          97,
+          117,
+          355,
+          203
+        ],
+        "caption": "C6-1–C6-2: wyjęcie i płukanie filtra — rysunki, s. 3."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          18,
+          216,
+          103,
+          298
+        ],
+        "caption": "C6-3: suszenie filtra przez 24 godziny — rysunki, s. 3."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Nie dotykaj powierzchni filtra rękami, szczotką ani twardymi przedmiotami."
+    ]
+  },
+  {
+    "id": "t2c",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść szczotkę boczną",
+    "steps": [
+      "Odkręć śrubę i wyjmij szczotkę boczną.",
+      "Usuń zabrudzenia, włóż szczotkę na miejsce i dokręć śrubę."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          338,
+          18,
+          484,
+          69
+        ],
+        "caption": "C2: szczotka boczna — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          16,
+          393,
+          111,
+          500
+        ],
+        "caption": "C2: odkręcenie szczotki bocznej — rysunki, s. 2."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  },
+  {
+    "id": "t2d",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Przetrzyj kółka główne",
+    "steps": [
+      "Przetrzyj kółka główne miękką, suchą ściereczką."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          338,
+          157,
+          484,
+          200
+        ],
+        "caption": "C4: kółka główne — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          260,
+          409,
+          354,
+          500
+        ],
+        "caption": "C4: przetarcie kółka głównego — rysunki, s. 2."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  },
+  {
+    "id": "t2e",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść małe kółko obrotowe",
+    "steps": [
+      "Podważ oś małym śrubokrętem i wyjmij kółko.",
+      "Wypłucz kółko i oś wodą, usuwając włosy i brud.",
+      "Dokładnie wysusz; wciśnij kółko z powrotem na miejsce."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          338,
+          71,
+          484,
+          155
+        ],
+        "caption": "C3: małe kółko obrotowe; wspornika nie zdejmuj — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          115,
+          388,
+          253,
+          500
+        ],
+        "caption": "C3: wyjęcie, płukanie i ponowne osadzenie małego kółka — rysunki, s. 2."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Nie demontuj wspornika kółka."
+    ]
+  },
+  {
+    "id": "t2f",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Opróżnij i umyj pojemnik na kurz",
+    "steps": [
+      "Otwórz górną pokrywę robota; wciśnij zatrzask i wyjmij pojemnik.",
+      "Otwórz pokrywę pojemnika, wyjmij zmywalny filtr i opróżnij pojemnik.",
+      "Napełnij pojemnik czystą wodą, zamknij, delikatnie potrząśnij i wylej brudną wodę.",
+      "Pozostaw pojemnik i filtr do wyschnięcia. Jeżeli płuczesz filtr, susz go przez 24 godziny — zobacz zadanie t2b."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          30,
+          18,
+          178,
+          171
+        ],
+        "caption": "C5: pojemnik na kurz — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          16,
+          8,
+          353,
+          106
+        ],
+        "caption": "C5-1–C5-3: wyjęcie i opróżnienie pojemnika, wyjęcie filtra, płukanie — rysunki, s. 3."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          18,
+          117,
+          99,
+          206
+        ],
+        "caption": "C5-4: pozostawienie pojemnika do wyschnięcia — rysunki, s. 3."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Do pojemnika używaj tylko czystej wody, bez płynu do mycia."
+    ]
+  },
+  {
+    "id": "t2g",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść ściereczkę mopa",
+    "steps": [
+      "Zdejmij samą ściereczkę z mocowania VibraRise.",
+      "Wyczyść ściereczkę i pozostaw do wyschnięcia na powietrzu. Przed użyciem upewnij się, że jest czysta."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          184,
+          18,
+          334,
+          90
+        ],
+        "caption": "C7: ściereczka mopa — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          106,
+          212,
+          354,
+          296
+        ],
+        "caption": "C7: zdejmij samą ściereczkę mopa — rysunki, s. 3."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Mocowanie mopa pozostaje na robocie; zdejmij tylko ściereczkę."
+    ]
+  },
+  {
+    "id": "t2h",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Przetrzyj czujniki i styki ładowania",
+    "steps": [
+      "Miękką, suchą ściereczką przetrzyj czujnik ściany, omijania przeszkód Reactive 3D, dywanu, krawędzi i mopowania — lokalizacje C8-1–C8-5 poniżej.",
+      "Tą samą metodą przetrzyj styki ładowania robota i stacji (C9)."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          184,
+          95,
+          334,
+          179
+        ],
+        "caption": "C8: czujniki robota — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          184,
+          181,
+          334,
+          223
+        ],
+        "caption": "C9: styki ładowania — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          17,
+          307,
+          183,
+          500
+        ],
+        "caption": "C8: położenie pięciu rodzajów czujników — rysunki, s. 3."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          188,
+          307,
+          352,
+          390
+        ],
+        "caption": "C9: styki ładowania robota i stacji — rysunki, s. 3."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Do czujników i styków używaj wyłącznie miękkiej, suchej ściereczki."
+    ]
+  },
+  {
+    "id": "t2i",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść szczotkę myjącą stacji",
+    "steps": [
+      "Podnieś zatrzask szczotki myjącej i wyjmij szczotkę zgodnie z rysunkiem C12.",
+      "Usuń włosy i inne zabrudzenia; opłucz szczotkę.",
+      "Włóż szczotkę na miejsce i zamknij zatrzask."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          338,
+          180,
+          486,
+          273
+        ],
+        "caption": "C12: szczotka myjąca stacji — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          140,
+          7,
+          260,
+          125
+        ],
+        "caption": "C12: wyjmowanie szczotki myjącej stacji — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  },
+  {
+    "id": "t2j",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wyczyść filtr wody i komorę myjącą",
+    "steps": [
+      "Odblokuj filtr wody i wyjmij go ze stacji. Otwórz zatrzask filtra i przepłucz filtr.",
+      "Komorę po wyjętym filtrze wytrzyj miękką, suchą ściereczką.",
+      "Włóż filtr na miejsce i dociśnij do kliknięcia."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          338,
+          273,
+          486,
+          350
+        ],
+        "caption": "C13: filtr wody w stacji — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          264,
+          7,
+          356,
+          125
+        ],
+        "caption": "C13: wyjmowanie i otwieranie filtra wody — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  },
+  {
+    "id": "t2k",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wymień worek na kurz",
+    "steps": [
+      "Podnieś pojemnik stacji i wyjmij worek pionowo. Pociągnięcie uchwytu zamyka worek.",
+      "Wyrzuć zużyty worek. Filtr wewnątrz komory przetrzyj suchą ściereczką.",
+      "Wsuń nowy worek aż do dna prowadnicy; dopiero potem zamknij pojemnik stacji."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 69,
+        "box": [
+          30,
+          18,
+          178,
+          169
+        ],
+        "caption": "C14: wymiana worka; nie uruchamiaj opróżniania bez worka — instrukcja PL, s. 69."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          16,
+          135,
+          224,
+          241
+        ],
+        "caption": "C14: wyjęcie zużytego worka i wsunięcie nowego — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Nie uruchamiaj automatycznego opróżniania bez worka."
+    ]
+  },
+  {
+    "id": "t2l",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Udrożnij kanał zasysający stacji",
+    "steps": [
+      "Usuń zbiorniki czystej i brudnej wody, pojemnik na kurz oraz filtr wody. Wytrzyj wodę.",
+      "Chwyć boki podstawy, odłącz ją zgodnie z rysunkiem C15-3 i sprawdź wlot powietrza. Usuń blokadę wacikiem; wytrzyj suchą ściereczką.",
+      "Ostrożnie odwróć osuszoną stację na twardej podłodze przykrytej miękkim ręcznikiem.",
+      "Odkręć trzy śruby, zdejmij pokrywę i przetrzyj kanał oraz pokrywę suchą ściereczką.",
+      "Załóż pokrywę, dokręć śruby i ponownie zamontuj wyjęte elementy."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 69,
+        "box": [
+          30,
+          171,
+          178,
+          299
+        ],
+        "caption": "C15: udrażnianie kanału — przygotowanie i kroki 1–3, instrukcja PL, s. 69."
+      },
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 69,
+        "box": [
+          184,
+          20,
+          329,
+          87
+        ],
+        "caption": "C15: udrażnianie kanału — dalsze kroki 4–7, instrukcja PL, s. 69."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          230,
+          143,
+          355,
+          241
+        ],
+        "caption": "C15-1–C15-2: usuń zbiorniki, pojemnik i filtr wody — rysunki, s. 4."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          18,
+          252,
+          353,
+          352
+        ],
+        "caption": "C15-3–C15-4: odłącz podstawę i ostrożnie odwróć osuszoną stację — rysunki, s. 4."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          18,
+          362,
+          352,
+          470
+        ],
+        "caption": "C15-5–C15-7: zdejmij pokrywę, wyczyść kanał i ponownie zamknij — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Stację odwracaj dopiero po wyjęciu zbiorników, pojemnika i filtra oraz usunięciu pozostałej wody."
+    ]
+  },
+  {
+    "id": "t2m",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wymień szczotkę boczną i ściereczkę mopa",
+    "steps": [
+      "Co 3–6 miesięcy wymień szczotkę boczną: odkręć śrubę, zdejmij starą, załóż nową i dokręć.",
+      "W tym samym przedziale wymień ściereczkę mopa: zdejmij samą starą ściereczkę i zamocuj nową."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          338,
+          18,
+          484,
+          69
+        ],
+        "caption": "C2: szczotka boczna — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          184,
+          18,
+          334,
+          90
+        ],
+        "caption": "C7: ściereczka mopa — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          16,
+          393,
+          111,
+          500
+        ],
+        "caption": "C2: odkręcenie szczotki bocznej — rysunki, s. 2."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          106,
+          212,
+          354,
+          296
+        ],
+        "caption": "C7: zdejmij samą ściereczkę mopa — rysunki, s. 3."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu.",
+      "Mocowanie mopa pozostaje na robocie."
+    ]
+  },
+  {
+    "id": "t2n",
+    "device": "Roborock S8 Pro Ultra",
+    "title": "Wymień szczotki główne, filtr robota i szczotkę myjącą stacji",
+    "steps": [
+      "Co 6–12 miesięcy wymień szczotki główne, zmywalny filtr robota i szczotkę myjącą stacji.",
+      "Szczotki główne: otwórz zatrzaski pokrywy, wyjmij zużyte szczotki, zamontuj nowe i zatrzaśnij pokrywę (C1).",
+      "Filtr: otwórz pokrywę pojemnika, wyjmij zużyty filtr i włóż nowy suchy filtr (C6).",
+      "Szczotka stacji: podnieś zatrzask, wyjmij starą szczotkę, włóż nową i zamknij zatrzask (C12)."
+    ],
+    "clips": [
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 67,
+        "box": [
+          184,
+          52,
+          330,
+          259
+        ],
+        "caption": "C1: szczotki główne — demontaż, czyszczenie i terminy — instrukcja PL, s. 67."
+      },
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          30,
+          171,
+          178,
+          273
+        ],
+        "caption": "C6: filtr zmywalny; suszenie przez 24 godziny — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra.pdf",
+        "page": 68,
+        "box": [
+          338,
+          180,
+          486,
+          273
+        ],
+        "caption": "C12: szczotka myjąca stacji — instrukcja PL, s. 68."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 2,
+        "box": [
+          142,
+          137,
+          357,
+          267
+        ],
+        "caption": "C1: położenie szczotek, łożysk i nasadek; otwarcie pokrywy — rysunki, s. 2."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 3,
+        "box": [
+          97,
+          117,
+          355,
+          203
+        ],
+        "caption": "C6-1–C6-2: wyjęcie i płukanie filtra — rysunki, s. 3."
+      },
+      {
+        "source": "roborock-s8-pro-ultra-diagrams.pdf",
+        "page": 4,
+        "box": [
+          140,
+          7,
+          260,
+          125
+        ],
+        "caption": "C12: wyjmowanie szczotki myjącej stacji — rysunki, s. 4."
+      }
+    ],
+    "safety": [
+      "Przed czyszczeniem wyłącz robota i odłącz stację od prądu."
+    ]
+  }
+]

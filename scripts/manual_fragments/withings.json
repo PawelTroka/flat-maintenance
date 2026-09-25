@@ -1,0 +1,24 @@
+[
+  {
+    "id": "l12",
+    "device": "Withings Body Scan Black",
+    "steps": [
+      "Zwilż niestrzępiącą się ściereczkę ciepłą wodą.",
+      "Przetrzyj szklaną płytę wagi i elektrody uchwytu."
+    ],
+    "safety": [
+      "Bez detergentów i środków czyszczących — mogą trwale uszkodzić powłokę. Nie wykonuj pomiaru podczas czyszczenia."
+    ],
+    "clips": [
+      {
+        "source": "withings-body-scan-eu.pdf",
+        "page": 50,
+        "box": [37, 61, 211, 125.2],
+        "caption": "Czyszczenie szklanej płyty i elektrod uchwytu — polska instrukcja, s. 98."
+      }
+    ],
+    "sources": [
+      {"path": "withings-cleaning.md", "title": "Polski skrót poradnika Withings"}
+    ]
+  }
+]

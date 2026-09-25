@@ -6,3 +6,9 @@ docs/images/*.jpg binary
 docs/images/*.png binary
 docs/images/*.webp binary
 docs/images/*.json text eol=lf
+docs/instrukcje/*.md text eol=lf
+docs/instrukcje/*.json text eol=lf
+docs/instrukcje/fragmenty/*.png binary
+scripts/manual_fragments/*.py text eol=lf
+scripts/manual_fragments/*.json text eol=lf
+scripts/manual_fragments/*.md text eol=lf

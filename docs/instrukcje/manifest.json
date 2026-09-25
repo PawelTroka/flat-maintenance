@@ -1,0 +1,2775 @@
+{
+  "coordinate_system": "PDF points, top-left; pages one-based",
+  "source_archive": "docs/manuals/manifest.json",
+  "guides": [
+    {
+      "id": "t6a",
+      "path": "docs/instrukcje/t6a.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 48,
+          "box": [
+            50,
+            60,
+            544,
+            380
+          ],
+          "caption": "Panel tylny: odkurzanie i mycie tylko przy silnym zabrudzeniu.",
+          "image": "fragmenty/sharp-ki-tx100eu-p48-40a552ef4f.png",
+          "pixels": [
+            1099,
+            712
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "5df86088195d0d866d2929b9025f460e599ead2909f70ca4489625e0bf0de8f9"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 48,
+          "box": [
+            50,
+            407,
+            544,
+            720
+          ],
+          "caption": "Czujniki i ich wyjmowany filtr.",
+          "image": "fragmenty/sharp-ki-tx100eu-p48-6633a8d48c.png",
+          "pixels": [
+            1099,
+            696
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "3607e8b661d5b12d843d8543de38b09aa67951861a7d99dac72525302b87f650"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 47,
+          "box": [
+            50,
+            637,
+            544,
+            803
+          ],
+          "caption": "Obudowa: sucha, miękka ściereczka.",
+          "image": "fragmenty/sharp-ki-tx100eu-p47-61a3370f6c.png",
+          "pixels": [
+            1099,
+            369
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "137d806fb9b0785ffe6fd6a925fd3d7d5b5de015bbfe907e25c829eba5471fb9"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6b",
+      "path": "docs/instrukcje/t6b.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 50,
+          "box": [
+            50,
+            380,
+            544,
+            430
+          ],
+          "caption": "Zakaz mycia wodą i suszenia w słońcu.",
+          "image": "fragmenty/sharp-ki-tx100eu-p50-24264e283e.png",
+          "pixels": [
+            1099,
+            110
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "8dab47f034c9441b7a9cd48331782e45d5562d7997f3290423e7dd25b8d70ee8"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 50,
+          "box": [
+            50,
+            450,
+            544,
+            540
+          ],
+          "caption": "Filtr HEPA: wyłącznie strona z etykietą.",
+          "image": "fragmenty/sharp-ki-tx100eu-p50-ccc4d6798a.png",
+          "pixels": [
+            1099,
+            199
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "d915fb5375bd8fc774deaf6793d3688e5f61782c099ea07b5bdc4e11d2d2db0c"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6c",
+      "path": "docs/instrukcje/t6c.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 50,
+          "box": [
+            50,
+            380,
+            544,
+            430
+          ],
+          "caption": "Zakaz mycia wodą i suszenia w słońcu.",
+          "image": "fragmenty/sharp-ki-tx100eu-p50-24264e283e.png",
+          "pixels": [
+            1099,
+            110
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "8dab47f034c9441b7a9cd48331782e45d5562d7997f3290423e7dd25b8d70ee8"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 50,
+          "box": [
+            50,
+            544,
+            544,
+            650
+          ],
+          "caption": "Filtr pochłaniający zapachy: można odkurzać obie strony.",
+          "image": "fragmenty/sharp-ki-tx100eu-p50-610acfcfb4.png",
+          "pixels": [
+            1099,
+            235
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "a85db4608acb847a1c1fb72e4b8ff8daa7a22e5ad0f97c302bfb06a025ac1ec0"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6d",
+      "path": "docs/instrukcje/t6d.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 32,
+          "box": [
+            50,
+            201,
+            295,
+            475
+          ],
+          "caption": "Codzienna wymiana wody, wilgotność otoczenia i opróżnianie przy nieużywanym nawilżaniu.",
+          "image": "fragmenty/sharp-ki-tx100eu-p32-86ea9c5317.png",
+          "pixels": [
+            1099,
+            1229
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "11b3243b80b97d1daa932fe3d4c275eb8bbdaff759b5b3c281b5a493ffbd5f48"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 32,
+          "box": [
+            300,
+            421,
+            544,
+            533
+          ],
+          "caption": "Do nawilżania tylko świeża kranówka; bez gorącej wody i dodatków.",
+          "image": "fragmenty/sharp-ki-tx100eu-p32-b332072a34.png",
+          "pixels": [
+            1099,
+            505
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "0bbbe416c5176dd54b18ff43030c07006ab3c005f5d2b47199b39fd7ff6b6455"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 47,
+          "box": [
+            50,
+            378,
+            408,
+            495
+          ],
+          "caption": "Płukanie wnętrza zbiornika.",
+          "image": "fragmenty/sharp-ki-tx100eu-p47-2d34c67790.png",
+          "pixels": [
+            1100,
+            359
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "b58fd8f08d6738372fe969ed8a00033557bf175527076237f775d0b3c568efe3"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 47,
+          "box": [
+            50,
+            496,
+            544,
+            634
+          ],
+          "caption": "Usuwanie trudniejszych zabrudzeń zbiornika i korka.",
+          "image": "fragmenty/sharp-ki-tx100eu-p47-7a95c39f7e.png",
+          "pixels": [
+            1099,
+            307
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "0f0b3614dfd7fee36efc9fad94071c7b5a2549e44349f939bd840bf9f663e5bf"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6e",
+      "path": "docs/instrukcje/t6e.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 49,
+          "box": [
+            50,
+            68,
+            544,
+            543
+          ],
+          "caption": "Miesięczne płukanie: wyjmowanie, płukanie i ponowny montaż filtra oraz tacki.",
+          "image": "fragmenty/sharp-ki-tx100eu-p49-63457d5e57.png",
+          "pixels": [
+            1099,
+            1057
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "47a95a237ce8c2d00f60af1feb75d5fe854df92fa59bcd277d8757f596deda01"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 49,
+          "box": [
+            50,
+            546,
+            544,
+            798
+          ],
+          "caption": "Tylko przy silnych zabrudzeniach: sposoby namaczania i dokładne płukanie.",
+          "image": "fragmenty/sharp-ki-tx100eu-p49-ff5fee883a.png",
+          "pixels": [
+            1099,
+            561
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "0774e9b87b37b1dffa2e4cddad540c6d7843af84deb82198d57bb6acfb5adb6e"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6f",
+      "path": "docs/instrukcje/t6f.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 39,
+          "box": [
+            50,
+            69,
+            544,
+            800
+          ],
+          "caption": "Pełny program czyszczenia filtra nawilżającego: przyciski, kwasek, zakończenie i płukanie.",
+          "image": "fragmenty/sharp-ki-tx100eu-p39-9a9f7f0c49.png",
+          "pixels": [
+            1099,
+            1627
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "131c45a12d47491e23c1f4786c59477ac868ad3dbe8bfe91c961d2ecafde0cf7"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6g",
+      "path": "docs/instrukcje/t6g.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 51,
+          "box": [
+            50,
+            68,
+            544,
+            774
+          ],
+          "caption": "Co 6 miesięcy: wyjęcie uchwytu, czyszczenie elektrod i montaż; ostrzeżenia poniżej.",
+          "image": "fragmenty/sharp-ki-tx100eu-p51-8b787ef7ad.png",
+          "pixels": [
+            1099,
+            1571
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "1f4e77a56c86eefe265dfeb596ce6740f93fe50dd8658499510fa4e0f3b6f63a"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t6h",
+      "path": "docs/instrukcje/t6h.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 50,
+          "box": [
+            53,
+            662,
+            543,
+            759
+          ],
+          "caption": "Wymiana filtra, gdy zapach lub kurz pozostaje po czyszczeniu.",
+          "image": "fragmenty/sharp-ki-tx100eu-p50-fc3bf9ee07.png",
+          "pixels": [
+            1100,
+            216
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "58b19a3b49de30cd4e173d1f6264d02ef6443aa39bfe33b9c9cb453135d93fe6"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 52,
+          "box": [
+            51,
+            84,
+            544,
+            177
+          ],
+          "caption": "Trwałość filtrów zależy od warunków pracy.",
+          "image": "fragmenty/sharp-ki-tx100eu-p52-15a53e7ade.png",
+          "pixels": [
+            1100,
+            207
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "b561892163117feebf4d38b5db45a2ba3d17064fbf772333b163c178a29c6a2a"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 52,
+          "box": [
+            60,
+            552,
+            530,
+            576
+          ],
+          "caption": "Aplikacja informuje o potrzebie wymiany części.",
+          "image": "fragmenty/sharp-ki-tx100eu-p52-7bb150a5d7.png",
+          "pixels": [
+            1100,
+            56
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "602f047695878d75e5d18e4ed0856c6e72ecbe72271cf949cb9d8705b308274b"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 53,
+          "box": [
+            50,
+            84,
+            544,
+            210
+          ],
+          "caption": "Moduł jonizatora: komunikat UNIT i wskazania aplikacji.",
+          "image": "fragmenty/sharp-ki-tx100eu-p53-c64d96865c.png",
+          "pixels": [
+            1099,
+            279
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "c6437d0d6438bc26ba99f2f1b87fed4aa33e897d2d7a46cdec6b9e4444779ee9"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t3",
+      "path": "docs/instrukcje/t3.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            249,
+            418,
+            263
+          ],
+          "caption": "Codzienna wymiana wody.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-6cae78abb9.png",
+          "pixels": [
+            1099,
+            42
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "8813fb80f00b79cfb6c57fbc2481aabf48a71eef735939c9a1c571f6fd4b9b5c"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 4,
+          "box": [
+            62,
+            124,
+            421,
+            433
+          ],
+          "caption": "Napełnianie zbiornika i prawidłowe osadzenie na podstawie.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p4-b583151f3b.png",
+          "pixels": [
+            1100,
+            946
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "6f427926d2832220d794518497890a9b4221c3b73f2593d264d8aa2537c611aa"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 4,
+          "box": [
+            62,
+            441,
+            421,
+            591
+          ],
+          "caption": "Zasady bezpiecznego napełniania: odłączone zasilanie, temperatura wody i ochrona podstawy.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p4-edf8f372ec.png",
+          "pixels": [
+            1100,
+            459
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "7fa713beacfb38f9e58da843ff63fd76a3059e3da306fe931c14831323bda737"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5a",
+      "path": "docs/instrukcje/t5a.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            209,
+            418,
+            248
+          ],
+          "caption": "Sucha ściereczka i cotygodniowe czyszczenie obudowy oraz zbiornika.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-b611ec8425.png",
+          "pixels": [
+            1099,
+            120
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "1b074dbcc2ba2f3e98d87f63f41fd009d16b5c3d6fdea5f5c1d15e8be85ed08e"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            288,
+            418,
+            328
+          ],
+          "caption": "Zakaz zanurzania urządzenia oraz stosowania żrących, korozyjnych i łatwopalnych środków.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-14b640aaf6.png",
+          "pixels": [
+            1099,
+            123
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "20a62f6d7bec037cffe5f3604e3e1e93cbe77fa9e0ecc4180d812f48f1c8dfc9"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            449,
+            418,
+            497
+          ],
+          "caption": "Zdejmij zbiornik, wypłucz go i osusz czystą ściereczką.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-80cd802fcd.png",
+          "pixels": [
+            1099,
+            148
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "c7484bba789ac5a2ae65c38afa96cb6e475f3844c4f70f23cd206b9d2829a215"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5b",
+      "path": "docs/instrukcje/t5b.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            209,
+            418,
+            248
+          ],
+          "caption": "Filtry płucz raz w miesiącu.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-b611ec8425.png",
+          "pixels": [
+            1099,
+            120
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "1b074dbcc2ba2f3e98d87f63f41fd009d16b5c3d6fdea5f5c1d15e8be85ed08e"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 11,
+          "box": [
+            62,
+            99,
+            418,
+            297
+          ],
+          "caption": "Płukanie filtra nawilżającego pod bieżącą wodą; uwaga o oryginalnym filtrze.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p11-defb4377fc.png",
+          "pixels": [
+            1099,
+            612
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "10ce5349e901c1a832e837c77582d9030fee8a267dfb927eb4cabc5f171da0db"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 9,
+          "box": [
+            62,
+            99,
+            418,
+            275
+          ],
+          "caption": "Wyjmowanie filtra pionowo i dopasowanie wlotu filtra do wylotu pompy podczas montażu.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p9-af6db0cb2f.png",
+          "pixels": [
+            1099,
+            544
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "401e6985a0739f1e02d53d7fab6e22f3e3b3cf30b99a3ea1df4fb9881bb38009"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5c",
+      "path": "docs/instrukcje/t5c.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 11,
+          "box": [
+            62,
+            307,
+            418,
+            590
+          ],
+          "caption": "Otwieranie podstawy, wyjęcie filtra przeciwkurzowego, 2–3 płukania i montaż po osuszeniu.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p11-81cd219def.png",
+          "pixels": [
+            1099,
+            874
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "741f6c145f67808ef9507712006c292cbd6243837d69a367a5f6d3e73747aa02"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5d",
+      "path": "docs/instrukcje/t5d.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 12,
+          "box": [
+            62,
+            169,
+            418,
+            346
+          ],
+          "caption": "Zdjęcie osłony i demontaż modułu uzdatniania przed odkamienianiem.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p12-3014b98c58.png",
+          "pixels": [
+            1099,
+            546
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "0d572dc59031be68ef833d7e0fffd36e21eb4edec4be1c8465486d4869a152a0"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            288,
+            418,
+            437
+          ],
+          "caption": "Pełna procedura odkamieniania przewodów i zbiornika oraz ostrzeżenia dotyczące czyszczenia.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-9b5d446133.png",
+          "pixels": [
+            1099,
+            460
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "e493665e86d9dc91a469a29ade20c3a9481fa0b04e9194fecaf361a085fb4874"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5e",
+      "path": "docs/instrukcje/t5e.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 9,
+          "box": [
+            62,
+            99,
+            418,
+            275
+          ],
+          "caption": "Wyjmowanie zużytego filtra i montaż nowego z wyrównaniem otworów wody.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p9-af6db0cb2f.png",
+          "pixels": [
+            1099,
+            544
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "401e6985a0739f1e02d53d7fab6e22f3e3b3cf30b99a3ea1df4fb9881bb38009"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 11,
+          "box": [
+            62,
+            240,
+            418,
+            297
+          ],
+          "caption": "Wymiana co 3–6 miesięcy zależnie od jakości wody; wyłącznie oryginalny filtr Vestfrost.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p11-346aa33886.png",
+          "pixels": [
+            1099,
+            176
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "42810a4e472f8f3667afe5dc8deef76f89d66753b94c60b4894dabad13fdc669"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5f",
+      "path": "docs/instrukcje/t5f.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 12,
+          "box": [
+            62,
+            99,
+            418,
+            590
+          ],
+          "caption": "Pełna procedura wymiany modułu uzdatniania: demontaż, kierunek nacięcia i termin wymiany.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p12-043b51d866.png",
+          "pixels": [
+            1099,
+            1517
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "c8bd54e5496de79b58b54d221275aed297cafc67df71da8f8b9556c7a6137fb0"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t4",
+      "path": "docs/instrukcje/t4.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 9,
+          "box": [
+            62,
+            296,
+            418,
+            591
+          ],
+          "caption": "Dodawanie 8–10 kropli olejku wyłącznie na wkład zapachowy; położenie wkładu i uwagi.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p9-6136bfba5d.png",
+          "pixels": [
+            1099,
+            911
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "3afba7b1b5eee9a38a74bc203afeac2375f7d83c051b8869ffc25bdc7914d54a"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 15,
+          "box": [
+            150.54,
+            488.19,
+            412,
+            533.55
+          ],
+          "caption": "Zanieczyszczony wkład zapachowy: wypłucz w czystej wodzie i pozostaw do wyschnięcia.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p15-97d21f2fc2.png",
+          "pixels": [
+            1100,
+            191
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "88e7c8c0fca89dbad16f3039a1f134348af49761b0b0d0c4c90d0db93e34133d"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t5g",
+      "path": "docs/instrukcje/t5g.md",
+      "device": "Vestfrost VP-H2I40WH",
+      "clips": [
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            112,
+            418,
+            181
+          ],
+          "caption": "Przed konserwacją odłącz wtyczkę zasilania.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-e0881f4311.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "dd1acdc142d304c8f481a93fbe4e132c2098226c5b3988ac8cbb87737c5e01c4"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            264,
+            418,
+            328
+          ],
+          "caption": "Przerwa co najmniej tydzień: nie zostawiaj wody; oczyść i osusz zbiornik. Zasady bezpiecznego czyszczenia.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-dc5919e39c.png",
+          "pixels": [
+            1099,
+            197
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "7017b9a9fab86d9644d7149547884ce74e060439627396e14b377ff183876bc7"
+        },
+        {
+          "source": "vestfrost-vp-h2i40wh.pdf",
+          "page": 10,
+          "box": [
+            62,
+            449,
+            418,
+            497
+          ],
+          "caption": "Zdejmowanie, płukanie i osuszanie zbiornika czystą ściereczką.",
+          "image": "fragmenty/vestfrost-vp-h2i40wh-p10-80cd802fcd.png",
+          "pixels": [
+            1099,
+            148
+          ],
+          "source_sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+          "image_sha256": "c7484bba789ac5a2ae65c38afa96cb6e475f3844c4f70f23cd206b9d2829a215"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l11a",
+      "path": "docs/instrukcje/l11a.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [
+        {
+          "source": "waterpik-wp-660eu.pdf",
+          "page": 7,
+          "box": [
+            111,
+            394,
+            335,
+            447
+          ],
+          "caption": "Po użyciu: wyłącz, opróżnij zbiornik i odłącz zasilanie — instrukcja, s. 7 (EN).",
+          "image": "fragmenty/waterpik-wp-660eu-p7-799d0948c6.png",
+          "pixels": [
+            1099,
+            260
+          ],
+          "source_sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+          "image_sha256": "582ca455d235541173b56198f44f7ff2320641d762c98dd3f6deb659972b2324"
+        },
+        {
+          "source": "waterpik-wp-660eu.pdf",
+          "page": 9,
+          "box": [
+            111,
+            68,
+            336,
+            133
+          ],
+          "caption": "Płukanie po użyciu płynu do ust — instrukcja, s. 9 (EN).",
+          "image": "fragmenty/waterpik-wp-660eu-p9-79707d0474.png",
+          "pixels": [
+            1100,
+            317
+          ],
+          "source_sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+          "image_sha256": "a79c8e4312d566b456aa7c2bc181f19fab145fcb9e71200902dd31d3d6404c91"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l11b",
+      "path": "docs/instrukcje/l11b.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [],
+      "sources": [
+        {
+          "path": "waterpik-cleaning.md",
+          "title": "Polski skrót poradnika producenta — źródło kroków"
+        },
+        {
+          "path": "waterpik-wp-660eu.pdf",
+          "title": "Pełna instrukcja urządzenia"
+        }
+      ]
+    },
+    {
+      "id": "l11c",
+      "path": "docs/instrukcje/l11c.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [],
+      "sources": [
+        {
+          "path": "waterpik-cleaning.md",
+          "title": "Polski skrót poradnika producenta — źródło kroków"
+        },
+        {
+          "path": "waterpik-wp-660eu.pdf",
+          "title": "Pełna instrukcja urządzenia"
+        }
+      ]
+    },
+    {
+      "id": "l11d",
+      "path": "docs/instrukcje/l11d.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [
+        {
+          "source": "waterpik-wp-660eu.pdf",
+          "page": 9,
+          "box": [
+            111,
+            231,
+            336,
+            321
+          ],
+          "caption": "Odkamienianie: 2 łyżki octu na pełny zbiornik i końcowe płukanie — instrukcja, s. 9 (EN).",
+          "image": "fragmenty/waterpik-wp-660eu-p9-3f3bee2a4b.png",
+          "pixels": [
+            1100,
+            439
+          ],
+          "source_sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+          "image_sha256": "e6fac62772e3bfbdd39c597a5af080559d796301da27b7b2e523fa04aaeba9fc"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l11e",
+      "path": "docs/instrukcje/l11e.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [
+        {
+          "source": "waterpik-wp-660eu.pdf",
+          "page": 5,
+          "box": [
+            24,
+            343,
+            308,
+            473
+          ],
+          "caption": "Rozpoznaj końcówkę po literze A–F. Gwiazdka: wymiana co 3 miesiące; dwie gwiazdki: co 6 miesięcy — instrukcja, s. 5 (EN).",
+          "image": "fragmenty/waterpik-wp-660eu-p5-96a8266e32.png",
+          "pixels": [
+            1100,
+            503
+          ],
+          "source_sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+          "image_sha256": "5d2a229341388ef3133c288157c972ebaea0e55449021c0a245bfb472834e43c"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l11f",
+      "path": "docs/instrukcje/l11f.md",
+      "device": "Waterpik WP-660 Ultra Professional",
+      "clips": [
+        {
+          "source": "waterpik-wp-660eu.pdf",
+          "page": 5,
+          "box": [
+            24,
+            343,
+            308,
+            473
+          ],
+          "caption": "Rozpoznaj końcówkę po literze A–F. Gwiazdka: wymiana co 3 miesiące; dwie gwiazdki: co 6 miesięcy — instrukcja, s. 5 (EN).",
+          "image": "fragmenty/waterpik-wp-660eu-p5-96a8266e32.png",
+          "pixels": [
+            1100,
+            503
+          ],
+          "source_sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+          "image_sha256": "5d2a229341388ef3133c288157c972ebaea0e55449021c0a245bfb472834e43c"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l19",
+      "path": "docs/instrukcje/l19.md",
+      "device": "Candy BPS 8N2BX-S",
+      "clips": [
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            12,
+            53,
+            255.6,
+            265
+          ],
+          "caption": "Filtr kłaczków: wyjęcie, otwarcie i oczyszczenie — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-b984bc88cb.png",
+          "pixels": [
+            1099,
+            956
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "340182cf684e6620e48282691917a9514db3754148f69a55c175fb36ea3d36b7"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            258,
+            54,
+            402,
+            289
+          ],
+          "caption": "Filtr kłaczków: rysunki 10-1–10-4 — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-cefe8f2c39.png",
+          "pixels": [
+            864,
+            1410
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "0ea1d82449e501014fc261d00ddb68d73735b0afd2d1c06811e05f3f61cb597d"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            12,
+            524,
+            407,
+            575
+          ],
+          "caption": "Po płukaniu filtry muszą całkowicie wyschnąć — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-0c445d4f4b.png",
+          "pixels": [
+            1099,
+            142
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "b6da3f4734d8b98726cd551ae3ac7d01002448a7441b5130a0d8fc1aeaf6c876"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            13,
+            103,
+            258,
+            243
+          ],
+          "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-55c9bf0d83.png",
+          "pixels": [
+            1099,
+            628
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "e4dec01666c39ce8857eadd6c7d318b4a9604769c7ea0c971372023a98ee497e"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            258.2,
+            129,
+            402,
+            273
+          ],
+          "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-3b67240929.png",
+          "pixels": [
+            862,
+            864
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "565c5fc68d940a000d95996c11d799667f5d5e15b1b6918074ab6184ee54fd33"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l20",
+      "path": "docs/instrukcje/l20.md",
+      "device": "Candy BPS 8N2BX-S",
+      "clips": [
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            12,
+            273,
+            255.6,
+            510
+          ],
+          "caption": "Filtr skraplacza z gąbką: wyjęcie i oczyszczenie — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-7de4454a97.png",
+          "pixels": [
+            1099,
+            1070
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "0d4577796409ece5a03df001fc1ff1dc9ba4a5710f47c256cdd24893916b1fb1"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            258,
+            290.5,
+            402,
+            524.5
+          ],
+          "caption": "Filtr skraplacza z gąbką: rysunki 10-5–10-8 — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-524fc1ed21.png",
+          "pixels": [
+            864,
+            1404
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "62f0f84cd293ef80334c1e25c56f674f443761076dbce150a80d8ff7434d0324"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 55,
+          "box": [
+            12,
+            524,
+            407,
+            575
+          ],
+          "caption": "Po płukaniu filtry muszą całkowicie wyschnąć — s. 23.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p55-0c445d4f4b.png",
+          "pixels": [
+            1099,
+            142
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "b6da3f4734d8b98726cd551ae3ac7d01002448a7441b5130a0d8fc1aeaf6c876"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            13,
+            103,
+            258,
+            243
+          ],
+          "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-55c9bf0d83.png",
+          "pixels": [
+            1099,
+            628
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "e4dec01666c39ce8857eadd6c7d318b4a9604769c7ea0c971372023a98ee497e"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            258.2,
+            129,
+            402,
+            273
+          ],
+          "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-3b67240929.png",
+          "pixels": [
+            862,
+            864
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "565c5fc68d940a000d95996c11d799667f5d5e15b1b6918074ab6184ee54fd33"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l21",
+      "path": "docs/instrukcje/l21.md",
+      "device": "Candy BPS 8N2BX-S",
+      "clips": [
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 56,
+          "box": [
+            12,
+            54,
+            407,
+            352
+          ],
+          "caption": "Opróżnianie zbiornika po każdym suszeniu — s. 24.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p56-ca88ed192e.png",
+          "pixels": [
+            1099,
+            830
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "dfe697cd190588ba94a8c6bce20b5e5eeb1015a1991b39ebe077db1d7fdc242e"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            13,
+            103,
+            258,
+            243
+          ],
+          "caption": "Po zakończeniu cyklu: wyłącz i odłącz suszarkę — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-55c9bf0d83.png",
+          "pixels": [
+            1099,
+            628
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "e4dec01666c39ce8857eadd6c7d318b4a9604769c7ea0c971372023a98ee497e"
+        },
+        {
+          "source": "candy-bps-8n2bx-s.pdf",
+          "page": 54,
+          "box": [
+            258.2,
+            129,
+            402,
+            273
+          ],
+          "caption": "Przycisk zasilania i odłączenie wtyczki: rysunki 9-9 i 9-10 — s. 22.",
+          "image": "fragmenty/candy-bps-8n2bx-s-p54-3b67240929.png",
+          "pixels": [
+            862,
+            864
+          ],
+          "source_sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+          "image_sha256": "565c5fc68d940a000d95996c11d799667f5d5e15b1b6918074ab6184ee54fd33"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l16",
+      "path": "docs/instrukcje/l16.md",
+      "device": "Candy BP 49SBL8-S",
+      "clips": [
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 20,
+          "box": [
+            17,
+            443.3,
+            389,
+            492.4
+          ],
+          "caption": "BĘBEN CZYSTY: co 50 prań, bez dodatków — s. 20.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p20-81a91b088e.png",
+          "pixels": [
+            1099,
+            145
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "21dbd91e7785506797c2b047e00132d605b29e56a31a8811e7d62f2d0d0cc5c7"
+        },
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 19,
+          "box": [
+            29.4,
+            278.6,
+            217.6,
+            294.5
+          ],
+          "caption": "Wiersz BĘBEN CZYSTY: temperatura domyślna i maksymalna to 90°C — s. 19.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p19-42c322bb69.png",
+          "pixels": [
+            1100,
+            92
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "c84501b69af0d661e963fd03e7a55b5afb4de3b1aa4842f1210333f6a4f97267"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l18",
+      "path": "docs/instrukcje/l18.md",
+      "device": "Candy BP 49SBL8-S",
+      "clips": [
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 32,
+          "box": [
+            14,
+            164.8,
+            395,
+            491
+          ],
+          "caption": "Filtr pompy: ostudzenie i spuszczenie wody, wyjęcie filtra — s. 32.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p32-50680b5f3a.png",
+          "pixels": [
+            1100,
+            941
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "81066bfabb3c34ca29b6947a57b236c83b57296ed5896e67f031baa91d0a6d72"
+        },
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 33,
+          "box": [
+            27,
+            48,
+            404,
+            224
+          ],
+          "caption": "Płukanie, dokręcenie i kontrola uszczelki — s. 33.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p33-dea2f770c1.png",
+          "pixels": [
+            1100,
+            513
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "be3835cc74f0706d0c75cbc114542bf9094ca5a95be05dabc2f7cf1b1c32c562"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l15",
+      "path": "docs/instrukcje/l15.md",
+      "device": "Candy BP 49SBL8-S",
+      "clips": [
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 31,
+          "box": [
+            26,
+            48,
+            403,
+            266.3
+          ],
+          "caption": "Szuflada na detergent oraz obudowa i elementy gumowe — s. 31.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p31-fa560c2324.png",
+          "pixels": [
+            1100,
+            636
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "b2988204ab1979716b66b647e77d807cf6a4c8922ea0adc976503947137282bb"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t1a",
+      "path": "docs/instrukcje/t1a.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 65,
+          "box": [
+            184,
+            34,
+            331,
+            129
+          ],
+          "caption": "Napełnianie zbiornika czystej wody wraz z uwagami — instrukcja PL, s. 65.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p65-d89da27024.png",
+          "pixels": [
+            882,
+            570
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "02731d3967d094f479a83a5f76f96fa0eb2783d59d0a2e5d6405c626efd57d86"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 1,
+          "box": [
+            35,
+            322,
+            192,
+            500
+          ],
+          "caption": "Stacja A10: zbiornik czystej wody to A10-11, brudnej wody A10-3 — rysunki, s. 1.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p1-3865b82609.png",
+          "pixels": [
+            942,
+            1068
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "e2f00ddd31b1788cba5bd3fa5425183899c027a21f1085ff7d1fae329ce90c45"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t1b",
+      "path": "docs/instrukcje/t1b.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            338,
+            95,
+            486,
+            179
+          ],
+          "caption": "C11: zbiornik brudnej wody — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-bb0fb0ceeb.png",
+          "pixels": [
+            888,
+            504
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "66d4a317ff33fa0f87f3ce6334105b21587cc3b0510a571a443547f37f26a73a"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            28,
+            33,
+            135,
+            125
+          ],
+          "caption": "C11: opróżnienie zbiornika brudnej wody — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-d418a7bdec.png",
+          "pixels": [
+            642,
+            552
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "4cf3c40770046ffa79c8c35f1f10ac4e95a71e5f74a776eb3d6ffd279afcb2b7"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2a",
+      "path": "docs/instrukcje/t2a.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            184,
+            52,
+            330,
+            259
+          ],
+          "caption": "C1: szczotki główne — demontaż, czyszczenie i terminy — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-70d8615f9a.png",
+          "pixels": [
+            876,
+            1242
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "58d9994aa5b3fe996ba37b0b93514c369fecebcfcfde72da1944e48d6bfe771f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            142,
+            137,
+            357,
+            267
+          ],
+          "caption": "C1: położenie szczotek, łożysk i nasadek; otwarcie pokrywy — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-cef7e94781.png",
+          "pixels": [
+            1100,
+            665
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "8d590d00fa08107c463f9626938a5e7673cf3dfd66f3e143a8ad5c7022d490ff"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            20,
+            278,
+            351,
+            384
+          ],
+          "caption": "C1-7–C1-10: wyjęcie łożysk i nasadek, usunięcie włosów, zamknięcie pokrywy — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-408ebf003e.png",
+          "pixels": [
+            1099,
+            352
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "fec330ee063ece25f62d34499f5109ad6d2cd1045fc7f161ff8b18a099f14c43"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2b",
+      "path": "docs/instrukcje/t2b.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            30,
+            171,
+            178,
+            273
+          ],
+          "caption": "C6: filtr zmywalny; suszenie przez 24 godziny — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-3c908d7ed4.png",
+          "pixels": [
+            888,
+            612
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "c5eefea00b1684631c597c79db8cd3d4d79f6cf6bd0307ee2304652addbe485f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            97,
+            117,
+            355,
+            203
+          ],
+          "caption": "C6-1–C6-2: wyjęcie i płukanie filtra — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-d9cf947843.png",
+          "pixels": [
+            1100,
+            366
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "677d9a5fa337d362ba9178d3ec671c67f3f5f589fa2fea875ee97d7c369bb36d"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            18,
+            216,
+            103,
+            298
+          ],
+          "caption": "C6-3: suszenie filtra przez 24 godziny — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-1fe43e6b14.png",
+          "pixels": [
+            510,
+            492
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "b90e051b1954f620f4c818267a434ccf34c0f64694fc9c2d77fcdf10d2331031"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2c",
+      "path": "docs/instrukcje/t2c.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            338,
+            18,
+            484,
+            69
+          ],
+          "caption": "C2: szczotka boczna — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-4db8414261.png",
+          "pixels": [
+            876,
+            306
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "a49d6f18088e4df22e13357c03c0240f9ab4f17c9539f7d2b48dd4656b51d57f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            16,
+            393,
+            111,
+            500
+          ],
+          "caption": "C2: odkręcenie szczotki bocznej — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-3ed0b37cb7.png",
+          "pixels": [
+            570,
+            642
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "714a4c665a94cd8087b1de416541673b1f22ff7fbfe9f6211cae6daafd7f4adc"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2d",
+      "path": "docs/instrukcje/t2d.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            338,
+            157,
+            484,
+            200
+          ],
+          "caption": "C4: kółka główne — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-1e5aa31918.png",
+          "pixels": [
+            876,
+            258
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "5abca53a27c31a96fcb0f3d15a0ab916921070935b8bae609e079f9eb76c744e"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            260,
+            409,
+            354,
+            500
+          ],
+          "caption": "C4: przetarcie kółka głównego — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-8f28a1dee0.png",
+          "pixels": [
+            564,
+            546
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "a3609e4573c253cb074f916255b95127a436ca0948d7ca74f3cacaa3f5975ad8"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2e",
+      "path": "docs/instrukcje/t2e.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            338,
+            71,
+            484,
+            155
+          ],
+          "caption": "C3: małe kółko obrotowe; wspornika nie zdejmuj — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-1e767ad9f5.png",
+          "pixels": [
+            876,
+            504
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "7f32c6ee313b13bf7d71937df3e559085d5444f07f63f757d72e75f4e1fde5df"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            115,
+            388,
+            253,
+            500
+          ],
+          "caption": "C3: wyjęcie, płukanie i ponowne osadzenie małego kółka — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-ef3d119e13.png",
+          "pixels": [
+            828,
+            672
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "ed704720a06a095eb80bf3e06fa6e724b2ec9c176e15fd62870fb8b12931f0f1"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2f",
+      "path": "docs/instrukcje/t2f.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            30,
+            18,
+            178,
+            171
+          ],
+          "caption": "C5: pojemnik na kurz — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-29758f93d0.png",
+          "pixels": [
+            888,
+            918
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "56a94dce09f05cd05b38a4a95321918ae860b817e92a65d831fa8cc56a7cf8b7"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            16,
+            8,
+            353,
+            106
+          ],
+          "caption": "C5-1–C5-3: wyjęcie i opróżnienie pojemnika, wyjęcie filtra, płukanie — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-8d6c1d5624.png",
+          "pixels": [
+            1099,
+            319
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "aab8ac7a314ee634b951169040f1cd907c080cc4ec68463fff42072416f9471f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            18,
+            117,
+            99,
+            206
+          ],
+          "caption": "C5-4: pozostawienie pojemnika do wyschnięcia — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-ccd1fee3e6.png",
+          "pixels": [
+            486,
+            534
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "b1412b23c57b19d5c05f8b0220ab307db9d3b5b4dbbb125540bccdbbb84d0ecd"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2g",
+      "path": "docs/instrukcje/t2g.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            184,
+            18,
+            334,
+            90
+          ],
+          "caption": "C7: ściereczka mopa — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-3be354cdfa.png",
+          "pixels": [
+            900,
+            432
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "e19ef39cadc05bd9a0209e10139d11f13e91ab700e2abe9de7f3f44e70304a07"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            106,
+            212,
+            354,
+            296
+          ],
+          "caption": "C7: zdejmij samą ściereczkę mopa — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-50ebb3068f.png",
+          "pixels": [
+            1099,
+            372
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "c6a39e48d3e1d23a30ef36bf4ca75e11a172b2464605367158388354eb68ce14"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2h",
+      "path": "docs/instrukcje/t2h.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            184,
+            95,
+            334,
+            179
+          ],
+          "caption": "C8: czujniki robota — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-bb49ec269f.png",
+          "pixels": [
+            900,
+            504
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "f71da4efb3051c277f1a711aab3831a3779c9c1cf5095ab978160f9632493ad8"
+        },
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            184,
+            181,
+            334,
+            223
+          ],
+          "caption": "C9: styki ładowania — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-51ff3196df.png",
+          "pixels": [
+            900,
+            252
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "0860696983b825e7e3de74e91a563c170215718503b9051d6cd1b624b3450fb5"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            17,
+            307,
+            183,
+            500
+          ],
+          "caption": "C8: położenie pięciu rodzajów czujników — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-7b41c6d63a.png",
+          "pixels": [
+            996,
+            1158
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "1813ac87fef9ffee293ea8b6bc4be3a58a7d8d1f986c1c000b34e99782fc35a9"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            188,
+            307,
+            352,
+            390
+          ],
+          "caption": "C9: styki ładowania robota i stacji — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-eeec6f55f4.png",
+          "pixels": [
+            984,
+            498
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "31775a9d594f7cc34ab6ccc3de6f50201417300fd28e560d666f63764926db21"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2i",
+      "path": "docs/instrukcje/t2i.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            338,
+            180,
+            486,
+            273
+          ],
+          "caption": "C12: szczotka myjąca stacji — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-45da588656.png",
+          "pixels": [
+            888,
+            558
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "ec9890691395892e6b6d5699b5b5b9137577f7f93e7a8608785b78f08a5bd96a"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            140,
+            7,
+            260,
+            125
+          ],
+          "caption": "C12: wyjmowanie szczotki myjącej stacji — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-e6417cc7ab.png",
+          "pixels": [
+            720,
+            708
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "c04206321190c22a950666de486699aee1c488a4c2f4b42431636f1c4ad8ab5b"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2j",
+      "path": "docs/instrukcje/t2j.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            338,
+            273,
+            486,
+            350
+          ],
+          "caption": "C13: filtr wody w stacji — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-d727300ca1.png",
+          "pixels": [
+            888,
+            462
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "c1896b85377368974fc3f2c60cb1341cbed948a519e452e6d21b67c3ec3e269f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            264,
+            7,
+            356,
+            125
+          ],
+          "caption": "C13: wyjmowanie i otwieranie filtra wody — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-54375f409d.png",
+          "pixels": [
+            552,
+            708
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "63e6012d4da13edbe04f1c3c102042f31f022cf7fb9186415dee555e5c295abc"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2k",
+      "path": "docs/instrukcje/t2k.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 69,
+          "box": [
+            30,
+            18,
+            178,
+            169
+          ],
+          "caption": "C14: wymiana worka; nie uruchamiaj opróżniania bez worka — instrukcja PL, s. 69.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p69-18c6787b90.png",
+          "pixels": [
+            888,
+            906
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "fd31bb6016ac72f37c6f1de35b75df1313854134a30b503869964e8f73731fdb"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            16,
+            135,
+            224,
+            241
+          ],
+          "caption": "C14: wyjęcie zużytego worka i wsunięcie nowego — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-4da4e64fb8.png",
+          "pixels": [
+            1099,
+            561
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "291fafe9c0bf430c0ab120777d32634273e141e5365d19859226f4e263dffb3e"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2l",
+      "path": "docs/instrukcje/t2l.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 69,
+          "box": [
+            30,
+            171,
+            178,
+            299
+          ],
+          "caption": "C15: udrażnianie kanału — przygotowanie i kroki 1–3, instrukcja PL, s. 69.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p69-baf05e70aa.png",
+          "pixels": [
+            888,
+            768
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "d9c763b366eddbb0a66e58d30b10f05e4d90dcf60497c6b96c06066c575e89cf"
+        },
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 69,
+          "box": [
+            184,
+            20,
+            329,
+            87
+          ],
+          "caption": "C15: udrażnianie kanału — dalsze kroki 4–7, instrukcja PL, s. 69.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p69-5d87af0762.png",
+          "pixels": [
+            870,
+            402
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "814c4fe010a99ae6f702a8c6282e991e4332252124c68e4b39d6cd134fe76227"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            230,
+            143,
+            355,
+            241
+          ],
+          "caption": "C15-1–C15-2: usuń zbiorniki, pojemnik i filtr wody — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-521bf3c4dd.png",
+          "pixels": [
+            750,
+            588
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "674354fa3bdb5ff2ca53abfead4a56670e23ad9dd2cf48a005df500a25ecbae1"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            18,
+            252,
+            353,
+            352
+          ],
+          "caption": "C15-3–C15-4: odłącz podstawę i ostrożnie odwróć osuszoną stację — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-151908ab2a.png",
+          "pixels": [
+            1100,
+            328
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "ffbb079af70be8473dc0de5561fcd3251aedafb67ad229cc01a5ea3984f1b4cf"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            18,
+            362,
+            352,
+            470
+          ],
+          "caption": "C15-5–C15-7: zdejmij pokrywę, wyczyść kanał i ponownie zamknij — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-f8dc67c17d.png",
+          "pixels": [
+            1099,
+            355
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "c74f72acadc051b17feaab01f258d88697439231b7446355abd667550ceaca9e"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2m",
+      "path": "docs/instrukcje/t2m.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            338,
+            18,
+            484,
+            69
+          ],
+          "caption": "C2: szczotka boczna — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-4db8414261.png",
+          "pixels": [
+            876,
+            306
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "a49d6f18088e4df22e13357c03c0240f9ab4f17c9539f7d2b48dd4656b51d57f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            184,
+            18,
+            334,
+            90
+          ],
+          "caption": "C7: ściereczka mopa — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-3be354cdfa.png",
+          "pixels": [
+            900,
+            432
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "e19ef39cadc05bd9a0209e10139d11f13e91ab700e2abe9de7f3f44e70304a07"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            16,
+            393,
+            111,
+            500
+          ],
+          "caption": "C2: odkręcenie szczotki bocznej — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-3ed0b37cb7.png",
+          "pixels": [
+            570,
+            642
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "714a4c665a94cd8087b1de416541673b1f22ff7fbfe9f6211cae6daafd7f4adc"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            106,
+            212,
+            354,
+            296
+          ],
+          "caption": "C7: zdejmij samą ściereczkę mopa — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-50ebb3068f.png",
+          "pixels": [
+            1099,
+            372
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "c6a39e48d3e1d23a30ef36bf4ca75e11a172b2464605367158388354eb68ce14"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "t2n",
+      "path": "docs/instrukcje/t2n.md",
+      "device": "Roborock S8 Pro Ultra",
+      "clips": [
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 67,
+          "box": [
+            184,
+            52,
+            330,
+            259
+          ],
+          "caption": "C1: szczotki główne — demontaż, czyszczenie i terminy — instrukcja PL, s. 67.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p67-70d8615f9a.png",
+          "pixels": [
+            876,
+            1242
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "58d9994aa5b3fe996ba37b0b93514c369fecebcfcfde72da1944e48d6bfe771f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            30,
+            171,
+            178,
+            273
+          ],
+          "caption": "C6: filtr zmywalny; suszenie przez 24 godziny — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-3c908d7ed4.png",
+          "pixels": [
+            888,
+            612
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "c5eefea00b1684631c597c79db8cd3d4d79f6cf6bd0307ee2304652addbe485f"
+        },
+        {
+          "source": "roborock-s8-pro-ultra.pdf",
+          "page": 68,
+          "box": [
+            338,
+            180,
+            486,
+            273
+          ],
+          "caption": "C12: szczotka myjąca stacji — instrukcja PL, s. 68.",
+          "image": "fragmenty/roborock-s8-pro-ultra-p68-45da588656.png",
+          "pixels": [
+            888,
+            558
+          ],
+          "source_sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+          "image_sha256": "ec9890691395892e6b6d5699b5b5b9137577f7f93e7a8608785b78f08a5bd96a"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 2,
+          "box": [
+            142,
+            137,
+            357,
+            267
+          ],
+          "caption": "C1: położenie szczotek, łożysk i nasadek; otwarcie pokrywy — rysunki, s. 2.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p2-cef7e94781.png",
+          "pixels": [
+            1100,
+            665
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "8d590d00fa08107c463f9626938a5e7673cf3dfd66f3e143a8ad5c7022d490ff"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 3,
+          "box": [
+            97,
+            117,
+            355,
+            203
+          ],
+          "caption": "C6-1–C6-2: wyjęcie i płukanie filtra — rysunki, s. 3.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p3-d9cf947843.png",
+          "pixels": [
+            1100,
+            366
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "677d9a5fa337d362ba9178d3ec671c67f3f5f589fa2fea875ee97d7c369bb36d"
+        },
+        {
+          "source": "roborock-s8-pro-ultra-diagrams.pdf",
+          "page": 4,
+          "box": [
+            140,
+            7,
+            260,
+            125
+          ],
+          "caption": "C12: wyjmowanie szczotki myjącej stacji — rysunki, s. 4.",
+          "image": "fragmenty/roborock-s8-pro-ultra-diagrams-p4-e6417cc7ab.png",
+          "pixels": [
+            720,
+            708
+          ],
+          "source_sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+          "image_sha256": "c04206321190c22a950666de486699aee1c488a4c2f4b42431636f1c4ad8ab5b"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "l12",
+      "path": "docs/instrukcje/l12.md",
+      "device": "Withings Body Scan Black",
+      "clips": [
+        {
+          "source": "withings-body-scan-eu.pdf",
+          "page": 50,
+          "box": [
+            37,
+            61,
+            211,
+            125.2
+          ],
+          "caption": "Czyszczenie szklanej płyty i elektrod uchwytu — polska instrukcja, s. 98.",
+          "image": "fragmenty/withings-body-scan-eu-p50-58c9ca0156.png",
+          "pixels": [
+            1044,
+            385
+          ],
+          "source_sha256": "5c7897a264c7956a17b9b2e652595ac96a42ab7df1185d444f79394f99658a11",
+          "image_sha256": "24c036204b32db79e120a44b0c251b7b6898803e3bad184102baaab5edfbb986"
+        }
+      ],
+      "sources": [
+        {
+          "path": "withings-cleaning.md",
+          "title": "Polski skrót poradnika Withings"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "path": "docs/instrukcje/k10.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 29,
+          "box": [
+            25,
+            112,
+            399,
+            137.2
+          ],
+          "caption": "Nagłówki tabeli programów — s. 29.",
+          "image": "fragmenty/siemens-sr656d00te-p29-cf525acf89.png",
+          "pixels": [
+            1099,
+            74
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "d7b309d9c4eb916845893ccdbd334c296a794a9023eb6fe5de1620bd79d51454"
+        },
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 29,
+          "box": [
+            25,
+            213.5,
+            399,
+            426.7
+          ],
+          "caption": "Programy Auto 45–65°C i Eco 50°C — s. 29.",
+          "image": "fragmenty/siemens-sr656d00te-p29-1a0cea8dbc.png",
+          "pixels": [
+            1099,
+            627
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "a0a4bc207205e38ecfd6f1aae2cdbf6f352f62acc6f1b8ad3f7eb41347f11150"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "path": "docs/instrukcje/k12.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 40,
+          "box": [
+            24,
+            40,
+            205,
+            529
+          ],
+          "caption": "Czyszczenie zmywarki: pusty wsad i specjalny środek — s. 40.",
+          "image": "fragmenty/siemens-sr656d00te-p40-640c6725fb.png",
+          "pixels": [
+            1086,
+            2934
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "31fdc7aa3a8bc8a8d2138b9c1639cbd302b45776a0f7996ba9073dd8b8128ba2"
+        },
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 30,
+          "box": [
+            28,
+            432.2,
+            402,
+            475.5
+          ],
+          "caption": "Program Czyszczenie zmywarki 70°C — s. 30.",
+          "image": "fragmenty/siemens-sr656d00te-p30-d3b6db5aa5.png",
+          "pixels": [
+            1099,
+            127
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "fc64b75ef61d5c806701357f3ce993ff1286dff112e7a6941cf28dccf84f5c4b"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "path": "docs/instrukcje/k17.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 41,
+          "box": [
+            21,
+            40,
+            203,
+            423
+          ],
+          "caption": "Wyjęcie, płukanie i prawidłowe zamknięcie filtrów — s. 41.",
+          "image": "fragmenty/siemens-sr656d00te-p41-c7a79c5270.png",
+          "pixels": [
+            1092,
+            2298
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "5dfe9b44503ba78984bf7aa21312fbd30a45bef18fee86f558e7f0c824d7cb2f"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "path": "docs/instrukcje/k18.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 41,
+          "box": [
+            212,
+            40,
+            398,
+            521
+          ],
+          "caption": "Demontaż, płukanie i ponowny montaż ramion spryskujących — s. 41.",
+          "image": "fragmenty/siemens-sr656d00te-p41-c9dbfcd704.png",
+          "pixels": [
+            1100,
+            2844
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "a79ef3153280fce0b0bc919956b8d913c960915282e487b3f168454e32f0c95a"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "path": "docs/instrukcje/k13.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 17,
+          "box": [
+            212,
+            40,
+            394,
+            450
+          ],
+          "caption": "Uzupełnianie nabłyszczacza do MAX i wycieranie rozlanego płynu — s. 17.",
+          "image": "fragmenty/siemens-sr656d00te-p17-af64a09181.png",
+          "pixels": [
+            1092,
+            2460
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "0060911e76aaff198fa56cc42b9a8a22591642d5c7e03d52677a57d388cd3080"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "path": "docs/instrukcje/k14.md",
+      "device": "Siemens SR656D00TE",
+      "clips": [
+        {
+          "source": "siemens-sr656d00te.pdf",
+          "page": 16,
+          "box": [
+            215,
+            40,
+            397,
+            465
+          ],
+          "caption": "Sól: uzupełnianie bezpośrednio przed zmywaniem — s. 16.",
+          "image": "fragmenty/siemens-sr656d00te-p16-bef1ab89da.png",
+          "pixels": [
+            1092,
+            2550
+          ],
+          "source_sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+          "image_sha256": "bf593c536cb281ba46de197d5e89aeb7aa1c43df56a030f501846d68480cd7f0"
+        }
+      ],
+      "sources": [
+        {
+          "path": "README.md#siemens",
+          "title": "Wersje instrukcji i pełny E-Nr"
+        }
+      ]
+    },
+    {
+      "id": "candy-counter",
+      "path": "docs/instrukcje/candy-counter.md",
+      "device": "Candy BP 49SBL8-S",
+      "clips": [
+        {
+          "source": "candy-bp-49sbl8-s.pdf",
+          "page": 21,
+          "box": [
+            29,
+            366.5,
+            402,
+            461
+          ],
+          "caption": "Sprawdzenie liczby wykonanych cykli — s. 21.",
+          "image": "fragmenty/candy-bp-49sbl8-s-p21-6eadaebb86.png",
+          "pixels": [
+            1100,
+            278
+          ],
+          "source_sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+          "image_sha256": "13b2f10c43e4354a2634162c98690f1b31d05f5356017b384059ad02f835c3ef"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "sharp-reset",
+      "path": "docs/instrukcje/sharp-reset.md",
+      "device": "Sharp KI-TX100EU-W",
+      "clips": [
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 47,
+          "box": [
+            50,
+            306,
+            404,
+            374
+          ],
+          "caption": "Reset przypomnienia dopiero po zakończeniu konserwacji.",
+          "image": "fragmenty/sharp-ki-tx100eu-p47-ccf7ca8a4a.png",
+          "pixels": [
+            1099,
+            212
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "046391b0c85de96c4325111252236c7c1b4d5ed9f5d983bb9ff4b5454c573dfb"
+        },
+        {
+          "source": "sharp-ki-tx100eu.pdf",
+          "page": 47,
+          "box": [
+            407,
+            295,
+            540,
+            394
+          ],
+          "caption": "Przycisk HUMIDIFY ON/OFF: przytrzymaj przez 3 sekundy.",
+          "image": "fragmenty/sharp-ki-tx100eu-p47-3a22b5aabf.png",
+          "pixels": [
+            798,
+            594
+          ],
+          "source_sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+          "image_sha256": "1bb3764a4d709bdf0d18058afffaaff3f7029a6242b09565cfc986be5f9654aa"
+        }
+      ],
+      "sources": []
+    }
+  ]
+}

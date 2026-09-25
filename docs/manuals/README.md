@@ -2,7 +2,7 @@
 
 **10 pełnych plików PDF (1042 strony) i 3 polskie skróty poradników.** Pobrano / sprawdzono 25.09.2026. Oryginalne PDF-y zachowano w całości, bez przerabiania i wycinania stron.
 
-Linki przy zadaniach prowadzą do tych kopii. Numer `#page` wskazuje stronę pliku PDF, nie zawsze numer wydrukowany na stronie. Jeśli podgląd GitHub nie przewija do właściwej strony, pobierz PDF i otwórz go w czytniku.
+**Do sprzątania używaj [krótkich instrukcji przy zadaniach](../instrukcje/README.md).** Zawierają tylko potrzebne kroki po polsku i wycięte fragmenty instrukcji z rysunkami. Otwierają się bez szukania stron w PDF-ie. Pełne oryginały poniżej są dodatkowym źródłem i kopią zapasową.
 
 Aby mieć kopię bez internetu, pobierz całe repozytorium przez **Code → Download ZIP** i rozpakuj je. Zachowaj strukturę folderów. Same zakładki do stron internetowych nie zapewniają dostępu offline.
 
@@ -27,7 +27,7 @@ Aby mieć kopię bez internetu, pobierz całe repozytorium przez **Code → Down
 
 Podano model **SR656D00TE**, bez końcówki E-Nr po ukośniku. Oficjalne strony serwisowe dla [/01](https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-01) i [/51](https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-51) udostępniają dokument 9001310510_B; dla [/62](https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-62), [/63](https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-63) i [/64](https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-64) — 9001496647_B. Obie wersje są powyżej. Pełny E-Nr można odczytać z tabliczki urządzenia.
 
-Zalecenia użyte w liście są wspólne dla obu wersji. Odsyłacze przy zadaniach wskazują pierwszą; w drugiej odpowiedniki to: programy s. 20–21, sól s. 30–31, nabłyszczacz s. 33, czyszczenie s. 44–45, filtry s. 45–46, ramiona s. 46.
+Zalecenia użyte w liście są wspólne dla obu wersji. Krótkie instrukcje pokazują fragmenty pierwszej; w drugiej odpowiedniki to: programy s. 20–21, sól s. 30–31, nabłyszczacz s. 33, czyszczenie s. 44–45, filtry s. 45–46, ramiona s. 46.
 
 ## Polskie skróty offline
 
@@ -46,6 +46,6 @@ Te pliki zachowują potrzebne kroki i źródła. **Nie są pełnymi kopiami arty
 
 ## Pochodzenie kopii
 
-[Manifest archiwum](manifest.json) zapisuje źródłowe adresy, daty pobrania, liczbę stron, rozmiary i sumy SHA-256. PDF-y są niezmienionymi plikami producentów. Polskie notatki są własnymi streszczeniami. Kopie dokumentują stan z dnia pobrania; aktualizując instrukcję, sprawdź też powiązane zadania i odsyłacze do stron.
+[Manifest archiwum](manifest.json) zapisuje źródłowe adresy, daty pobrania, liczbę stron, rozmiary i sumy SHA-256. PDF-y są niezmienionymi plikami producentów. Polskie notatki są własnymi streszczeniami. [Manifest wycinków](../instrukcje/manifest.json) wskazuje stronę i granice każdego fragmentu oraz sumy kontrolne. Kopie dokumentują stan z dnia pobrania; aktualizując instrukcję, sprawdź też powiązane zadania, kroki i wycinki.
 
 [Wróć do listy sprzątania](../../README.md) · [Źródła i decyzje dotyczące częstotliwości](../zrodla.md)
