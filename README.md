@@ -172,7 +172,7 @@ Pozostałe sprzątanie — według pomieszczeń:
 | k4 | Wyrzuć przeterminowane jedzenie | Co 2 tygodnie | — |
 | k5 | Umyj piekarnik | Co 2 tygodnie | — |
 | k6 | Umyj mikrofalówkę | Co 2 tygodnie | — |
-| k9 | Uporządkuj szafki kuchenne | Co miesiąc | — |
+| k9 | Odłóż rzeczy na właściwe miejsca w szafkach kuchennych | Co miesiąc | Zgodnie z etykietami na szafkach. |
 | k12 | Wyczyść zmywarkę | Co miesiąc | Żółty czyścik + Machine Care, 65°C. |
 | k13 | Uzupełnij nabłyszczacz | Co miesiąc | — |
 | k14 | Uzupełnij sól w zmywarce | Co miesiąc | — |
