@@ -1,229 +1,227 @@
-# Lista zadań domowych – podzielona na strefy i z częstotliwością
+# Lista sprzątania mieszkania
 
-## ⭐ Ważne w tym mieszkaniu — sprawdź na początku wizyty
+## ⭐ Najpierw: ważne zadania w mieszkaniu
 
-Przy każdej wizycie sprawdź poniższą listę i wykonaj zadania zgodnie z podaną częstotliwością. **Pamiętaj zwłaszcza o filtrach oczyszczacza powietrza.** Zadania codzienne i po użyciu wykonuj również przy każdej wizycie sprzątającej (minimum raz w tygodniu).
+**Zacznij od poniższych zadań — szczególnie filtrów oczyszczacza.** Zadania codzienne i po użyciu wykonaj też przy każdej wizycie, minimum raz w tygodniu.
 
 ### Dozowniki mydła do rąk
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| l9a | Uzupełnienie płynu do mycia rąk we wszystkich dozownikach | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml](https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873). |
+| l9a | Uzupełnij mydło we wszystkich dozownikach | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml](https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873). |
 
-Przed ręcznym czyszczeniem lub demontażem odłącz urządzenie od prądu. Programy czyszczenia wymagające zasilania uruchamiaj według podlinkowanej instrukcji.
+**Przed ręcznym czyszczeniem lub demontażem odłącz sprzęt od prądu.** Programy czyszczenia uruchamiaj zgodnie z instrukcją.
 
-### Sypialnia — Sharp KI-TX100EU-W
+### Sypialnia — oczyszczacz Sharp KI-TX100EU-W
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| t6a | **Filtr wstępny, czujniki i obudowa** | **Co miesiąc / komunikat Maintenance** | Odkurz panel tylny i czujniki; obudowę przetrzyj suchą ściereczką. [PL-17–18][sharp-panel] |
-| t6b | **Filtr HEPA** | Przy kurzu; kontrola co miesiąc | Delikatnie odkurz wyłącznie stronę z etykietą. **Bez wody i słońca.** [PL-20][sharp-hepa] |
-| t6c | Filtr pochłaniający zapachy | Przy kurzu; kontrola co miesiąc | Delikatnie odkurz obie strony. **Bez wody i słońca.** [PL-20][sharp-hepa] |
-| t6d | Wymiana wody i płukanie zbiornika | Codziennie podczas nawilżania | Świeża kranówka, bez dodatków. Gdy nie nawilżasz: opróżnij i wyczyść zbiornik oraz tackę. [PL-2][sharp-water] |
-| t6e | Filtr nawilżający i tacka | Co miesiąc | Wyjmij i obficie wypłucz wodą; pozostaw pływak na miejscu. [PL-19][sharp-humidifier] |
-| t6f | Odkamienianie filtra nawilżającego | Przy osadzie; częściej przy twardej wodzie | Program z kwaskiem cytrynowym; po cyklu wypłucz zbiornik, tackę i filtr. [Kroki PL-9][sharp-descale] |
-| t6g | Elektrody Plasmacluster | Co 6 miesięcy | Użyj wyłącznie dołączonej szczoteczki; nie dotykaj elektrod ani złącza. [PL-21][sharp-ions] |
-| t6h | Zgłoszenie wymiany filtrów / modułu | Według aplikacji, zużycia lub UNIT | Zgłoś zapach/brud utrzymujący się po czyszczeniu. [PL-20–23][sharp-replace] |
+| t6a | **Odkurz filtr wstępny i czujniki; przetrzyj obudowę** | **Co miesiąc / komunikat Maintenance** | Odkurz panel tylny i czujniki; obudowę przetrzyj suchą ściereczką. [Instrukcja][sharp-panel] |
+| t6b | **Odkurz filtr HEPA** | Sprawdź co miesiąc; czyść przy kurzu | Delikatnie odkurz wyłącznie stronę z etykietą. **Bez wody i słońca.** [Instrukcja][sharp-hepa] |
+| t6c | Odkurz filtr pochłaniający zapachy | Sprawdź co miesiąc; czyść przy kurzu | Delikatnie odkurz obie strony. **Bez wody i słońca.** [Instrukcja][sharp-hepa] |
+| t6d | Wymień wodę i wypłucz zbiornik | Codziennie podczas nawilżania | Świeża kranówka, bez dodatków. Gdy nie nawilżasz: opróżnij i wyczyść zbiornik oraz tackę. [Instrukcja][sharp-water] |
+| t6e | Wypłucz filtr nawilżający i tackę | Co miesiąc | Wyjmij i obficie wypłucz wodą; pozostaw pływak na miejscu. [Instrukcja][sharp-humidifier] |
+| t6f | Odkamień filtr nawilżający | Przy osadzie; częściej przy twardej wodzie | Program z kwaskiem cytrynowym; po cyklu wypłucz zbiornik, tackę i filtr. [Instrukcja][sharp-descale] |
+| t6g | Wyczyść elektrody jonizatora | Co 6 miesięcy | Użyj wyłącznie dołączonej szczoteczki; nie dotykaj elektrod ani złącza. [Instrukcja][sharp-ions] |
+| t6h | Zgłoś potrzebę wymiany filtrów lub modułu | Gdy zużyte lub po komunikacie w aplikacji / UNIT | Zgłoś zapach/brud utrzymujący się po czyszczeniu. [Instrukcja][sharp-replace] |
 
-Po pełnej konserwacji włącz urządzenie i przytrzymaj **HUMIDIFY ON/OFF przez 3 sekundy**, aby skasować Maintenance. [PL-17][sharp-reset]
+Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przytrzymaj **HUMIDIFY ON/OFF przez 3 sekundy**, aby skasować komunikat „Maintenance”. [Instrukcja][sharp-reset]
 
 ### Biuro — nawilżacz Vestfrost VP-H2I40WH
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| t3 | Wymiana wody | Codziennie podczas używania | Świeża, oczyszczona woda o temperaturze pokojowej; najwyżej do MAX. [s. 4][vest-water], [10][vest-clean] |
-| t5a | Zbiornik i obudowa | Co tydzień | Zbiornik wypłucz i wytrzyj; obudowę czyść suchą ściereczką. Nie zalewaj podstawy. [s. 10][vest-clean] |
-| t5b | Filtr nawilżający | Co miesiąc | Wyjmij i wypłucz pod bieżącą wodą. [s. 10][vest-clean], [11][vest-filter] |
-| t5c | Dolny filtr przeciwkurzowy | Co miesiąc | Wypłucz 2–3 razy czystą wodą; zamontuj po wysuszeniu. [s. 11][vest-filter] |
-| t5d | Odkamienianie zbiornika i przewodów | Co 1–2 miesiące | Wyjmij moduł uzdatniania; kwasek z wodą według opakowania. Maksymalny nawiew 10 min; wyłącz/odłącz, mocz 30 min, opróżnij, wypłucz. [s. 10][vest-clean] |
-| t5e | Wymiana filtra nawilżającego | Co 3–6 miesięcy, zależnie od wody | Oryginalny filtr; dopasuj wlot do wylotu pompy. [Montaż s. 9][vest-aroma], [termin s. 11][vest-filter] |
-| t5f | Wymiana modułu uzdatniania wody | Co 3–6 miesięcy, zależnie od wody | Oryginalny moduł; włóż nowy zgodnie z kierunkiem nacięcia. [s. 12][vest-module] |
-| t4 | Wkład aromatyczny / olejek | W razie potrzeby | Brudny wkład wypłucz, wysusz; olejek 8–10 kropli **tylko na wkład, nigdy do wody**. [s. 9][vest-aroma], [15][vest-aroma-clean] |
-| t5g | Opróżnienie i osuszenie zbiornika | Przed przerwą ≥ tydzień | Wylej wodę, wyczyść i dokładnie osusz. [s. 10][vest-clean] |
+| t3 | Wymień wodę | Codziennie podczas używania | Świeża, oczyszczona woda o temperaturze pokojowej; najwyżej do MAX. [Instrukcja][vest-water] |
+| t5a | Umyj zbiornik i przetrzyj obudowę | Co tydzień | Zbiornik wypłucz i wytrzyj; obudowę czyść suchą ściereczką. Nie zalewaj podstawy. [Instrukcja][vest-clean] |
+| t5b | Wypłucz filtr nawilżający | Co miesiąc | Wyjmij i wypłucz pod bieżącą wodą. [Instrukcja][vest-filter] |
+| t5c | Wypłucz dolny filtr przeciwkurzowy | Co miesiąc | Wypłucz 2–3 razy czystą wodą; zamontuj po wysuszeniu. [Instrukcja][vest-filter] |
+| t5d | Odkamień zbiornik i przewody | Co 1–2 miesiące | Wyjmij moduł uzdatniania; kwasek z wodą według opakowania. Maksymalny nawiew 10 min; wyłącz/odłącz, mocz 30 min, opróżnij, wypłucz. [Instrukcja][vest-clean] |
+| t5e | Wymień filtr nawilżający | Co 3–6 miesięcy, zależnie od wody | Oryginalny filtr; dopasuj wlot do wylotu pompy. [Instrukcja][vest-aroma] |
+| t5f | Wymień moduł uzdatniania wody | Co 3–6 miesięcy, zależnie od wody | Oryginalny moduł; włóż nowy zgodnie z kierunkiem nacięcia. [Instrukcja][vest-module] |
+| t4 | Wyczyść wkład zapachowy / dodaj olejek | W razie potrzeby | Brudny wkład wypłucz, wysusz; olejek 8–10 kropli **tylko na wkład, nigdy do wody**. [Olejek][vest-aroma] · [Mycie wkładu][vest-aroma-clean] |
+| t5g | Opróżnij i osusz zbiornik przed przerwą | Przed przerwą min. tydzień | Wylej wodę, wyczyść i dokładnie osusz. [Instrukcja][vest-clean] |
 
-### Łazienka — Waterpik WP-660 Ultra Professional
+### Łazienka — irygator Waterpik WP-660 Ultra Professional
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| l11a | Opróżnienie zbiornika | Po każdym użyciu | Wylej resztę wody; po płukance przepompuj czystą ciepłą wodę. [s. 7, 9][waterpik-manual] |
-| l11b | Zbiornik, zawór i obudowa | Co miesiąc | Zbiornik umyj wodą z płynem; zawór wypchnij od spodu, płucz 30–45 s, włóż wypukłością w górę. Obudowę przetrzyj miękką ściereczką. [Jak][waterpik-clean] |
-| l11c | Rękojeść i końcówka | Co miesiąc | Zdejmij końcówkę; ją i rękojeść mocz 5 min: 1 część białego octu + 2 części wody. Wypłucz. [Jak][waterpik-clean] |
-| l11d | Odkamienianie układu wodnego | Co miesiąc | Pełny zbiornik ciepłej wody + 2 łyżki stołowe białego octu przepompuj do umywalki, potem pełny zbiornik czystej ciepłej wody. [s. 9][waterpik-descale] |
-| l11e | Wymiana końcówek specjalistycznych | Co 3 miesiące, jeśli używane | Orthodontic, Pik Pocket, Plaque Seeker, końcówka-szczoteczka. [s. 5][waterpik-tips] |
-| l11f | Wymiana końcówek standardowych | Co 6 miesięcy, jeśli używane | Classic Jet i końcówka do języka. [s. 5][waterpik-tips] |
+| l11a | Opróżnij zbiornik | Po każdym użyciu | Wylej resztę wody; po płukance przepompuj czystą ciepłą wodę. [Instrukcja][waterpik-manual] |
+| l11b | Umyj zbiornik i zawór; przetrzyj obudowę | Co miesiąc | Zbiornik umyj wodą z płynem; zawór wypchnij od spodu, płucz 30–45 s, włóż wypukłością w górę. Obudowę przetrzyj miękką ściereczką. [Instrukcja][waterpik-clean] |
+| l11c | Umyj rączkę i końcówkę | Co miesiąc | Zdejmij końcówkę; ją i rączkę mocz 5 min: 1 część białego octu + 2 części wody. Wypłucz. [Instrukcja][waterpik-clean] |
+| l11d | Odkamień irygator | Co miesiąc | Pełny zbiornik ciepłej wody + 2 łyżki stołowe białego octu przepompuj do umywalki, potem pełny zbiornik czystej ciepłej wody. [Instrukcja][waterpik-descale] |
+| l11e | Wymień końcówki specjalistyczne | Co 3 miesiące, jeśli używane | Orthodontic, Pik Pocket, Plaque Seeker, końcówka-szczoteczka. [Instrukcja][waterpik-tips] |
+| l11f | Wymień końcówki standardowe | Co 6 miesięcy, jeśli używane | Classic Jet i końcówka do języka. [Instrukcja][waterpik-tips] |
 
 ### Robot odkurzający i stacja — Roborock S8 Pro Ultra
 
-Co tydzień sprawdź zadania „Według potrzeb” i zapełnienie worka. Przed czyszczeniem wyłącz robota i odłącz stację od prądu. [Rysunki C1–C15, s. 2–4][roborock-diagrams]
+Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czyszczeniem wyłącz robota i odłącz stację od prądu. [Rysunki części][roborock-diagrams]
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| t1a | Uzupełnienie czystej wody | Według potrzeb | Bez gorącej wody; ewentualny płyn wyłącznie Roborock, według etykiety. [s. 65][roborock-water] |
-| t1b | Zbiornik brudnej wody | Według potrzeb | Opróżnij, przepłucz czystą wodą, zamknij zatrzask. [C11, s. 68][roborock-care] |
-| t2a | Szczotki główne | Co 2 tygodnie | Usuń włosy z końców i łożysk; przetrzyj wilgotno, wysusz poza słońcem. [C1, s. 67][roborock-brushes] |
-| t2b | **Filtr zmywalny robota** | **Co 2 tygodnie** | Wypłucz; nie dotykaj powierzchni rękami ani szczotką. **Susz 24 godziny**, do pełnego wyschnięcia przed montażem. [C6, s. 68][roborock-care] |
-| t2c | Szczotka boczna | Co miesiąc | Odkręć, oczyść, ponownie przykręć. [C2, s. 67][roborock-brushes] |
-| t2d | Kółka główne | Co miesiąc | Przetrzyj miękką, suchą ściereczką. [C4, s. 67][roborock-brushes] |
-| t2e | Kółko wielokierunkowe | Według potrzeb | Wyjmij kółko i oś, wypłucz, wysusz; wspornika nie demontuj. [C3, s. 67][roborock-brushes] |
-| t2f | Pojemnik kurzu robota | Według potrzeb | Wyjmij filtr; pojemnik opróżnij, wypłucz bez detergentu, wysusz. [C5, s. 68][roborock-care] |
-| t2g | Ściereczka mopa VibraRise | Według potrzeb | Zdejmij samą ściereczkę, wyczyść, wysusz na powietrzu. [C7, s. 68][roborock-care] |
-| t2h | Czujniki i styki ładowania | Według potrzeb | Wyłącznie miękka, sucha ściereczka. [C8–C9, s. 68][roborock-care] |
-| t2i | Szczotka myjąca stacji | Według potrzeb | Wyjmij, usuń włosy, opłucz, zatrzaśnij. [C12, s. 68][roborock-care] |
-| t2j | Filtr wody i komora myjąca | Według potrzeb | Filtr wypłucz; komorę wytrzyj na sucho. Zatrzaśnij filtr. [C13, s. 68][roborock-care] |
-| t2k | Wymiana worka | Gdy pełny | Filtr komory wytrzyj na sucho; nowy worek wsuń do końca. Nie opróżniaj bez worka. [C14, s. 69][roborock-dock] |
-| t2l | Kanał zasysający stacji | Przy blokadzie | Przed odwróceniem wyjmij zbiorniki, pojemnik i filtr wody, osusz. [Kroki C15, s. 69][roborock-dock] |
-| t2m | Wymiana szczotki bocznej i ściereczki mopa | Co 3–6 miesięcy | [C2, s. 67][roborock-brushes]; [C7, s. 68][roborock-care]. |
-| t2n | Wymiana szczotek głównych, filtra robota i szczotki myjącej stacji | Co 6–12 miesięcy | [C1, s. 67][roborock-brushes]; [C6, C12, s. 68][roborock-care]. |
+| t1a | Uzupełnij czystą wodę | W razie potrzeby | Bez gorącej wody; ewentualny płyn wyłącznie Roborock, według etykiety. [Instrukcja][roborock-water] |
+| t1b | Opróżnij i wypłucz zbiornik brudnej wody | W razie potrzeby | Opróżnij, przepłucz czystą wodą, zamknij zatrzask. [Instrukcja][roborock-care] |
+| t2a | Wyczyść szczotki główne | Co 2 tygodnie | Usuń włosy z końców i łożysk; przetrzyj wilgotno, wysusz poza słońcem. [Instrukcja][roborock-brushes] |
+| t2b | **Wypłucz filtr robota** | **Co 2 tygodnie** | Wypłucz; nie dotykaj powierzchni rękami ani szczotką. **Susz 24 godziny**, do pełnego wyschnięcia przed montażem. [Instrukcja][roborock-care] |
+| t2c | Wyczyść szczotkę boczną | Co miesiąc | Odkręć, oczyść, ponownie przykręć. [Instrukcja][roborock-brushes] |
+| t2d | Przetrzyj kółka główne | Co miesiąc | Przetrzyj miękką, suchą ściereczką. [Instrukcja][roborock-brushes] |
+| t2e | Wyczyść małe kółko obrotowe | W razie potrzeby | Wyjmij kółko i oś, wypłucz, wysusz; wspornika nie demontuj. [Instrukcja][roborock-brushes] |
+| t2f | Opróżnij i umyj pojemnik na kurz | W razie potrzeby | Wyjmij filtr; pojemnik opróżnij, wypłucz bez detergentu, wysusz. [Instrukcja][roborock-care] |
+| t2g | Wyczyść ściereczkę mopa | W razie potrzeby | Zdejmij samą ściereczkę, wyczyść, wysusz na powietrzu. [Instrukcja][roborock-care] |
+| t2h | Przetrzyj czujniki i styki ładowania | W razie potrzeby | Wyłącznie miękka, sucha ściereczka. [Instrukcja][roborock-care] |
+| t2i | Wyczyść szczotkę myjącą stacji | W razie potrzeby | Wyjmij, usuń włosy, opłucz, zatrzaśnij. [Instrukcja][roborock-care] |
+| t2j | Wyczyść filtr wody i komorę myjącą | W razie potrzeby | Filtr wypłucz; komorę wytrzyj na sucho. Zatrzaśnij filtr. [Instrukcja][roborock-care] |
+| t2k | Wymień worek na kurz | Gdy pełny | Filtr komory wytrzyj na sucho; nowy worek wsuń do końca. Nie uruchamiaj opróżniania bez worka. [Instrukcja][roborock-dock] |
+| t2l | Udrożnij kanał zasysający stacji | Przy blokadzie | Przed odwróceniem wyjmij zbiorniki, pojemnik i filtr wody, osusz. [Instrukcja][roborock-dock] |
+| t2m | Wymień szczotkę boczną i ściereczkę mopa | Co 3–6 miesięcy | [Szczotka][roborock-brushes] · [Mop][roborock-care] |
+| t2n | Wymień szczotki główne, filtr robota i szczotkę myjącą stacji | Co 6–12 miesięcy | [Szczotki główne][roborock-brushes] · [Filtr i szczotka stacji][roborock-care] |
 
-### Pozostałe zadania charakterystyczne dla mieszkania
+### Ważne drobiazgi
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| t9 | Czyszczenie wentylatorów i kratek | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
-| sa5 | Przetarcie czapki z diodami LED | Co tydzień | — |
-| sa6 | Przetarcie maski na twarz z diodami LED | Co tydzień | — |
-| l12 | Czyszczenie czarnej wagi Withings | Co 2 tygodnie | — |
-| p22 | Czyszczenie kamer | Co miesiąc | — |
-| p23 | Czyszczenie pojemników na tabletki z zewnątrz | Co miesiąc | — |
-| p13 | Mycie ręczne dużych stalowych butelek na siłownię | Co tydzień | — |
-| p14 | Mycie ręczne ogromnego przezroczystego kubka na wodę | Co tydzień | — |
-| p24 | Wymiana ręcznika w torbie na siłownię | Co tydzień | — |
+| sa5 | Przetrzyj czapkę LED | Co tydzień | — |
+| sa6 | Przetrzyj maskę LED | Co tydzień | — |
+| p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
+| p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
+| p24 | Wymień ręcznik w torbie na siłownię | Co tydzień | — |
+| l12 | Wyczyść czarną wagę Withings | Co 2 tygodnie | — |
+| t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
+| p22 | Wyczyść kamery | Co miesiąc | — |
+| p23 | Przetrzyj pojemniki na tabletki z zewnątrz | Co miesiąc | — |
 
-Pozostałe zadania według stref:
+---
 
-## 🟢 Ogólne czynności podstawowe
+Pozostałe sprzątanie — według pomieszczeń:
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+## 🟢 Całe mieszkanie
+
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| p1 | Odkurzanie całego mieszkania | Co tydzień | — |
-| p2 | Mycie podłóg | Co tydzień | — |
-| p3 | Przetarcie kurzu z mebli i półek | Co tydzień | — |
-| p4 | Opróżnianie koszy na śmieci | Co tydzień | kuchnia, łazienka, WC, biuro, sypialnia |
-| p5 | Czyszczenie koszy na śmieci w środku | Co miesiąc | — |
-| p6 | Czyszczenie szuflad i polek w środku | Co miesiąc | — |
-| p7 | Czyszczenie blatów | Co tydzień | — |
-| p8 | Czyszczenie mebli | Co 2 tygodnie | — |
-| p9 | Uporządkowanie widocznych powierzchni | Co tydzień | — |
-| p10 | Wytarcie stołu, biurka, szafek | Co tydzień | — |
-| p11 | Uporządkowanie rzeczy leżących luzem | Co tydzień | — |
-| p12 | Pranie lub czyszczenie butów jeżeli mocno brudne | Co miesiąc | — |
-| p15 | Wyrzucenie pustych opakowań i kartonów | Co tydzień | — |
-| p16 | Czyszczenie luster | Co tydzień | — |
-| p17 | Przetarcie klamek i włączników | Co tydzień | — |
-| p18 | Czyszczenie krzeseł | Co 2 tygodnie | — |
-| p19 | Czyszczenie elektroniki | Co tydzień | pady do XBOX-a, piloty, itp. |
-| p20 | Czyszczenie ekranów | Co 3 tygodnie | TV, komputer, laptop, tablet, telefon; Specjalnym środkiem i specjalną ścierką z mikrofibry. |
-| p21 | Czyszczenie rolet / zasłon | Co miesiąc | — |
-| p25 | Pstryknąć zapachowanym sprayem w każdym pomieszczeniu | Co tydzień | — |
+| p1 | Odkurz całe mieszkanie | Co tydzień | — |
+| p2 | Umyj podłogi | Co tydzień | — |
+| p3 | Zetrzyj kurz z mebli i półek | Co tydzień | — |
+| p4 | Opróżnij kosze na śmieci | Co tydzień | kuchnia, łazienka, WC, biuro, sypialnia |
+| p7 | Wyczyść blaty | Co tydzień | — |
+| p9 | Uporządkuj widoczne powierzchnie | Co tydzień | — |
+| p10 | Wytrzyj stół, biurko i szafki | Co tydzień | — |
+| p11 | Odłóż luźne rzeczy na miejsce | Co tydzień | — |
+| p15 | Wyrzuć puste opakowania i kartony | Co tydzień | — |
+| p16 | Umyj lustra | Co tydzień | — |
+| p17 | Przetrzyj klamki i włączniki | Co tydzień | — |
+| p19 | Wyczyść elektronikę | Co tydzień | pady do XBOX-a, piloty, itp. |
+| p25 | Użyj sprayu zapachowego w każdym pomieszczeniu | Co tydzień | — |
+| p8 | Wyczyść meble | Co 2 tygodnie | — |
+| p18 | Wyczyść krzesła | Co 2 tygodnie | — |
+| p20 | Wyczyść ekrany | Co 3 tygodnie | TV, komputer, laptop, tablet, telefon. Środek do ekranów i specjalna ściereczka z mikrofibry. |
+| p5 | Umyj kosze na śmieci w środku | Co miesiąc | — |
+| p6 | Wyczyść szuflady i półki w środku | Co miesiąc | — |
+| p12 | Wypierz lub wyczyść mocno zabrudzone buty | Co miesiąc | — |
+| p21 | Wyczyść rolety / zasłony | Co miesiąc | — |
 
 ## 🍳 Kuchnia
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| k1 | Wymiana ręczników do rąk i naczyń | Co tydzień | — |
-| k2 | Mycie zlewu kuchennego | Co tydzień | — |
-| k3 | Czyszczenie lodówki | Co 2 tygodnie | — |
-| k4 | Wyrzucanie przeterminowanego jedzenia | Co 2 tygodnie | — |
-| k5 | Mycie piekarnika | Co 2 tygodnie | — |
-| k6 | Mycie mikrofalówki | Co 2 tygodnie | — |
-| k7 | Mycie blendera | Co tydzień | — |
-| k8 | Czyszczenie opiekacza do chleba | Co tydzień | — |
-| k9 | Uporządkowanie szafek kuchennych | Co miesiąc | — |
-| k10 | Wkładanie naczyń do zmywarki | Co tydzień | program Eco 3h lub auto |
-| k11 | Wyjmowanie naczyń ze zmywarki i układanie w szafkach | Co tydzień | — |
-| k12 | Czyszczenie zmywarki | Co miesiąc | żółty czyścik + tryb Machine Care - 65 stopni |
-| k13 | Uzupełnienie nabłyszczacza w zmywarce | Co miesiąc | — |
-| k14 | Uzupełnienie soli w zmywarce | Co miesiąc | — |
-| k15 | Odkamienianie czajnika | Co miesiąc | — |
-| k16 | Porządkowanie apteczki | Co 2 miesiące | — |
+| k1 | Wymień ręczniki do rąk i naczyń | Co tydzień | — |
+| k2 | Umyj zlew | Co tydzień | — |
+| k7 | Umyj blender | Co tydzień | — |
+| k8 | Wyczyść opiekacz do chleba | Co tydzień | — |
+| k10 | Wstaw naczynia do zmywarki | Co tydzień | Program Eco 3 h lub Auto. |
+| k11 | Wyjmij naczynia ze zmywarki i schowaj | Co tydzień | — |
+| k3 | Wyczyść lodówkę | Co 2 tygodnie | — |
+| k4 | Wyrzuć przeterminowane jedzenie | Co 2 tygodnie | — |
+| k5 | Umyj piekarnik | Co 2 tygodnie | — |
+| k6 | Umyj mikrofalówkę | Co 2 tygodnie | — |
+| k9 | Uporządkuj szafki kuchenne | Co miesiąc | — |
+| k12 | Wyczyść zmywarkę | Co miesiąc | Żółty czyścik + Machine Care, 65°C. |
+| k13 | Uzupełnij nabłyszczacz | Co miesiąc | — |
+| k14 | Uzupełnij sól w zmywarce | Co miesiąc | — |
+| k15 | Odkamień czajnik | Co miesiąc | — |
+| k16 | Uporządkuj apteczkę | Co 2 miesiące | — |
 
 ## 🚿 Łazienka i WC
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| l1 | Uzupełnianie papieru toaletowego | Co tydzień | — |
-| l2 | Wymiana ręczników do rąk w łazience i w WC | Co tydzień | — |
-| l3 | Wymiana ręczników do ciała w łazience | Co 2 tygodnie | dwie sztuki |
-| l4 | Mycie toalet | Co tydzień | — |
-| l5 | Mycie kabiny prysznicowej | Co tydzień | — |
-| l6 | Mycie umywalek | Co tydzień | środek z koala do konglomeratu |
-| l7 | Mycie armatury | Co tydzień | — |
-| l8 | Usuwanie kamienia z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
-| l9b | Uzupełnienie żelu pod prysznic | Co 2 tygodnie | — |
-| l10 | Uporządkowanie kosmetyków, wyrzucenie pustych opakowań | Co miesiąc | — |
-| l13 | Wstawienie prania | Co tydzień | program bawełna 40 stopni 1200RPM + suszenie 1h lub 2h |
-| l14 | Wypakowanie i rozwieszenie prania | Co tydzień | — |
-| l15 | Czyszczenie pralki | Co miesiąc | — |
-| l16 | Odkamienianie pralki | Co miesiąc | machine care + proszek calgon |
-| l17 | Uzupełnienie naklejek zapachowych w toaletach | Co 2 miesiące | — |
+| l1 | Uzupełnij papier toaletowy | Co tydzień | — |
+| l2 | Wymień ręczniki do rąk w łazience i WC | Co tydzień | — |
+| l4 | Umyj toalety | Co tydzień | — |
+| l5 | Umyj kabinę prysznicową | Co tydzień | — |
+| l6 | Umyj umywalki | Co tydzień | Środek z koalą do konglomeratu. |
+| l7 | Umyj armaturę | Co tydzień | — |
+| l13 | Wstaw pranie | Co tydzień | Bawełna 40°C, 1200 obr./min + suszenie 1–2 h. |
+| l14 | Wyjmij i rozwieś pranie | Co tydzień | — |
+| l3 | Wymień ręczniki do ciała | Co 2 tygodnie | dwie sztuki |
+| l9b | Uzupełnij żel pod prysznic | Co 2 tygodnie | — |
+| l8 | Usuń kamień z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
+| l10 | Uporządkuj kosmetyki i wyrzuć puste opakowania | Co miesiąc | — |
+| l15 | Wyczyść pralkę | Co miesiąc | — |
+| l16 | Odkamień pralkę | Co miesiąc | Machine Care + proszek Calgon. |
+| l17 | Uzupełnij naklejki zapachowe w toaletach | Co 2 miesiące | — |
 
-## 🏢 Biuro i miejsce pracy
+## 🏢 Biuro
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| b1 | Uporządkowanie biurka | Co tydzień | — |
-| b2 | Czyszczenie klawiatury, myszki, słuchawek i podkładki | Co 2 tygodnie | — |
-| b3 | Czyszczenie laptopa | Co miesiąc | — |
-| b4 | Czyszczenie tapicerki krzesła biurowego | Co 2 tygodnie | — |
-| b5 | Organizacja kabli i ładowarek | Co miesiąc | — |
+| b1 | Uporządkuj biurko | Co tydzień | — |
+| b2 | Wyczyść klawiaturę, myszkę, słuchawki i podkładkę | Co 2 tygodnie | — |
+| b4 | Wyczyść tapicerkę krzesła biurowego | Co 2 tygodnie | — |
+| b3 | Wyczyść laptop | Co miesiąc | — |
+| b5 | Uporządkuj kable i ładowarki | Co miesiąc | — |
 
 ## 🛋️ Salon
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| sa1 | Pranie i wymiana koców | Co miesiąc | — |
-| sa2 | Pranie i wymiana poszewek poduszek | Co miesiąc | — |
-| sa3 | Odkurzenie sofy | Co tydzień | — |
-| sa4 | Mycie/pranie sofy | Co miesiąc | — |
-
+| sa3 | Odkurz sofę | Co tydzień | — |
+| sa1 | Wypierz i wymień koce | Co miesiąc | — |
+| sa2 | Wypierz i wymień poszewki poduszek | Co miesiąc | — |
+| sa4 | Umyj / wypierz sofę | Co miesiąc | — |
 
 ## 🛏️ Sypialnia i garderoba
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| s1 | Wymiana pościeli | Co tydzień | — |
-| s2 | Uporządkowanie szafy | Co miesiąc | — |
-| s3 | Uporządkowanie szuflad i bielizny | Co miesiąc | — |
-| s4 | Odłożenie rzeczy na miejsce | Co tydzień | — |
+| s1 | Wymień pościel | Co tydzień | — |
+| s4 | Odłóż rzeczy na miejsce | Co tydzień | — |
+| s2 | Uporządkuj szafę | Co miesiąc | — |
+| s3 | Uporządkuj szuflady i bieliznę | Co miesiąc | — |
 
-## 🪴 Rośliny i przyroda
+## 🪴 Rośliny
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| r1 | Podlewanie roślin | Co tydzień | — |
-| r2 | Zraszanie roślin | Co tydzień | — |
-| r3 | Obracanie roślin w stronę światła | Co tydzień | — |
-| r4 | Usuwanie suchych liści | Co tydzień | — |
-| r5 | Nawożenie roślin | Co miesiąc | — |
+| r1 | Podlej rośliny | Co tydzień | — |
+| r2 | Zroś rośliny | Co tydzień | — |
+| r3 | Obróć rośliny w stronę światła | Co tydzień | — |
+| r4 | Usuń suche liście | Co tydzień | — |
+| r5 | Nawieź rośliny | Co miesiąc | — |
 
-## 🛠️ Utrzymanie i konserwacja
+## 🛠️ Baterie i brakujące produkty
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| t7 | Wymiana baterii w urządzeniach lub ładowanie | Co miesiąc | — |
-| t8 | Zrobienie listy zakupów jeżeli czegoś brakuje | Co 2 tygodnie | — |
+| t8 | Zapisz, jakie produkty trzeba dokupić | Co 2 tygodnie | — |
+| t7 | Wymień baterie lub naładuj urządzenia | Co miesiąc | — |
 
-## 🔁 Rzadziej wykonywane zadania sezonowe
+## 🔁 Rzadziej wykonywane zadania
 
-| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| z1 | Udrażnianie odpływów | Co miesiąc | Kret |
-| z2 | Mycie okien | Co 2 miesiące | Niebieski W5 płyn do mycia okien |
-| z3 | Mycie balkonu | Co 2 miesiące | — |
-| z4 | Mycie ścian magiczną białą gąbką tam gdzie są zabrudzone | Co 2 miesiące | — |
-| z5 | Pranie poduszek i kołder | Co 2 miesiące | — |
-| z5 | Odkurzanie pod meblami | Co 2 miesiące | — |
-| z6 | Generalne sprzątanie szafek kuchennych | Co 2 miesiące | — |
-| z7 | Mycie drzwi i framug | Co miesiąc | — |
-| z8 | Usuwanie pajęczyn z rogów | Co miesiąc | — |
-| z9 | Czyszczenie lamp i sufitów | Co 3 miesiące | — |
+| z1 | Udrożnij odpływy | Co miesiąc | Kret |
+| z7 | Umyj drzwi i framugi | Co miesiąc | — |
+| z8 | Usuń pajęczyny z rogów | Co miesiąc | — |
+| z2 | Umyj okna | Co 2 miesiące | Niebieski płyn W5 do okien. |
+| z3 | Umyj balkon | Co 2 miesiące | — |
+| z4 | Usuń zabrudzenia ze ścian | Co 2 miesiące | Biała magiczna gąbka. |
+| z5 | Wypierz poduszki i kołdry | Co 2 miesiące | — |
+| z10 | Odkurz pod meblami | Co 2 miesiące | — |
+| z6 | Dokładnie wyczyść szafki kuchenne | Co 2 miesiące | — |
+| z9 | Wyczyść lampy i sufity | Co 3 miesiące | — |
 
-## Instrukcje i ustalenia
+---
 
-Sprawdzono 25.09.2026. Linki w tabelach prowadzą do instrukcji producentów; oznaczenia „PL-…” odnoszą się do polskiej części instrukcji Sharp. „—” oznacza notatkę do uzupełnienia.
-
-- **Vestfrost:** terminy wymiany przyjęto z instrukcji (3–6 miesięcy); opis produktu podaje inny okres dla modułu uzdatniania.
-- **Waterpik:** proporcje odkamieniania układu wodnego przyjęto z instrukcji WP-660EU. Ogólny poradnik podaje inny przepis; w zadaniu l11d stosuj instrukcję modelu.
+[Źródła i uwagi do instrukcji](docs/zrodla.md)
 
 [sharp-panel]: https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992#page=47
 [sharp-hepa]: https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992#page=50
