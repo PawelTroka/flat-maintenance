@@ -1,0 +1,152 @@
+{
+  "downloaded_on": "2026-09-25",
+  "images": [
+    {
+      "id": "denkmit-white",
+      "title": "Denkmit Ultra Sensitive do białego",
+      "path": "docs/images/denkmit-white.png",
+      "source_page": "https://www.dm.pl/p/d/1622337/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg",
+      "source_image": "https://products.dm-static.com/images/f_auto%2Cq_auto%2Cc_fit%2Ch_440%2Cw_500/v1772149852/assets/pas/images/ba699a2e-6e89-488e-ad36-a108d163379d/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg",
+      "final_image_url": "https://products.dm-static.com/images/f_auto%2Cq_auto%2Cc_fit%2Ch_440%2Cw_500/v1772149852/assets/pas/images/ba699a2e-6e89-488e-ad36-a108d163379d/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg",
+      "downloaded_at": "2026-09-25T18:49:11.066525+00:00",
+      "sha256": "76ea8e30971082ed6c5025a225973a53c8a4304311110fa8de1c033b4c818aa4",
+      "bytes": 85508,
+      "width": 349,
+      "height": 440,
+      "notes": "Zdjęcie ze strony marki; niezmienione bajty źródłowe. Wizualnie potwierdzono właściwe opakowanie i napis Vollwaschmittel / Colorwaschmittel."
+    },
+    {
+      "id": "denkmit-colour",
+      "title": "Denkmit Ultra Sensitive do kolorów",
+      "path": "docs/images/denkmit-colour.png",
+      "source_page": "https://www.dm.pl/p/d/1675190/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg",
+      "source_image": "https://products.dm-static.com/images/f_auto%2Cq_auto%2Cc_fit%2Ch_440%2Cw_500/v1755012512/assets/pas/images/2ddf3d28-9233-48bd-85b8-86a424a6b041/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg",
+      "final_image_url": "https://products.dm-static.com/images/f_auto%2Cq_auto%2Cc_fit%2Ch_440%2Cw_500/v1755012512/assets/pas/images/2ddf3d28-9233-48bd-85b8-86a424a6b041/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg",
+      "downloaded_at": "2026-09-25T18:49:11.160035+00:00",
+      "sha256": "667e57c36a99a479b0be1533d316593df8a21009ada1b49d86179fcfa34e30ab",
+      "bytes": 87610,
+      "width": 331,
+      "height": 440,
+      "notes": "Zdjęcie ze strony marki; niezmienione bajty źródłowe. Wizualnie potwierdzono właściwe opakowanie i napis Vollwaschmittel / Colorwaschmittel."
+    },
+    {
+      "id": "lipikar-syndet-refill",
+      "title": "La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml",
+      "path": "docs/images/lipikar-syndet-refill.jpg",
+      "source_page": "https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873",
+      "source_image": "https://static.gemini.pl/assets/produkty/0121873/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-17727268731.jpg",
+      "downloaded_at": "2026-09-25T18:50:49.643423+00:00",
+      "sha256": "1a126cec3f1e118e4b659923ac88205eee81f7235dcee3f27f8058c055782261",
+      "bytes": 563591,
+      "width": 1500,
+      "height": 1500,
+      "notes": "Niezmienione zdjęcie katalogowe z polskiej karty Gemini (produkt 0121873). Saszetka 400 ml. Oficjalne strony PL/UK identyfikują ten sam produkt, ale plik zdjęcia UK zwracał HTTP403; dlatego źródłem zdjęcia jest jawnie wskazany sklep."
+    },
+    {
+      "id": "candy-bps-8n2bx-s",
+      "title": "Candy BPS 8N2BX-S — suszarka",
+      "source_page": "https://www.candy-home.com/pl_PL/suszarki/31103043/bps-8n2bx-s/",
+      "source_image": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2025/10/17594036/640-1_31103043_11_01_f_bps%208n2bx-s-M.jpg",
+      "notes": [
+        "Zdjęcie producenta wskazane w danych Product (JSON-LD) na oficjalnej polskiej stronie modelu BPS 8N2BX-S, kod 31103043; kolor biały. Pobrano niezmieniony plik źródłowy z CDN producenta.",
+        "Wizualnie sprawdzono pobrany plik: całe urządzenie widoczne na jasnym tle, bez kadrowania i bez lokalnych modyfikacji obrazu."
+      ],
+      "path": "docs/images/candy-bps-8n2bx-s.jpg",
+      "downloaded_at": "2026-09-25T20:48:18.183759+02:00",
+      "sha256": "1d22808b7b4b1db4a13137a66d258c04d3ba9b55ecec5978e958bf870b2a3119",
+      "bytes": 92471,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "id": "candy-bp-49sbl8-s",
+      "title": "Candy BP 49SBL8-S — pralka",
+      "source_page": "https://www.candy-home.com/pl_PL/pralki-ladowane-od-frontu/31020575/bp-49sbl8-s/",
+      "source_image": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2024/10/17301178/640-1_31020575_09_01_f_bp%2049sbl8-s-M.jpg",
+      "notes": [
+        "Zdjęcie producenta wskazane w danych Product (JSON-LD) na oficjalnej polskiej stronie modelu BP 49SBL8-S, kod 31020575; kolor biały. Pobrano niezmieniony plik źródłowy z CDN producenta.",
+        "Wizualnie sprawdzono pobrany plik: całe urządzenie widoczne na jasnym tle, bez kadrowania i bez lokalnych modyfikacji obrazu."
+      ],
+      "path": "docs/images/candy-bp-49sbl8-s.jpg",
+      "downloaded_at": "2026-09-25T20:48:18.333644+02:00",
+      "sha256": "e56c60d57d944753e0016a1fc027c52c1346db79c7072af389fdb702d250a89a",
+      "bytes": 73372,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "id": "withings-body-scan-black",
+      "title": "Withings Body Scan Black — waga",
+      "source_page": "https://www.withings.com/en-us/products/body-scan-black",
+      "source_image": "https://www.withings.com/cdn/shop/files/PACKSHOT_body-scan-black__70795731_INT_handle-up-front_01.jpg?v=1781165149&width=3840",
+      "notes": [
+        "Zdjęcie producenta z galerii oficjalnej strony Body Scan Black: opis alternatywny identyfikuje czarny Body Scan, widok z góry z uchwytem. Pobrano niezmieniony plik udostępniany przez stronę producenta; nie jest to model BodyScan 2.",
+        "Wizualnie sprawdzono pobrany plik: całe urządzenie widoczne na jasnym tle, bez kadrowania i bez lokalnych modyfikacji obrazu."
+      ],
+      "path": "docs/images/withings-body-scan-black.jpg",
+      "downloaded_at": "2026-09-25T20:48:18.426687+02:00",
+      "sha256": "26eaebac153f5cb6cb11bdad07c8ad17bd3cc8171fb21a3caf39af8e02fc7124",
+      "bytes": 91704,
+      "width": 2160,
+      "height": 2160
+    },
+    {
+      "id": "sharp-ki-tx100eu-w",
+      "title": "Sharp KI-TX100EU-W — biały oczyszczacz z nawilżaczem",
+      "source_page": "https://idealnepowietrze.pl/p/sharp-ki-tx100eu-w/",
+      "source_image": "https://idealnepowietrze.pl/wp-content/uploads/KI-TX100_W_02_01_high-scaled.jpg",
+      "path": "docs/images/sharp-ki-tx100eu-w.jpg",
+      "downloaded_at": "2026-09-25T18:50:36+00:00",
+      "sha256": "686b550235f2f50ca8fbd65d53b2a1a2970800f24eb599a95eb6598f5a84f920",
+      "bytes": 282786,
+      "width": 2313,
+      "height": 2560,
+      "notes": "Katalogowe zdjęcie całego białego modelu KI-TX100EU-W, widok z przodu i prawego boku. Źródło zastępcze: strona autoryzowanego partnera Sharp (oznaczenie Autoryzowany partner przy tym modelu), idealnepowietrze.pl. Zdjęcie katalogowe KI-TX100_W_02_01_high z galerii dokładnego modelu; nie znaleziono odpowiedniego zdjęcia na stronie producenta. Wizualnie zweryfikowano kompletne urządzenie, ekran z prawej, przedni wylot i okienko wody na boku. Pobrane bajty pozostawiono bez zmian; bez AI, kadrowania i retuszu."
+    },
+    {
+      "id": "vestfrost-vp-h2i40wh",
+      "title": "Vestfrost VP-H2I40WH — nawilżacz",
+      "source_page": "https://vestfrosthome.eu/pl/nawilzacze-powietrza/107-inteligentny-oczyszczacz-powietrza-5901138702994.html",
+      "source_image": "https://vestfrosthome.eu/606-large_default/inteligentny-oczyszczacz-powietrza.jpg",
+      "path": "docs/images/vestfrost-vp-h2i40wh.jpg",
+      "downloaded_at": "2026-09-25T18:49:38+00:00",
+      "sha256": "ca90b2dd2726c82f5f26883fc82d785ba74ed46756b8a1d5bbff5284545a8669",
+      "bytes": 30102,
+      "width": 800,
+      "height": 800,
+      "notes": "Oryginalne zdjęcie z oficjalnej strony Vestfrost, główna fotografia produktu VP-H2I40WH. Pomimo historycznego slugu i nazwy pliku z oczyszczaczem, treść strony jednoznacznie podaje VP-H2I40WH. Wizualnie zweryfikowano całe białe cylindryczne urządzenie z przednim okienkiem wody i dolną kratką. Pobrane bajty pozostawiono bez zmian; bez AI, kadrowania i retuszu."
+    },
+    {
+      "id": "waterpik-wp-660eu",
+      "title": "Waterpik WP-660EU Ultra Professional — biały irygator",
+      "source_page": "https://www.waterpik.co.uk/products/ultra-professional-white-copy",
+      "source_image": "https://www.waterpik.co.uk/cdn/shop/files/Waterpik_360_Degree_View_Image_WP-660EU_White_Ultra_Professional_21_18-February-2022_1.jpg?v=1789028995&width=823",
+      "path": "docs/images/waterpik-wp-660eu.jpg",
+      "downloaded_at": "2026-09-25T18:49:39+00:00",
+      "sha256": "4d8ba1994d460d7230908fcfce07d4fc56399dcfd60fd928fa0e3e81bf7559dc",
+      "bytes": 24732,
+      "width": 823,
+      "height": 823,
+      "notes": "Oficjalna fotografia Waterpik UK dla WP-660EU Ultra Professional White, dostępny na stronie wariant obrazu 823 px. Wizualnie zweryfikowano całe urządzenie z rączką, zbiornikiem, pokrętłem ciśnienia i przewodem. Zdjęcie przedstawia wersję białą; kolor egzemplarza użytkownika nie jest potwierdzony. Pobrane bajty pozostawiono bez zmian; bez AI, kadrowania i retuszu."
+    },
+    {
+      "id": "roborock-s8-pro-ultra",
+      "title": "Roborock S8 Pro Ultra — robot i stacja",
+      "source_page": "https://pl.roborock.com/pages/roborock-s8-pro-ultra",
+      "source_image": "https://pl.roborock.com/cdn/shop/files/S8_Pro_Ultra_White_ID.png?v=1759042478",
+      "path": "docs/images/roborock-s8-pro-ultra.png",
+      "downloaded_at": "2026-09-25T18:49:38+00:00",
+      "sha256": "88c2926b15b35b18de2a0c8cefbe8b846bffa611d17748715fa52a03fff54ba5",
+      "bytes": 285120,
+      "width": 1000,
+      "height": 1000,
+      "notes": "Oficjalna fotografia z polskiej strony Roborock, zasób oznaczony S8 Pro Ultra. Wizualnie zweryfikowano robota i pełną stację RockDock Ultra razem; fotografia białej wersji, przezroczyste tło. Pobrane bajty pozostawiono bez zmian; bez AI, kadrowania i retuszu."
+    }
+  ],
+  "omitted": [
+    {
+      "id": "ziree-cap",
+      "reason": "Galeria produktu jest wspólna dla wielu wersji z różną liczbą diod; brak zdjęcia jednoznacznie przypisanego do wariantu272. Nie użyto zdjęcia innego wariantu jako zdjęcia posiadanej czapki."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Lista sprzątania mieszkania
 
-[Pranie](#pranie) · [Filtry i sprzęt](#sprzet) · [Pomieszczenia](#pomieszczenia) · [Rejestr wizyt](docs/wizyty.md) · [Instrukcje offline](docs/manuals/README.md)
+[Pranie](#pranie) · [Filtry i sprzęt](#sprzet) · [Pomieszczenia](#pomieszczenia) · [Zdjęcia sprzętu i produktów](docs/zdjecia.md) · [Rejestr wizyt](docs/wizyty.md) · [Instrukcje offline](docs/manuals/README.md)
 
 1. **Sprawdź terminy** w [rejestrze wizyt](docs/wizyty.md). Zadania miesięczne i rzadsze wykonuj, gdy przypada ich termin; zadania „w razie potrzeby” sprawdź na miejscu.
 2. **Zacznij od ważnych zadań poniżej.** Pranie i dłuższe programy uruchom wcześnie, żeby zdążyć je zakończyć.
@@ -12,6 +12,8 @@
 
 ### Mydło do rąk i żel pod prysznic
 
+[Zdjęcie saszetki Lipikar](docs/zdjecia.md#lipikar)
+
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
 | l9a | Uzupełnij mydło we wszystkich dozownikach do rąk | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml][lipikar-refill]. |
@@ -20,6 +22,8 @@
 <a id="pranie"></a>
 
 ### Pranie — ręczniki, pościel, ubrania i buty osobno
+
+[Zdjęcia obu proszków — jak je odróżnić](docs/zdjecia.md#proszki)
 
 **Ręczniki, pościel, ubrania i buty pierz w osobnych wsadach. Białe zawsze oddzielaj od kolorowych.** Proszek **Denkmit Ultra Sensitive** dawkuj według opakowania; program dobierz do metki.
 
@@ -43,7 +47,11 @@ Przekreślony trójkąt na metce = **bez wybielacza**, także dla białych rzecz
 
 <a id="sprzet"></a>
 
+<a id="sharp"></a>
+
 ### Sypialnia — oczyszczacz Sharp KI-TX100EU-W
+
+[Zdjęcie urządzenia](docs/zdjecia.md#sharp)
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
@@ -58,7 +66,11 @@ Przekreślony trójkąt na metce = **bez wybielacza**, także dla białych rzecz
 
 Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przytrzymaj **HUMIDIFY ON/OFF przez 3 sekundy**, aby skasować komunikat „Maintenance”. [Instrukcja][sharp-reset]
 
+<a id="vestfrost"></a>
+
 ### Biuro — nawilżacz Vestfrost VP-H2I40WH
+
+[Zdjęcie urządzenia](docs/zdjecia.md#vestfrost)
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
@@ -72,7 +84,11 @@ Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przyt
 | t4 | Wyczyść wkład zapachowy / dodaj olejek | W razie potrzeby | Brudny wkład wypłucz, wysusz; olejek 8–10 kropli **tylko na wkład, nigdy do wody**. [Olejek][vest-aroma] · [Mycie wkładu][vest-aroma-clean] |
 | t5g | Opróżnij i osusz zbiornik przed przerwą | Przed przerwą min. tydzień | Wylej wodę, wyczyść i dokładnie osusz. [Instrukcja][vest-clean] |
 
+<a id="waterpik"></a>
+
 ### Łazienka — irygator Waterpik WP-660 Ultra Professional
+
+[Zdjęcie urządzenia](docs/zdjecia.md#waterpik)
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
@@ -83,7 +99,11 @@ Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przyt
 | l11e | Wymień końcówki specjalistyczne | Co 3 miesiące, jeśli używane | Orthodontic, Pik Pocket, Plaque Seeker, końcówka-szczoteczka. [Instrukcja][waterpik-tips] |
 | l11f | Wymień końcówki standardowe | Co 6 miesięcy, jeśli używane | Classic Jet i końcówka do języka. [Instrukcja][waterpik-tips] |
 
+<a id="suszarka"></a>
+
 ### Suszarka — Candy BPS 8N2BX-S
+
+[Zdjęcie suszarki](docs/zdjecia.md#candy)
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
@@ -93,7 +113,11 @@ Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przyt
 
 Mocno zabrudzone filtry można wypłukać pod kranem; przed montażem **całkowicie je wysusz**. [Instrukcja][candy-dryer-filters]
 
+<a id="pralka"></a>
+
 ### Pralka — Candy BP 49SBL8-S
+
+[Zdjęcie pralki](docs/zdjecia.md#candy)
 
 Przed ręcznym czyszczeniem pralki zakręć też dopływ wody.
 
@@ -103,7 +127,11 @@ Przed ręcznym czyszczeniem pralki zakręć też dopływ wody.
 | l18 | **Wyczyść filtr pompy odpływowej** | **Co miesiąc** | Poczekaj, aż woda ostygnie. Spuść ją wężykiem pod klapką do płaskiej miski; zatkaj i schowaj wężyk. Odkręć filtr w lewo, wypłucz, oczyść i sprawdź uszczelkę, dokładnie dokręć i zamknij klapkę. [Instrukcja][candy-washer-filter] |
 | l15 | Umyj szufladę; przetrzyj uszczelkę i obudowę | Co miesiąc | Wyjmij szufladę, wciskając zatrzask; wypłucz. Uszczelkę i obudowę przetrzyj miękką ściereczką z wodą z mydłem. [Instrukcja][candy-washer-care] |
 
+<a id="roborock"></a>
+
 ### Robot odkurzający i stacja — Roborock S8 Pro Ultra
+
+[Zdjęcie robota i stacji](docs/zdjecia.md#roborock)
 
 Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czyszczeniem wyłącz robota i odłącz stację od prądu. [Rysunki części][roborock-diagrams]
 
@@ -135,7 +163,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
 | p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
-| l12 | Wyczyść wagę Withings Body Scan Black | Przed pomiarem / przy każdej wizycie | Szklaną płytę i elektrody uchwytu przetrzyj niestrzępiącą się ściereczką z ciepłą wodą. **Bez detergentów i środków czyszczących.** [Instrukcja][withings-clean] |
+| l12 | Wyczyść wagę Withings Body Scan Black | Przed pomiarem / przy każdej wizycie | Szklaną płytę i elektrody uchwytu przetrzyj niestrzępiącą się ściereczką z ciepłą wodą. **Bez detergentów i środków czyszczących.** [Instrukcja][withings-clean] · [Zdjęcie](docs/zdjecia.md#withings) |
 | b2 | Wyczyść klawiaturę, myszkę, słuchawki i podkładkę w biurze | Co 2 tygodnie | — |
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |

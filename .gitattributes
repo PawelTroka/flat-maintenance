@@ -2,3 +2,7 @@
 docs/manuals/*.pdf binary
 docs/manuals/*.md text eol=lf
 docs/manuals/*.json text eol=lf
+docs/images/*.jpg binary
+docs/images/*.png binary
+docs/images/*.webp binary
+docs/images/*.json text eol=lf
