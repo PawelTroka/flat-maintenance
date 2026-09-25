@@ -2,7 +2,7 @@
 
 ## ⭐ Ważne w tym mieszkaniu — sprawdź na początku wizyty
 
-Przy każdej wizycie sprawdź poniższą listę i wykonaj zadania zgodnie z podaną częstotliwością. **Pamiętaj zwłaszcza o filtrach oczyszczacza powietrza.** Zadania codzienne i po użyciu wykonuje domownik między wizytami. „Plan domowy” oznacza nasz harmonogram, a nie termin podany przez producenta.
+Przy każdej wizycie sprawdź poniższą listę i wykonaj zadania zgodnie z podaną częstotliwością. **Pamiętaj zwłaszcza o filtrach oczyszczacza powietrza.** Zadania codzienne i po użyciu wykonuj również przy każdej wizycie sprzątającej (minimum raz w tygodniu).
 
 ### Dozowniki mydła do rąk
 
@@ -17,8 +17,8 @@ Przed ręcznym czyszczeniem lub demontażem odłącz urządzenie od prądu. Prog
 | # | Czynność | Częstotliwość | Notatki / jak wykonać |
 | -- | -- | -- | -- |
 | t6a | **Filtr wstępny, czujniki i obudowa** | **Co miesiąc / komunikat Maintenance** | Odkurz panel tylny i czujniki; obudowę przetrzyj suchą ściereczką. [PL-17–18][sharp-panel] |
-| t6b | **Filtr HEPA** | Przy kurzu; kontrola co miesiąc (plan domowy) | Delikatnie odkurz wyłącznie stronę z etykietą. **Bez wody i słońca.** [PL-20][sharp-hepa] |
-| t6c | Filtr pochłaniający zapachy | Przy kurzu; kontrola co miesiąc (plan domowy) | Delikatnie odkurz obie strony. **Bez wody i słońca.** [PL-20][sharp-hepa] |
+| t6b | **Filtr HEPA** | Przy kurzu; kontrola co miesiąc | Delikatnie odkurz wyłącznie stronę z etykietą. **Bez wody i słońca.** [PL-20][sharp-hepa] |
+| t6c | Filtr pochłaniający zapachy | Przy kurzu; kontrola co miesiąc | Delikatnie odkurz obie strony. **Bez wody i słońca.** [PL-20][sharp-hepa] |
 | t6d | Wymiana wody i płukanie zbiornika | Codziennie podczas nawilżania | Świeża kranówka, bez dodatków. Gdy nie nawilżasz: opróżnij i wyczyść zbiornik oraz tackę. [PL-2][sharp-water] |
 | t6e | Filtr nawilżający i tacka | Co miesiąc | Wyjmij i obficie wypłucz wodą; pozostaw pływak na miejscu. [PL-19][sharp-humidifier] |
 | t6f | Odkamienianie filtra nawilżającego | Przy osadzie; częściej przy twardej wodzie | Program z kwaskiem cytrynowym; po cyklu wypłucz zbiornik, tackę i filtr. [Kroki PL-9][sharp-descale] |
@@ -41,25 +41,44 @@ Po pełnej konserwacji włącz urządzenie i przytrzymaj **HUMIDIFY ON/OFF przez
 | t4 | Wkład aromatyczny / olejek | W razie potrzeby | Brudny wkład wypłucz, wysusz; olejek 8–10 kropli **tylko na wkład, nigdy do wody**. [s. 9][vest-aroma], [15][vest-aroma-clean] |
 | t5g | Opróżnienie i osuszenie zbiornika | Przed przerwą ≥ tydzień | Wylej wodę, wyczyść i dokładnie osusz. [s. 10][vest-clean] |
 
-### Łazienka — Waterpik (prawdopodobnie WP-660 Ultra Professional)
-
-Model do sprawdzenia na spodzie urządzenia; poniższa instrukcja dotyczy **WP-660EU**. Czyszczenie cotygodniowe pozostaje planem domowym; odkamienianie co miesiąc mieści się w zaleceniu instrukcji: co 1–3 miesiące.
+### Łazienka — Waterpik WP-660 Ultra Professional
 
 | # | Czynność | Częstotliwość | Notatki / jak wykonać |
 | -- | -- | -- | -- |
 | l11a | Opróżnienie zbiornika | Po każdym użyciu | Wylej resztę wody; po płukance przepompuj czystą ciepłą wodę. [s. 7, 9][waterpik-manual] |
-| l11b | Zbiornik, zawór i obudowa | Co tydzień (plan domowy) | Zbiornik umyj wodą z płynem; zawór wypchnij od spodu, płucz 30–45 s, włóż wypukłością w górę. Obudowę przetrzyj miękką ściereczką. [Jak][waterpik-clean] |
+| l11b | Zbiornik, zawór i obudowa | Co miesiąc | Zbiornik umyj wodą z płynem; zawór wypchnij od spodu, płucz 30–45 s, włóż wypukłością w górę. Obudowę przetrzyj miękką ściereczką. [Jak][waterpik-clean] |
 | l11c | Rękojeść i końcówka | Co miesiąc | Zdejmij końcówkę; ją i rękojeść mocz 5 min: 1 część białego octu + 2 części wody. Wypłucz. [Jak][waterpik-clean] |
 | l11d | Odkamienianie układu wodnego | Co miesiąc | Pełny zbiornik ciepłej wody + 2 łyżki stołowe białego octu przepompuj do umywalki, potem pełny zbiornik czystej ciepłej wody. [s. 9][waterpik-descale] |
 | l11e | Wymiana końcówek specjalistycznych | Co 3 miesiące, jeśli używane | Orthodontic, Pik Pocket, Plaque Seeker, końcówka-szczoteczka. [s. 5][waterpik-tips] |
 | l11f | Wymiana końcówek standardowych | Co 6 miesięcy, jeśli używane | Classic Jet i końcówka do języka. [s. 5][waterpik-tips] |
 
+### Robot odkurzający i stacja — Roborock S8 Pro Ultra
+
+Co tydzień sprawdź zadania „Według potrzeb” i zapełnienie worka. Przed czyszczeniem wyłącz robota i odłącz stację od prądu. [Rysunki C1–C15, s. 2–4][roborock-diagrams]
+
+| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| -- | -- | -- | -- |
+| t1a | Uzupełnienie czystej wody | Według potrzeb | Bez gorącej wody; ewentualny płyn wyłącznie Roborock, według etykiety. [s. 65][roborock-water] |
+| t1b | Zbiornik brudnej wody | Według potrzeb | Opróżnij, przepłucz czystą wodą, zamknij zatrzask. [C11, s. 68][roborock-care] |
+| t2a | Szczotki główne | Co 2 tygodnie | Usuń włosy z końców i łożysk; przetrzyj wilgotno, wysusz poza słońcem. [C1, s. 67][roborock-brushes] |
+| t2b | **Filtr zmywalny robota** | **Co 2 tygodnie** | Wypłucz; nie dotykaj powierzchni rękami ani szczotką. **Susz 24 godziny**, do pełnego wyschnięcia przed montażem. [C6, s. 68][roborock-care] |
+| t2c | Szczotka boczna | Co miesiąc | Odkręć, oczyść, ponownie przykręć. [C2, s. 67][roborock-brushes] |
+| t2d | Kółka główne | Co miesiąc | Przetrzyj miękką, suchą ściereczką. [C4, s. 67][roborock-brushes] |
+| t2e | Kółko wielokierunkowe | Według potrzeb | Wyjmij kółko i oś, wypłucz, wysusz; wspornika nie demontuj. [C3, s. 67][roborock-brushes] |
+| t2f | Pojemnik kurzu robota | Według potrzeb | Wyjmij filtr; pojemnik opróżnij, wypłucz bez detergentu, wysusz. [C5, s. 68][roborock-care] |
+| t2g | Ściereczka mopa VibraRise | Według potrzeb | Zdejmij samą ściereczkę, wyczyść, wysusz na powietrzu. [C7, s. 68][roborock-care] |
+| t2h | Czujniki i styki ładowania | Według potrzeb | Wyłącznie miękka, sucha ściereczka. [C8–C9, s. 68][roborock-care] |
+| t2i | Szczotka myjąca stacji | Według potrzeb | Wyjmij, usuń włosy, opłucz, zatrzaśnij. [C12, s. 68][roborock-care] |
+| t2j | Filtr wody i komora myjąca | Według potrzeb | Filtr wypłucz; komorę wytrzyj na sucho. Zatrzaśnij filtr. [C13, s. 68][roborock-care] |
+| t2k | Wymiana worka | Gdy pełny | Filtr komory wytrzyj na sucho; nowy worek wsuń do końca. Nie opróżniaj bez worka. [C14, s. 69][roborock-dock] |
+| t2l | Kanał zasysający stacji | Przy blokadzie | Przed odwróceniem wyjmij zbiorniki, pojemnik i filtr wody, osusz. [Kroki C15, s. 69][roborock-dock] |
+| t2m | Wymiana szczotki bocznej i ściereczki mopa | Co 3–6 miesięcy | [C2, s. 67][roborock-brushes]; [C7, s. 68][roborock-care]. |
+| t2n | Wymiana szczotek głównych, filtra robota i szczotki myjącej stacji | Co 6–12 miesięcy | [C1, s. 67][roborock-brushes]; [C6, C12, s. 68][roborock-care]. |
+
 ### Pozostałe zadania charakterystyczne dla mieszkania
 
 | # | Czynność | Częstotliwość | Notatki / jak wykonać |
 | -- | -- | -- | -- |
-| t1 | Wymiana wody robota odkurzacza | Co tydzień | — |
-| t2 | Czyszczenie robota odkurzacza i jego stacji dokującej | Co miesiąc | — |
 | t9 | Czyszczenie wentylatorów i kratek | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | sa5 | Przetarcie czapki z diodami LED | Co tydzień | — |
 | sa6 | Przetarcie maski na twarz z diodami LED | Co tydzień | — |
@@ -204,7 +223,7 @@ Pozostałe zadania według stref:
 Sprawdzono 25.09.2026. Linki w tabelach prowadzą do instrukcji producentów; oznaczenia „PL-…” odnoszą się do polskiej części instrukcji Sharp. „—” oznacza notatkę do uzupełnienia.
 
 - **Vestfrost:** terminy wymiany przyjęto z instrukcji (3–6 miesięcy); opis produktu podaje inny okres dla modułu uzdatniania.
-- **Waterpik:** proporcje odkamieniania układu wodnego przyjęto z instrukcji WP-660EU. Ogólny poradnik podaje inny przepis; w zadaniu l11d stosuj instrukcję modelu. Model urządzenia pozostaje do potwierdzenia.
+- **Waterpik:** proporcje odkamieniania układu wodnego przyjęto z instrukcji WP-660EU. Ogólny poradnik podaje inny przepis; w zadaniu l11d stosuj instrukcję modelu.
 
 [sharp-panel]: https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992#page=47
 [sharp-hepa]: https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992#page=50
@@ -224,3 +243,8 @@ Sprawdzono 25.09.2026. Linki w tabelach prowadzą do instrukcji producentów; oz
 [waterpik-descale]: https://www.waterpik.co.uk/cdn/shop/files/WP-660EU-series-instruction-manual-ultra-professional.pdf?v=15507635408987165411#page=9
 [waterpik-tips]: https://www.waterpik.co.uk/cdn/shop/files/WP-660EU-series-instruction-manual-ultra-professional.pdf?v=15507635408987165411#page=5
 [waterpik-clean]: https://www.waterpik.com/product-support/articles/how-to-clean-waterpik-water-flosser-vinegar/
+[roborock-water]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=65
+[roborock-brushes]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=67
+[roborock-care]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=68
+[roborock-dock]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=69
+[roborock-diagrams]: https://support.roborock.com/hc/en-us/article_attachments/18342024687769#page=2
