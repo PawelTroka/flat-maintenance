@@ -4,11 +4,12 @@
 
 **Zacznij od poniższych zadań — szczególnie filtrów oczyszczacza.** Zadania codzienne i po użyciu wykonaj też przy każdej wizycie, minimum raz w tygodniu.
 
-### Dozowniki mydła do rąk
+### Mydło do rąk i żel pod prysznic
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| l9a | Uzupełnij mydło we wszystkich dozownikach | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml](https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873). |
+| l9a | Uzupełnij mydło we wszystkich dozownikach do rąk | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml][lipikar-refill]. |
+| l9b | **Uzupełnij butelkę do mycia ciała pod prysznicem** | **Co tydzień / gdy mało** | Przelej [La Roche-Posay Lipikar Syndet AP+][lipikar-refill] z saszetki uzupełniającej do butelki pod prysznicem. |
 
 ### Pranie — ręczniki, pościel i ubrania osobno
 
@@ -185,7 +186,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 | l6 | Umyj umywalki | Co tydzień | Środek z koalą do konglomeratu. |
 | l7 | Umyj armaturę | Co tydzień | — |
 | l3 | Wymień ręczniki do ciała | Po każdym użyciu | Dwie sztuki; dla każdej osoby świeży ręcznik. Brudne do prania l22. |
-| l9b | Uzupełnij żel pod prysznic | Co 2 tygodnie | — |
 | l8 | Usuń kamień z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
 | l10 | Uporządkuj kosmetyki i wyrzuć puste opakowania | Co miesiąc | — |
 | l17 | Uzupełnij naklejki zapachowe w toaletach | Co 2 miesiące | — |
@@ -286,3 +286,4 @@ Pozostałe sprzątanie — według pomieszczeń:
 [malfini-care]: https://onlinecatalog.malfini.com/ibs-textil/de/918/00
 [withings-clean]: https://support.withings.com/hc/en-us/articles/10282287739281-Body-Scan-Cleaning-your-scale
 [ziree-cap]: https://zireemed.com/products/hr-h5
+[lipikar-refill]: https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873
