@@ -111,7 +111,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| sa5 | Przetrzyj czapkę LED | Co tydzień | — |
+| sa5 | Przetrzyj czapkę laserową Ziree Med LLLT (272 diody) | Co tydzień | Zgodnie z instrukcją dołączoną do czapki. [Produkt][ziree-cap] |
 | sa6 | Przetrzyj maskę LED | Co tydzień | — |
 | p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
@@ -285,3 +285,4 @@ Pozostałe sprzątanie — według pomieszczeń:
 [laundry-colour]: https://www.dm.pl/p/d/1675190/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg
 [malfini-care]: https://onlinecatalog.malfini.com/ibs-textil/de/918/00
 [withings-clean]: https://support.withings.com/hc/en-us/articles/10282287739281-Body-Scan-Cleaning-your-scale
+[ziree-cap]: https://zireemed.com/products/hr-h5
