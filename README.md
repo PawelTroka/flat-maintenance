@@ -1,14 +1,12 @@
 # Lista sprzątania mieszkania
 
-[Pranie](#pranie) · [Filtry i sprzęt](#sprzet) · [Pomieszczenia](#pomieszczenia) · [Zdjęcia sprzętu i produktów](docs/zdjecia.md) · [Rejestr wizyt](docs/wizyty.md) · [Instrukcje offline](docs/manuals/README.md)
-
-1. **Sprawdź terminy** w [rejestrze wizyt](docs/wizyty.md). Zadania miesięczne i rzadsze wykonuj, gdy przypada ich termin; zadania „w razie potrzeby” sprawdź na miejscu.
-2. **Zacznij od ważnych zadań poniżej.** Pranie i dłuższe programy uruchom wcześnie, żeby zdążyć je zakończyć.
-3. **Przed wyjściem zapisz wykonane kody**, braki i niedokończone czynności. Pranie lub filtr, który nadal schnie, wpisz jako „w toku”.
+[Pranie](#pranie) · [Filtry i sprzęt](#sprzet) · [Pomieszczenia](#pomieszczenia) · [Zdjęcia sprzętu i produktów](docs/zdjecia.md) · [Instrukcje offline](docs/manuals/README.md)
 
 ## ⭐ Najpierw: ważne zadania w mieszkaniu
 
 **Zacznij od poniższych zadań — szczególnie filtrów oczyszczacza.** Zadania codzienne i po użyciu wykonaj też przy każdej wizycie, minimum raz w tygodniu.
+
+Kieruj się kolumną **Kiedy**. Pranie i dłuższe programy uruchom na początku wizyty.
 
 ### Mydło do rąk i żel pod prysznic
 
@@ -123,9 +121,11 @@ Przed ręcznym czyszczeniem pralki zakręć też dopływ wody.
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| l16 | **Uruchom samoczyszczenie pralki** | **Co 50 prań** | Pusty bęben; wybierz **BĘBEN CZYSTY (90°C)** i naciśnij Start. **Bez detergentu, Calgonu i środka czyszczącego.** [Instrukcja][candy-washer-cycle] · [Jak sprawdzić licznik](docs/wizyty.md#licznik-pralki) |
+| l16 | **Uruchom samoczyszczenie pralki** | **Co 50 prań** | Pusty bęben; wybierz **BĘBEN CZYSTY (90°C)** i naciśnij Start. **Bez detergentu, Calgonu i środka czyszczącego.** [Instrukcja][candy-washer-cycle] |
 | l18 | **Wyczyść filtr pompy odpływowej** | **Co miesiąc** | Poczekaj, aż woda ostygnie. Spuść ją wężykiem pod klapką do płaskiej miski; zatkaj i schowaj wężyk. Odkręć filtr w lewo, wypłucz, oczyść i sprawdź uszczelkę, dokładnie dokręć i zamknij klapkę. [Instrukcja][candy-washer-filter] |
 | l15 | Umyj szufladę; przetrzyj uszczelkę i obudowę | Co miesiąc | Wyjmij szufladę, wciskając zatrzask; wypłucz. Uszczelkę i obudowę przetrzyj miękką ściereczką z wodą z mydłem. [Instrukcja][candy-washer-care] |
+
+**Licznik prań:** przed uruchomieniem programu wybierz **BAWEŁNA** i naciśnij jednocześnie **TEMPERATURA + PRĘDKOŚĆ**. Licznik pojawi się na 2 sekundy. [Instrukcja][candy-washer-counter]
 
 <a id="roborock"></a>
 
@@ -140,7 +140,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | t1a | Uzupełnij czystą wodę | W razie potrzeby | Bez gorącej wody; ewentualny płyn wyłącznie Roborock, według etykiety. [Instrukcja][roborock-water] |
 | t1b | Opróżnij i wypłucz zbiornik brudnej wody | W razie potrzeby | Opróżnij, przepłucz czystą wodą, zamknij zatrzask. [Instrukcja][roborock-care] |
 | t2a | Wyczyść szczotki główne | Co 2 tygodnie | Usuń włosy z końców i łożysk; przetrzyj wilgotno, wysusz poza słońcem. [Instrukcja][roborock-brushes] |
-| t2b | **Wypłucz filtr robota** | **Co 2 tygodnie** | Wypłucz; nie dotykaj powierzchni rękami ani szczotką. **Susz 24 godziny**, do pełnego wyschnięcia przed montażem. Zapisz, kiedy i kto zamontuje suchy filtr. [Instrukcja][roborock-care] |
+| t2b | **Wypłucz filtr robota** | **Co 2 tygodnie** | Wypłucz; nie dotykaj powierzchni rękami ani szczotką. **Susz 24 godziny**, do pełnego wyschnięcia przed montażem. [Instrukcja][roborock-care] |
 | t2c | Wyczyść szczotkę boczną | Co miesiąc | Odkręć, oczyść, ponownie przykręć. [Instrukcja][roborock-brushes] |
 | t2d | Przetrzyj kółka główne | Co miesiąc | Przetrzyj miękką, suchą ściereczką. [Instrukcja][roborock-brushes] |
 | t2e | Wyczyść małe kółko obrotowe | W razie potrzeby | Wyjmij kółko i oś, wypłucz, wysusz; wspornika nie demontuj. [Instrukcja][roborock-brushes] |
@@ -326,6 +326,7 @@ Zmywarka: **Siemens iQ500 SR656D00TE**.
 [candy-dryer-filters]: docs/manuals/candy-bps-8n2bx-s.pdf#page=55
 [candy-dryer-water]: docs/manuals/candy-bps-8n2bx-s.pdf#page=56
 [candy-washer-cycle]: docs/manuals/candy-bp-49sbl8-s.pdf#page=20
+[candy-washer-counter]: docs/manuals/candy-bp-49sbl8-s.pdf#page=21
 [candy-washer-filter]: docs/manuals/candy-bp-49sbl8-s.pdf#page=32
 [candy-washer-care]: docs/manuals/candy-bp-49sbl8-s.pdf#page=31
 [laundry-white]: docs/manuals/pranie-produkty.md#proszek-do-bialego
