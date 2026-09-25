@@ -88,6 +88,8 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |
 | p23 | Przetrzyj pojemniki na tabletki z zewnątrz | Co miesiąc | — |
+| p12a | Wypierz czarne buty sportowe | Gdy brudne | Osobno od białych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
+| p12b | Wypierz białe buty sportowe | Gdy brudne | Osobno od czarnych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
 
 ---
 
@@ -115,7 +117,7 @@ Pozostałe sprzątanie — według pomieszczeń:
 | p20 | Wyczyść ekrany | Co 3 tygodnie | TV, komputer, laptop, tablet, telefon. Środek do ekranów i specjalna ściereczka z mikrofibry. |
 | p5 | Umyj kosze na śmieci w środku | Co miesiąc | — |
 | p6 | Wyczyść szuflady i półki w środku | Co miesiąc | — |
-| p12 | Wypierz lub wyczyść mocno zabrudzone buty | Co miesiąc | — |
+| p12 | Wyczyść pozostałe mocno zabrudzone buty | Co miesiąc | Zgodnie z metką. Buty sportowe: p12a i p12b. |
 | p21 | Wyczyść rolety / zasłony | Co miesiąc | — |
 
 ## 🍳 Kuchnia
