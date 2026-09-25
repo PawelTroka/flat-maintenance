@@ -10,6 +10,18 @@
 | -- | -- | -- | -- |
 | l9a | Uzupełnij mydło we wszystkich dozownikach | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml](https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873). |
 
+### Pranie — ręczniki, pościel i ubrania osobno
+
+**Nie łącz ręczników, pościeli i ubrań w jednym praniu. Białe zawsze oddzielaj od kolorowych.** Proszek **Denkmit Ultra Sensitive** dawkuj według opakowania; program i suszenie dobierz do metki.
+
+| Kod | Zadanie | Kiedy | Jak |
+| -- | -- | -- | -- |
+| l22 | **Wypierz białe ręczniki z bawełny organicznej** | **Co tydzień; wcześniej, gdy brakuje czystych** | [MALFINI Organic][malfini-care]: osobny wsad, **Bawełna 60°C**, [proszek do kolorów — bez wybielacza][laundry-colour]. **Bez płynu do płukania i suszarki bębnowej.** Rozwieś i wysusz całkowicie. |
+| s1 | **Wymień i wypierz poszwę, poszewki i prześcieradło z gumką** | **Co tydzień** | Dreamzie, bawełna organiczna (antracyt): osobny wsad, **60°C**, [proszek do kolorów][laundry-colour]. |
+| l13 | Wypierz białe ubrania | Co tydzień | [Proszek do białego][laundry-white]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
+| l13a | Wypierz kolorowe i ciemne ubrania | Co tydzień | [Proszek do kolorów][laundry-colour]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
+| l14 | Wyjmij i wysusz pranie | Po każdym praniu | Rozwieś lub użyj suszarki zgodnie z metką. Po suszarce wykonaj l19–l21. |
+
 **Przed ręcznym czyszczeniem lub demontażem odłącz sprzęt od prądu.** Programy czyszczenia uruchamiaj zgodnie z instrukcją.
 
 ### Sypialnia — oczyszczacz Sharp KI-TX100EU-W
@@ -103,7 +115,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | sa6 | Przetrzyj maskę LED | Co tydzień | — |
 | p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
-| p24 | Wymień ręcznik w torbie na siłownię | Co tydzień | — |
+| p24 | Wymień ręcznik w torbie na siłownię | Po każdym treningu | Włóż świeży; brudny do prania l22. |
 | p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
 | l12 | Wyczyść czarną wagę Withings | Co 2 tygodnie | — |
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
@@ -145,7 +157,7 @@ Pozostałe sprzątanie — według pomieszczeń:
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| k1 | Wymień ręczniki do rąk i naczyń | Co tydzień | — |
+| k1 | Wymień ręczniki do rąk i naczyń | Codziennie / gdy wilgotne lub brudne | Osobne ręczniki do rąk i do naczyń; brudne do prania l22. |
 | k2 | Umyj zlew | Co tydzień | — |
 | k7 | Umyj blender | Co tydzień | — |
 | k8 | Wyczyść opiekacz do chleba | Co tydzień | — |
@@ -167,14 +179,12 @@ Pozostałe sprzątanie — według pomieszczeń:
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
 | l1 | Uzupełnij papier toaletowy | Co tydzień | — |
-| l2 | Wymień ręczniki do rąk w łazience i WC | Co tydzień | — |
+| l2 | Wymień ręczniki do rąk w łazience i WC | Codziennie / gdy wilgotne lub brudne | Brudne do prania l22. |
 | l4 | Umyj toalety | Co tydzień | — |
 | l5 | Umyj kabinę prysznicową | Co tydzień | — |
 | l6 | Umyj umywalki | Co tydzień | Środek z koalą do konglomeratu. |
 | l7 | Umyj armaturę | Co tydzień | — |
-| l13 | Wstaw pranie | Co tydzień | Bawełna 40°C, 1200 obr./min + suszenie 1–2 h. |
-| l14 | Wyjmij i rozwieś pranie | Co tydzień | — |
-| l3 | Wymień ręczniki do ciała | Co 2 tygodnie | dwie sztuki |
+| l3 | Wymień ręczniki do ciała | Po każdym użyciu | Dwie sztuki; dla każdej osoby świeży ręcznik. Brudne do prania l22. |
 | l9b | Uzupełnij żel pod prysznic | Co 2 tygodnie | — |
 | l8 | Usuń kamień z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
 | l10 | Uporządkuj kosmetyki i wyrzuć puste opakowania | Co miesiąc | — |
@@ -203,7 +213,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| s1 | Wymień pościel | Co tydzień | — |
 | s4 | Odłóż rzeczy na miejsce | Co tydzień | — |
 | s2 | Uporządkuj szafę | Co miesiąc | — |
 | s3 | Uporządkuj szuflady i bieliznę | Co miesiąc | — |
@@ -235,7 +244,7 @@ Pozostałe sprzątanie — według pomieszczeń:
 | z2 | Umyj okna | Co 2 miesiące | Niebieski płyn W5 do okien. |
 | z3 | Umyj balkon | Co 2 miesiące | — |
 | z4 | Usuń zabrudzenia ze ścian | Co 2 miesiące | Biała magiczna gąbka. |
-| z5 | Wypierz poduszki i kołdry | Co 2 miesiące | — |
+| z5 | Wypierz poduszki i kołdry | Co 2 miesiące | Poldaun Ecotton: **maks. 30°C**; pozostałe zgodnie z metką. Poszwy i prześcieradła: s1. |
 | z10 | Odkurz pod meblami | Co 2 miesiące | — |
 | z6 | Dokładnie wyczyść szafki kuchenne | Co 2 miesiące | — |
 | z9 | Wyczyść lampy i sufity | Co 3 miesiące | — |
@@ -272,3 +281,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 [candy-washer-cycle]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=20
 [candy-washer-filter]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=32
 [candy-washer-care]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=31
+[laundry-white]: https://www.dm.pl/p/d/1622337/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg
+[laundry-colour]: https://www.dm.pl/p/d/1675190/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg
+[malfini-care]: https://onlinecatalog.malfini.com/ibs-textil/de/918/00
