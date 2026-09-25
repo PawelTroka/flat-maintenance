@@ -1,0 +1,378 @@
+{
+  "archived_on": "2026-09-25",
+  "artifacts": [
+    {
+      "id": "candy-dryer",
+      "title": "Candy BPS 8N2BX-S",
+      "kind": "pdf",
+      "path": "docs/manuals/candy-bps-8n2bx-s.pdf",
+      "source_url": "https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/10/17615855/MAN-000194157_000",
+      "final_url": "https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/10/17615855/MAN-000194157_000",
+      "retrieved_at": "2026-09-25T18:33:48.756224+00:00",
+      "sha256": "8442e13e3ad1b4ae02ddd09df7f55f0b99993da4a7b691b87e85aab37998cf25",
+      "bytes": 10437217,
+      "pages": 160,
+      "languages": [
+        "multilingual",
+        "pl"
+      ],
+      "notes": "Pełny oryginalny PDF; zachowany bez zmian.",
+      "verified_refs": {
+        "candy-dryer-filters": 55,
+        "candy-dryer-water": 56
+      }
+    },
+    {
+      "id": "candy-washer",
+      "title": "Candy BP 49SBL8-S",
+      "kind": "pdf",
+      "path": "docs/manuals/candy-bp-49sbl8-s.pdf",
+      "source_url": "https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000",
+      "final_url": "https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000",
+      "retrieved_at": "2026-09-25T18:33:48.590259+00:00",
+      "sha256": "f66fff5d4581ca8098846fa315e3c88f662e5758f7ab5664e979b1cab9bb4a26",
+      "bytes": 1846600,
+      "pages": 39,
+      "languages": [
+        "pl"
+      ],
+      "notes": "Pełny oryginalny PDF; zachowany bez zmian.",
+      "verified_refs": {
+        "candy-washer-cycle": 20,
+        "candy-washer-filter": 32,
+        "candy-washer-care": 31,
+        "candy-washer-counter": 21,
+        "candy-washer-programs": 19
+      }
+    },
+    {
+      "id": "withings-body-scan",
+      "title": "Withings Body Scan — EU",
+      "kind": "pdf",
+      "path": "docs/manuals/withings-body-scan-eu.pdf",
+      "source_url": "https://support.withings.com/hc/article_attachments/21165719417745",
+      "final_url": "https://support.withings.com/hc/article_attachments/21165719417745",
+      "retrieved_at": "2026-09-25T18:33:48.493436+00:00",
+      "sha256": "5c7897a264c7956a17b9b2e652595ac96a42ab7df1185d444f79394f99658a11",
+      "bytes": 5479854,
+      "pages": 70,
+      "languages": [
+        "en",
+        "fr",
+        "de",
+        "sv",
+        "nl",
+        "fi",
+        "da",
+        "it",
+        "es",
+        "cs",
+        "pl",
+        "pt",
+        "ro",
+        "hu",
+        "sk"
+      ],
+      "notes": "Pełny oryginalny PDF; zachowany bez zmian. Polska konserwacja: PDF50 / strony drukowane98–99; zaleca czyszczenie płyty i elektrod uchwytu przed każdym pomiarem. Wizualnie sprawdzono PDF50.",
+      "verified_refs": {
+        "withings-manual": 50
+      }
+    },
+    {
+      "id": "sharp-ki-tx100eu",
+      "title": "Sharp KI-TX100EU — pełna instrukcja obsługi",
+      "kind": "pdf",
+      "path": "docs/manuals/sharp-ki-tx100eu.pdf",
+      "source_url": "https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992",
+      "final_url": "https://cdn.shopify.com/s/files/1/0722/9485/8997/files/KI-TX1_1_compressed.pdf?v=1765457992",
+      "retrieved_at": "2026-09-25T18:33:40.816091+00:00",
+      "sha256": "f277cfe51daf9614916da03cbd0dda507e37112b7f958c4ab56f4c209963b1d4",
+      "bytes": 15285218,
+      "pages": 450,
+      "languages": [
+        "en",
+        "pl",
+        "de",
+        "fr",
+        "nl",
+        "sl",
+        "cs",
+        "sk",
+        "hu",
+        "lv",
+        "lt",
+        "et",
+        "ro",
+        "hr",
+        "bg",
+        "uk"
+      ],
+      "notes": [
+        "Pełny niezmieniony PDF dla KI-TX100EU i KI-TX75EU; 450 stron, wszystkie strony poprawnie odczytane przez pypdf. Polska część: PDF 30–57; strony drukowane PL-1–PL-27 odpowiadają PDF 31–57.",
+        "Wizualnie sprawdzono polskie strony PDF 32, 39, 47–53. sharp-panel: metoda odkurzania panelu i czujników jest na PDF 48, nie 47; PDF 47 zawiera obudowę, płukanie zbiornika, przypomnienie Maintenance i reset.",
+        "sharp-replace PDF 50 dotyczy zapachu/kurzu pozostającego po czyszczeniu. Wymiana filtrów i powiadomienia aplikacji: PDF 52; wymiana modułu i UNIT: PDF 53.",
+        "PDF 39: program odkamieniania używa 1 łyżeczki kwasku cytrynowego w opróżnionym pojemniku oraz wody ponad połowę zbiornika; panel pokazuje 6 godzin. Po końcu lub przerwaniu programu trzeba wypłukać zbiornik, pojemnik i filtr.",
+        "Miesięczne sprawdzanie HEPA i filtra zapachowego jest praktycznym odstępem kontrolnym; instrukcja PDF 50 wymaga usunięcia kurzu bez podania kalendarzowego odstępu. Pozostałe metody i częstotliwości w wierszach Sharp zgodne z polską instrukcją."
+      ],
+      "verified_refs": {
+        "sharp-panel": 48,
+        "sharp-hepa": 50,
+        "sharp-water": 32,
+        "sharp-humidifier": 49,
+        "sharp-descale": 39,
+        "sharp-ions": 51,
+        "sharp-replace": 50,
+        "sharp-reset": 47,
+        "sharp-replace-filters": 52,
+        "sharp-replace-unit": 53,
+        "sharp-body": 47
+      }
+    },
+    {
+      "id": "vestfrost-vp-h2i40wh",
+      "title": "Vestfrost VP-H2I40WH — pełna instrukcja obsługi",
+      "kind": "pdf",
+      "path": "docs/manuals/vestfrost-vp-h2i40wh.pdf",
+      "source_url": "https://vestfrosthome.eu/pl/index.php?controller=attachment&id_attachment=288365",
+      "final_url": "https://vestfrosthome.eu/pl/index.php?controller=attachment&id_attachment=288365",
+      "retrieved_at": "2026-09-25T18:33:43.409303+00:00",
+      "sha256": "301c27bc29cf3e3143cacb69d1265af1ed37065d2509fce0302bc2ad57267a08",
+      "bytes": 2284591,
+      "pages": 20,
+      "languages": [
+        "pl"
+      ],
+      "notes": [
+        "Pełny niezmieniony polski PDF VP-H2I40WH; 20 stron, wszystkie strony poprawnie odczytane przez pypdf. Numer strony PDF odpowiada numerowi drukowanemu.",
+        "Wizualnie sprawdzono PDF 4, 9–12 i 15. PDF 4 podaje wodę oczyszczoną o temperaturze pokojowej, MAX i zakaz wlewania wody do podstawy; codzienna wymiana wody wynika z PDF 10.",
+        "PDF 9 zawiera zarówno montaż nowego filtra nawilżającego, jak i olejki 8–10 kropli tylko na wkład zapachowy; PDF 11 podaje okres wymiany filtra 3–6 miesięcy. W t5e p9 jest prawidłową instrukcją montażu; warto dodać p11 dla częstotliwości.",
+        "PDF 10: obudowa/zbiornik raz w tygodniu; oba filtry płukane co miesiąc; odkamienianie co 1–2 miesiące po wyjęciu modułu, kwasek i woda według opakowania, 10 minut maksymalnego nawiewu, 30 minut moczenia, opróżnienie i płukanie.",
+        "PDF 11: płukanie filtra nawilżającego pod kranem przedstawia rysunek; nie jest to odrębny wymóg płukania nowego filtra przed montażem. Dolny filtr płukać 2–3 razy i osuszyć przed montażem. PDF 12: moduł uzdatniania wymieniać co 3–6 miesięcy, zgodnie z nacięciem. PDF 15: zanieczyszczony wkład zapachowy wypłukać i wysuszyć. Metody i częstotliwości w bieżących wierszach zgodne z instrukcją."
+      ],
+      "verified_refs": {
+        "vest-clean": 10,
+        "vest-water": 4,
+        "vest-filter": 11,
+        "vest-module": 12,
+        "vest-aroma": 9,
+        "vest-aroma-clean": 15
+      }
+    },
+    {
+      "id": "waterpik-wp-660eu",
+      "title": "Waterpik WP-660EU / WP-600 Series — full instruction manual",
+      "kind": "pdf",
+      "path": "docs/manuals/waterpik-wp-660eu.pdf",
+      "source_url": "https://www.waterpik.co.uk/cdn/shop/files/WP-660EU-series-instruction-manual-ultra-professional.pdf?v=15507635408987165411",
+      "languages": [
+        "en",
+        "de",
+        "fr",
+        "it",
+        "es",
+        "nl",
+        "pt",
+        "ru"
+      ],
+      "verified_refs": {
+        "waterpik-manual": 7,
+        "waterpik-descale": 9,
+        "waterpik-tips": 5
+      },
+      "final_url": "https://www.waterpik.co.uk/cdn/shop/files/WP-660EU-series-instruction-manual-ultra-professional.pdf?v=15507635408987165411",
+      "retrieved_at": "2026-09-25T18:33:09+00:00",
+      "sha256": "c2dd07b41e0af831990cdf6d761a7eea94c5e3ce42e086df9588d34ea08d2564",
+      "bytes": 5329348,
+      "pages": 81,
+      "notes": "Original complete PDF downloaded without modification. Byte-identical to the visually inspected copy. PDF/printed pages 5, 7 and 9 verified. Internal descaling uses 2 tablespoons of white vinegar per full warm-water reservoir, then a full clean-water rinse, every 1–3 months; monthly README schedule is within that interval. General web article uses a different internal-cleaning ratio, explicitly distinguished in offline Markdown."
+    },
+    {
+      "id": "roborock-s8-pro-ultra",
+      "title": "Roborock S8 Pro Ultra — full instruction manual",
+      "kind": "pdf",
+      "path": "docs/manuals/roborock-s8-pro-ultra.pdf",
+      "source_url": "https://support.roborock.com/hc/en-us/article_attachments/18342044174873",
+      "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "es",
+        "pl",
+        "no",
+        "sv"
+      ],
+      "verified_refs": {
+        "roborock-water": 65,
+        "roborock-brushes": 67,
+        "roborock-care": 68,
+        "roborock-dock": 69
+      },
+      "final_url": "https://support.roborock.com/hc/en-us/article_attachments/18342044174873",
+      "retrieved_at": "2026-09-25T18:33:09+00:00",
+      "sha256": "3a5548cd7e4970faa3e5a1b56371864afdc93a63036d43308891dd6551e0eb2f",
+      "bytes": 1548321,
+      "pages": 92,
+      "notes": "Original complete multilingual PDF downloaded without modification. Polish README references to PDF pages 65, 67, 68 and 69 visually verified. Methods and frequencies match current README; weekly status check is a household reminder, not a manufacturer interval."
+    },
+    {
+      "id": "roborock-s8-pro-ultra-diagrams",
+      "title": "Roborock S8 Pro Ultra — diagrams accompanying the manual",
+      "kind": "pdf",
+      "path": "docs/manuals/roborock-s8-pro-ultra-diagrams.pdf",
+      "source_url": "https://support.roborock.com/hc/en-us/article_attachments/18342024687769",
+      "languages": [],
+      "verified_refs": {
+        "roborock-diagrams": 2
+      },
+      "final_url": "https://support.roborock.com/hc/en-us/article_attachments/18342024687769",
+      "retrieved_at": "2026-09-25T18:33:09+00:00",
+      "sha256": "0e9d18f9fa670b29618b1b8f806a7fe3fd3b87a54105879d09e23914dc02d690",
+      "bytes": 3130231,
+      "pages": 4,
+      "notes": "Original complete diagram PDF downloaded without modification. Language-neutral letter/number illustrations: page 1 overview; page 2 installation, main/side brushes and wheels; page 3 dustbin, filter, mop, sensors and contacts; page 4 tanks and dock. README page-2 entry is valid; later maintenance figures continue on pages 3–4."
+    },
+    {
+      "id": "waterpik-cleaning",
+      "title": "Waterpik — czyszczenie: polski skrót offline poradnika producenta",
+      "kind": "markdown",
+      "path": "docs/manuals/waterpik-cleaning.md",
+      "source_url": "https://www.waterpik.com/product-support/articles/how-to-clean-waterpik-water-flosser-vinegar/",
+      "final_url": "https://www.waterpik.com/product-support/articles/how-to-clean-waterpik-water-flosser-vinegar/",
+      "retrieved_at": "2026-09-25T18:35:23+00:00",
+      "sha256": "c285c0fb989ab6d2682465abf30a3fb5be47a9103ce50f15fdd00a07a1c4d69a",
+      "bytes": 2049,
+      "pages": null,
+      "languages": [
+        "pl"
+      ],
+      "notes": "Self-contained Polish Markdown summary of relevant official cleaning instructions, not a full manual or verbatim article archive. Source published 2018-10-16 and updated 2026-07-08. Covers monthly care, handle/tip soaking, reservoir/valve cleaning, and explicitly distinguishes the general article internal-cleaning recipe from the WP-660EU model manual used in README. Renders directly in GitHub; no network dependencies. Source article language: English.",
+      "verified_refs": {
+        "waterpik-clean": null
+      }
+    },
+    {
+      "id": "withings-cleaning",
+      "title": "Withings Body Scan — czyszczenie: polska notatka offline",
+      "kind": "markdown",
+      "path": "docs/manuals/withings-cleaning.md",
+      "source_url": "https://support.withings.com/hc/en-us/articles/10282287739281-Body-Scan-Cleaning-your-scale",
+      "final_url": "https://support.withings.com/hc/en-us/articles/10282287739281-Body-Scan-Cleaning-your-scale",
+      "retrieved_at": "2026-09-25T18:39:38+00:00",
+      "sha256": "978b1cc62a04fb7ddc6c9128457d72bf54513524faf01c2d6a5e444654abc5cf",
+      "bytes": 1206,
+      "pages": null,
+      "languages": [
+        "pl"
+      ],
+      "notes": "Self-contained Polish Markdown paraphrase of official Withings cleaning article, supplemented by the locally archived Body Scan EU manual (PDF page 50 / printed pages 98–99). Includes recommended cleaning before each measurement, glass plate and handle electrodes, lint-free cloth dampened with warm water, no use during cleaning, and no detergents/cleaners to protect the conductive coating. The visit check is a household reminder. Original webpage supplies no visible publication/update date; retrieval date is recorded. Source article language: English; reviewed through web tool because direct urllib access returned HTTP 403.",
+      "verified_refs": {
+        "withings-clean": null
+      }
+    },
+    {
+      "id": "pranie-produkty",
+      "title": "Pranie — lokalny skrót zasad dla ręczników i proszków",
+      "kind": "markdown",
+      "path": "docs/manuals/pranie-produkty.md",
+      "source_urls": [
+        "https://onlinecatalog.malfini.com/ibs-textil/de/916/00",
+        "https://onlinecatalog.malfini.com/ibs-textil/de/917/00",
+        "https://onlinecatalog.malfini.com/ibs-textil/de/918/00",
+        "https://onlinecatalog.malfini.com/api/v2/ibs-textil/product/916/detail?colorCode=00",
+        "https://onlinecatalog.malfini.com/api/v2/ibs-textil/product/917/detail?colorCode=00",
+        "https://onlinecatalog.malfini.com/api/v2/ibs-textil/product/918/detail?colorCode=00",
+        "https://www.dm.pl/p/d/1622337/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg",
+        "https://www.dm.pl/p/d/1675190/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg",
+        "https://www.ginetex.net/GB/labelling/care-symbols.asp"
+      ],
+      "retrieved_at": "2026-09-25T18:38:35+00:00",
+      "sha256": "7747903450eaef044559696c9df2db5b4121f2314b5cb9152181b65145911445",
+      "bytes": 3036,
+      "pages": null,
+      "languages": [
+        "pl"
+      ],
+      "notes": [
+        "Polskie podsumowanie własnymi słowami, nie pełna instrukcja ani kopia całych stron producentów.",
+        "Sprawdzono trzy odrębne odpowiedzi API MALFINI: modele 916, 917, 918; colorSeoName=00 oraz nazwa koloru white. Atrybut Care symbols potwierdza normalne pranie do 60°C, zakaz wybielania i suszenia bębnowego.",
+        "dm 1622337 deklaruje 5–15% wybielaczy tlenowych; skład dm 1675190 nie wymienia związków wybielających. GINETEX wymaga detergentu bez wybielacza dla przekreślonego trójkąta.",
+        "Dawkowanie pozostawiono według aktualnego opakowania. Wszystkie trzy lokalne kotwice sprawdzono."
+      ],
+      "verified_refs": {
+        "malfini-care": "reczniki",
+        "laundry-white": "proszek-do-bialego",
+        "laundry-colour": "proszek-do-kolorow"
+      }
+    },
+    {
+      "id": "siemens-sr656d00te",
+      "title": "Siemens SR656D00TE/01 i /51 — pełna polska instrukcja obsługi",
+      "kind": "pdf",
+      "path": "docs/manuals/siemens-sr656d00te.pdf",
+      "source_url": "https://media3.bsh-group.com/Documents/9001310510_B.pdf",
+      "final_url": "https://media3.bsh-group.com/Documents/9001310510_B.pdf",
+      "retrieved_at": "2026-09-25T18:38:07.587764+00:00",
+      "sha256": "da685c633e53f2d621761a57a6e3ee44a53523c79d60e858d084ce1280bf8011",
+      "bytes": 2545780,
+      "pages": 58,
+      "languages": [
+        "pl"
+      ],
+      "notes": [
+        "Pełny oryginalny polski dokument BSH 9001310510_B, 58 stron; wszystkie strony poprawnie odczytane przez pypdf. Numer strony PDF odpowiada numerowi drukowanemu. Wizualnie zweryfikowano PDF 16–17, 29–30 i 39–41.",
+        "Zgodność modelu potwierdzona przez oficjalne serwisowe strony https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-01 oraz https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-51; obie podają ten dokument jako Instrukcja obsługi. Dla /62, /63 i /64 producent podaje osobny dokument 9001496647_B, również zachowany lokalnie.",
+        "PDF 30: program Czyszczenie zmywarki / Machine Care ma 70°C, nie 65°C. PDF 39–40: bez naczyń, usuń większe zabrudzenia, użyj specjalnego preparatu do pielęgnacji zmywarek według opakowania; nie dodawaj zwykłego detergentu do naczyń ani środka z chlorem. Wykonaj po przypomnieniu, a bez przypomnienia według etykiety preparatu. Instrukcja nie podaje stałego miesięcznego odstępu.",
+        "PDF 40–41: filtry sprawdzaj po każdym zmywaniu; zabrudzone wyjmij, przepłucz bieżącą wodą i zamontuj ze strzałkami naprzeciw siebie. PDF 41: kontroluj drożność dysz ramion; górne odkręć o ćwierć obrotu, dolne wyciągnij do góry, wypłucz, zamontuj. Producent nie podaje stałego odstępu dla ramion.",
+        "PDF 16: sól specjalną do zmywarek uzupełnij po zapaleniu kontrolki, bezpośrednio przed rozpoczęciem zmywania; nie sól kuchenna ani tabletki. PDF 17: nabłyszczacz po kontrolce, do MAX; rozlany płyn wytrzyj. Stałe miesięczne uzupełnianie nie wynika z instrukcji.",
+        "PDF 29: Eco 50°C i Auto 45–65°C są prawidłowymi programami; czas zależy od parametrów pracy. Oficjalne krótkie instrukcje 9001308582_B (dla /01,/51) i 9001499826_A (dla /62–/64) na stronie 1 podają referencyjne Eco 3:15, nie 3:00. Dla listy wystarcza nazwa programu bez sztywnego czasu.",
+        "PDF 39: uszczelkę drzwi, front i panel przecieraj regularnie wilgotną ściereczką z niewielką ilością płynu do zmywania naczyń; bez szorowania i myjki parowej. Nie mylić tego ręcznego przetarcia z zakazem zwykłego detergentu w programie pielęgnacji."
+      ],
+      "verified_refs": {
+        "siemens-programs": 29,
+        "siemens-care-temperature": 30,
+        "siemens-care": 40,
+        "siemens-manual-clean": 39,
+        "siemens-filters": 41,
+        "siemens-arms": 41,
+        "siemens-salt": 16,
+        "siemens-rinse": 17
+      }
+    },
+    {
+      "id": "siemens-sr656d00te-62-64",
+      "title": "Siemens SR656D00TE/62, /63 i /64 — pełna polska instrukcja obsługi",
+      "kind": "pdf",
+      "path": "docs/manuals/siemens-sr656d00te-62-64.pdf",
+      "source_url": "https://media3.bsh-group.com/Documents/9001496647_B.pdf",
+      "final_url": "https://media3.bsh-group.com/Documents/9001496647_B.pdf",
+      "retrieved_at": "2026-09-25T18:38:08.380208+00:00",
+      "sha256": "7b3fec1786a8459b89910d7dedcf48b6666170fb803c667956249f65504891a0",
+      "bytes": 7062074,
+      "pages": 68,
+      "languages": [
+        "pl"
+      ],
+      "notes": [
+        "Pełny oryginalny polski dokument BSH 9001496647_B, 68 stron; wszystkie strony poprawnie odczytane przez pypdf. Numer strony PDF odpowiada numerowi drukowanemu. Wizualnie zweryfikowano PDF 20–21, 33 i 44–46.",
+        "Zgodność modelu potwierdzona przez oficjalne serwisowe strony https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-62 , https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-63 oraz https://www.siemens-home.bsh-group.com/pl/pl/productservice/SR656D00TE-64 ; każda podaje ten dokument jako Instrukcja obsługi. Użytkownik podał SR656D00TE bez końcówki E-Nr, dlatego zachowano obie oficjalne rewizje.",
+        "Wspólne zasady pielęgnacji są zgodne z wcześniejszą instrukcją: Machine Care 70°C (PDF 21), specjalny preparat i pusty wsad, termin według przypomnienia/etykiety (PDF 44–45), kontrola filtrów po każdym cyklu (PDF 45–46), regularne czyszczenie ramion bez ustalonego odstępu (PDF 46), sól i nabłyszczacz według kontrolek (PDF 30–31 i 33).",
+        "PDF 45 dodatkowo wyraźnie wymaga oczyszczenia filtrów przed programem pielęgnacji i braku przedmiotów aluminiowych. Przy wyjmowaniu filtrów nie dopuść do wpadnięcia ciał obcych do komory pompy. PDF 46 pokazuje rozdzielenie trzech elementów filtra i ponowne zablokowanie zatrzasków oraz strzałek.",
+        "PDF 44: regularne przecieranie uszczelek, frontu i panelu wilgotną ściereczką z płynem do zmywania naczyń. Miesięczny przegląd ramion lub uszczelki byłby odstępem kontrolnym przyjętym na potrzeby listy, nie okresem narzuconym przez producenta."
+      ],
+      "verified_refs": {
+        "siemens-new-programs": 20,
+        "siemens-new-care-temperature": 21,
+        "siemens-new-care": 44,
+        "siemens-new-care-steps": 45,
+        "siemens-new-manual-clean": 44,
+        "siemens-new-filters": 45,
+        "siemens-new-filter-assembly": 46,
+        "siemens-new-arms": 46,
+        "siemens-new-salt": 30,
+        "siemens-new-salt-fill": 31,
+        "siemens-new-rinse": 33
+      }
+    }
+  ]
+}

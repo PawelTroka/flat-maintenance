@@ -1,0 +1,4 @@
+# Keep archived PDFs byte-for-byte and note hashes stable on every platform.
+docs/manuals/*.pdf binary
+docs/manuals/*.md text eol=lf
+docs/manuals/*.json text eol=lf
