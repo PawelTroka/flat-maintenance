@@ -1,8 +1,29 @@
-# flat-maintenance
-checklist for keeping my apartment clean and tidy
-
-
 # Lista zadań domowych – podzielona na strefy i z częstotliwością
+
+## ⭐ Ważne w tym mieszkaniu — sprawdź na początku wizyty
+
+Przy każdej wizycie sprawdź poniższą listę i wykonaj zadania zgodnie z podaną częstotliwością. **Pamiętaj zwłaszcza o filtrach oczyszczacza powietrza.**
+
+| # | Czynność | Częstotliwość |
+| -- | ------------------------------------------------- | ------------- |
+| t6 | **Czyszczenie filtrów powietrza / oczyszczacza** | **Co miesiąc** |
+| t1 | Wymiana wody robota odkurzacza | Co tydzień |
+| t2 | Czyszczenie robota odkurzacza i jego stacji dokującej | Co miesiąc |
+| t3 | Uzupełnienie wody w nawilżaczu | Co tydzień |
+| t4 | Wymiana olejków eterycznych w nawilżaczu | Co tydzień |
+| t5 | Czyszczenie nawilżacza | Co miesiąc |
+| t9 | Czyszczenie wentylatorów i kratek (serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience) | Co miesiąc |
+| sa5 | Przetarcie czapki z diodami LED | Co tydzień |
+| sa6 | Przetarcie maski na twarz z diodami LED | Co tydzień |
+| l11 | Czyszczenie irygatora waterpik | Co tydzień |
+| l12 | Czyszczenie czarnej wagi Withings | Co 2 tygodnie |
+| p22 | Czyszczenie kamer | Co miesiąc |
+| p23 | Czyszczenie pojemników na tabletki z zewnątrz | Co miesiąc |
+| p13 | Mycie ręczne dużych stalowych butelek na siłownię | Co tydzień |
+| p14 | Mycie ręczne ogromnego przezroczystego kubka na wodę | Co tydzień |
+| p24 | Wymiana ręcznika w torbie na siłownię | Co tydzień |
+
+Pozostałe zadania według stref:
 
 ## 🟢 Ogólne czynności podstawowe
 
@@ -20,8 +41,6 @@ checklist for keeping my apartment clean and tidy
 | p10  | Wytarcie stołu, biurka, szafek                   | Co tydzień    |
 | p11  | Uporządkowanie rzeczy leżących luzem             | Co tydzień    |
 | p12 | Pranie lub czyszczenie butów jeżeli mocno brudne                | Co miesiąc    |
-| p13 | Mycie ręczne dużych stalowych butelek na siłownię        | Co tydzień    |
-| p14 | Mycie ręczne ogromnego przezroczystego kubka na wodę       | Co tydzień    |
 | p15 | Wyrzucenie pustych opakowań i kartonów                      | Co tydzień    |
 | p16 | Czyszczenie luster                      | Co tydzień    |
 | p17 | Przetarcie klamek i włączników          | Co tydzień    |
@@ -29,9 +48,6 @@ checklist for keeping my apartment clean and tidy
 | p19 | Czyszczenie elektroniki (pady do XBOX-a, piloty, itp.)       | Co tydzień    |
 | p20   | Czyszczenie ekranów (TV, komputer, laptop, tablet, telefon) specjalnym środkiem i specjalną ścierką z mikrofibry       | Co 3 tygodnie    |
 | p21 | Czyszczenie rolet / zasłon              | Co miesiąc    |
-| p22 | Czyszczenie kamer              | Co miesiąc    |
-| p23 | Czyszczenie pojemników na tabletki z zewnątrz              | Co miesiąc    |
-| p24  | Wymiana ręcznika w torbie na siłownię                   | Co tydzień    |
 | p25  | Pstryknąć zapachowanym sprayem w każdym pomieszczeniu                   | Co tydzień    |
 
 ## 🍳 Kuchnia
@@ -69,8 +85,6 @@ checklist for keeping my apartment clean and tidy
 | l8 | Usuwanie kamienia z armatury (Odkamieniacz / odwapniacz do chromowej armatury)               | Co miesiąc    |
 | l9 | Uzupełnienie mydła / żelu pod prysznic        | Co 2 tygodnie |
 | l10 | Uporządkowanie kosmetyków, wyrzucenie pustych opakowań| Co miesiąc    |
-| l11 | Czyszczenie irygatora waterpik                | Co tydzień    |
-| l12 | Czyszczenie czarnej wagi Withings                | Co 2 tygodnie    |
 | l13 | Wstawienie prania (program bawełna 40 stopni 1200RPM + suszenie 1h lub 2h)                                | Co tydzień    |
 | l14 | Wypakowanie i rozwieszenie prania                | Co tydzień    |
 | l15 | Czyszczenie pralki                            | Co miesiąc    |
@@ -95,8 +109,6 @@ checklist for keeping my apartment clean and tidy
 | sa2 | Pranie i wymiana poszewek poduszek         | Co miesiąc    |
 | sa3 | Odkurzenie sofy                  | Co tydzień    |
 | sa4 | Mycie/pranie sofy                | Co miesiąc    |
-| sa5 | Przetarcie czapki z diodami LED                | Co tydzień    |
-| sa6 | Przetarcie maski na twarz z diodami LED                | Co tydzień    |
 
 
 ## 🛏️ Sypialnia i garderoba
@@ -122,15 +134,8 @@ checklist for keeping my apartment clean and tidy
 
 | #  | Czynność                                         | Częstotliwość |
 | -- | ------------------------------------------------ | ------------- |
-| t1 | Wymiana wody robota odkurzacza     | Co tydzień    |
-| t2 | Czyszczenie robota odkurzacza i jego stacji dokującej     | Co miesiąc    |
-| t3 | Uzupełnienie wody w nawilżaczu                   | Co tydzień    |
-| t4 | Wymiana olejków eterycznych w nawilżaczu                      | Co tydzień    |
-| t5 | Czyszczenie nawilżacza                           | Co miesiąc |
-| t6 | Czyszczenie filtrów powietrza / oczyszczacza     | Co miesiąc    |
 | t7 | Wymiana baterii w urządzeniach lub ładowanie               | Co miesiąc    |
 | t8 | Zrobienie listy zakupów jeżeli czegoś brakuje    | Co 2 tygodnie |
-| t9 | Czyszczenie wentylatorów i kratek (serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience)  | Co miesiąc    |
 
 ## 🔁 Rzadziej wykonywane zadania sezonowe
 
