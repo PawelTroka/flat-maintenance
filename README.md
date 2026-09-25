@@ -84,6 +84,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
 | p24 | Wymień ręcznik w torbie na siłownię | Co tydzień | — |
+| p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
 | l12 | Wyczyść czarną wagę Withings | Co 2 tygodnie | — |
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |
