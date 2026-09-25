@@ -4,6 +4,12 @@
 
 Przy każdej wizycie sprawdź poniższą listę i wykonaj zadania zgodnie z podaną częstotliwością. **Pamiętaj zwłaszcza o filtrach oczyszczacza powietrza.** Zadania codzienne i po użyciu wykonuje domownik między wizytami. „Plan domowy” oznacza nasz harmonogram, a nie termin podany przez producenta.
 
+### Dozowniki mydła do rąk
+
+| # | Czynność | Częstotliwość | Notatki / jak wykonać |
+| -- | -- | -- | -- |
+| l9a | Uzupełnienie płynu do mycia rąk we wszystkich dozownikach | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml](https://gemini.pl/la-roche-posay-lipikar-syndet-ap-krem-myjacy-do-ciala-uzupelniajacy-poziom-lipidow-od-urodzenia-zapas-400-ml-0121873). |
+
 Przed ręcznym czyszczeniem lub demontażem odłącz urządzenie od prądu. Programy czyszczenia wymagające zasilania uruchamiaj według podlinkowanej instrukcji.
 
 ### Sypialnia — Sharp KI-TX100EU-W
@@ -124,7 +130,7 @@ Pozostałe zadania według stref:
 | l6 | Mycie umywalek | Co tydzień | środek z koala do konglomeratu |
 | l7 | Mycie armatury | Co tydzień | — |
 | l8 | Usuwanie kamienia z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
-| l9 | Uzupełnienie mydła / żelu pod prysznic | Co 2 tygodnie | — |
+| l9b | Uzupełnienie żelu pod prysznic | Co 2 tygodnie | — |
 | l10 | Uporządkowanie kosmetyków, wyrzucenie pustych opakowań | Co miesiąc | — |
 | l13 | Wstawienie prania | Co tydzień | program bawełna 40 stopni 1200RPM + suszenie 1h lub 2h |
 | l14 | Wypakowanie i rozwieszenie prania | Co tydzień | — |
