@@ -19,6 +19,8 @@
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
+| l2 | Wymień ręczniki do rąk w łazience i WC | Codziennie / gdy wilgotne lub brudne | Brudne do prania l22. |
+| k1 | Wymień ręczniki do rąk i naczyń w kuchni | Codziennie / gdy wilgotne lub brudne | Osobne ręczniki do rąk i do naczyń; brudne do prania l22. |
 | l22 | **Wypierz białe ręczniki z bawełny organicznej** | **Co tydzień; wcześniej, gdy brakuje czystych** | [MALFINI Organic][malfini-care]: osobny wsad, **Bawełna 60°C**, [proszek do kolorów — bez wybielacza][laundry-colour], bez płynu do płukania. **Producent zabrania wybielania i suszenia bębnowego.** Rozwieś i wysusz całkowicie. |
 | s1 | **Wymień i wypierz poszwę, poszewki i prześcieradło z gumką** | **Co tydzień** | Dreamzie, bawełna organiczna (antracyt): osobny wsad, **60°C**, [proszek do kolorów][laundry-colour]. |
 | l13 | Wypierz białe ubrania | Co tydzień | [Proszek do białego][laundry-white]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
@@ -123,6 +125,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | p24 | Wymień ręcznik w torbie na siłownię | Po każdym treningu | Włóż świeży; brudny do prania l22. |
 | p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
 | l12 | Wyczyść wagę Withings Body Scan Black | Co 2 tygodnie | Przetrzyj niestrzępiącą się ściereczką zwilżoną ciepłą wodą. **Bez detergentów i środków czyszczących.** [Instrukcja][withings-clean] |
+| b2 | Wyczyść klawiaturę, myszkę, słuchawki i podkładkę w biurze | Co 2 tygodnie | — |
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |
 | p23 | Przetrzyj pojemniki na tabletki z zewnątrz | Co miesiąc | — |
@@ -160,7 +163,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
-| k1 | Wymień ręczniki do rąk i naczyń | Codziennie / gdy wilgotne lub brudne | Osobne ręczniki do rąk i do naczyń; brudne do prania l22. |
 | k2 | Umyj zlew | Co tydzień | — |
 | k7 | Umyj blender | Co tydzień | — |
 | k8 | Wyczyść opiekacz do chleba | Co tydzień | — |
@@ -182,7 +184,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
 | l1 | Uzupełnij papier toaletowy | Co tydzień | — |
-| l2 | Wymień ręczniki do rąk w łazience i WC | Codziennie / gdy wilgotne lub brudne | Brudne do prania l22. |
 | l4 | Umyj toalety | Co tydzień | — |
 | l5 | Umyj kabinę prysznicową | Co tydzień | — |
 | l6 | Umyj umywalki | Co tydzień | Środek z koalą do konglomeratu. |
@@ -197,7 +198,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
 | b1 | Uporządkuj biurko | Co tydzień | — |
-| b2 | Wyczyść klawiaturę, myszkę, słuchawki i podkładkę | Co 2 tygodnie | — |
 | b4 | Wyczyść tapicerkę krzesła biurowego | Co 2 tygodnie | — |
 | b3 | Wyczyść laptop | Co miesiąc | — |
 | b5 | Uporządkuj kable i ładowarki | Co miesiąc | — |
