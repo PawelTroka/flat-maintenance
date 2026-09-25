@@ -11,9 +11,9 @@
 | l9a | Uzupełnij mydło we wszystkich dozownikach do rąk | **Co tydzień** | [La Roche-Posay Lipikar Syndet AP+ — zapas 400 ml][lipikar-refill]. |
 | l9b | **Uzupełnij butelkę do mycia ciała pod prysznicem** | **Co tydzień / gdy mało** | Przelej [La Roche-Posay Lipikar Syndet AP+][lipikar-refill] z saszetki uzupełniającej do butelki pod prysznicem. |
 
-### Pranie — ręczniki, pościel i ubrania osobno
+### Pranie — ręczniki, pościel, ubrania i buty osobno
 
-**Nie łącz ręczników, pościeli i ubrań w jednym praniu. Białe zawsze oddzielaj od kolorowych.** Proszek **Denkmit Ultra Sensitive** dawkuj według opakowania; program i suszenie dobierz do metki.
+**Ręczniki, pościel, ubrania i buty pierz w osobnych wsadach. Białe zawsze oddzielaj od kolorowych.** Proszek **Denkmit Ultra Sensitive** dawkuj według opakowania; program i suszenie dobierz do metki.
 
 | Kod | Zadanie | Kiedy | Jak |
 | -- | -- | -- | -- |
@@ -21,6 +21,8 @@
 | s1 | **Wymień i wypierz poszwę, poszewki i prześcieradło z gumką** | **Co tydzień** | Dreamzie, bawełna organiczna (antracyt): osobny wsad, **60°C**, [proszek do kolorów][laundry-colour]. |
 | l13 | Wypierz białe ubrania | Co tydzień | [Proszek do białego][laundry-white]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
 | l13a | Wypierz kolorowe i ciemne ubrania | Co tydzień | [Proszek do kolorów][laundry-colour]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
+| p12a | Wypierz czarne buty sportowe | Gdy brudne | Osobno od białych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
+| p12b | Wypierz białe buty sportowe | Gdy brudne | Osobno od czarnych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
 | l14 | Wyjmij i wysusz pranie | Po każdym praniu | Rozwieś lub użyj suszarki zgodnie z metką. Po suszarce wykonaj l19–l21. |
 
 **Przed ręcznym czyszczeniem lub demontażem odłącz sprzęt od prądu.** Programy czyszczenia uruchamiaj zgodnie z instrukcją.
@@ -122,8 +124,6 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |
 | p23 | Przetrzyj pojemniki na tabletki z zewnątrz | Co miesiąc | — |
-| p12a | Wypierz czarne buty sportowe | Gdy brudne | Osobno od białych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
-| p12b | Wypierz białe buty sportowe | Gdy brudne | Osobno od czarnych. Jeśli metka pozwala: krótki program Sport / Delikatne, **30°C**. Susz na powietrzu. |
 
 ---
 
