@@ -117,7 +117,7 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
 | p24 | Wymień ręcznik w torbie na siłownię | Po każdym treningu | Włóż świeży; brudny do prania l22. |
 | p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
-| l12 | Wyczyść czarną wagę Withings | Co 2 tygodnie | — |
+| l12 | Wyczyść wagę Withings Body Scan Black | Co 2 tygodnie | Przetrzyj niestrzępiącą się ściereczką zwilżoną ciepłą wodą. **Bez detergentów i środków czyszczących.** [Instrukcja][withings-clean] |
 | t9 | Wyczyść wentylatory i kratki | Co miesiąc | Serwer w biurze, amplituner kina domowego w salonie, kratki wentylacyjne w kuchni, WC i łazience. |
 | p22 | Wyczyść kamery | Co miesiąc | — |
 | p23 | Przetrzyj pojemniki na tabletki z zewnątrz | Co miesiąc | — |
@@ -284,3 +284,4 @@ Pozostałe sprzątanie — według pomieszczeń:
 [laundry-white]: https://www.dm.pl/p/d/1622337/denkmit-proszek-do-prania-tkanin-bia-ych-i-jasnych-ultra-sensitive-1-35-kg
 [laundry-colour]: https://www.dm.pl/p/d/1675190/denkmit-proszek-do-prania-tkanin-kolorowych-ultra-sensitive-1-35-kg
 [malfini-care]: https://onlinecatalog.malfini.com/ibs-textil/de/918/00
+[withings-clean]: https://support.withings.com/hc/en-us/articles/10282287739281-Body-Scan-Cleaning-your-scale
