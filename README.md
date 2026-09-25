@@ -122,7 +122,6 @@ Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czys
 | sa6 | Przetrzyj maskę LED | Co tydzień | — |
 | p13 | Umyj ręcznie duże stalowe butelki na siłownię | Co tydzień | — |
 | p14 | Umyj ręcznie duży przezroczysty kubek na wodę | Co tydzień | — |
-| p24 | Wymień ręcznik w torbie na siłownię | Po każdym treningu | Włóż świeży; brudny do prania l22. |
 | p26 | Wymień płatki zapachowe w każdym pomieszczeniu | Co tydzień; wcześniej, gdy zapach zanika | Wyrzuć stare płatki. Na nowe płatki bawełniane dodaj olejek zgodnie z etykietą i połóż na małych spodkach. |
 | l12 | Wyczyść wagę Withings Body Scan Black | Co 2 tygodnie | Przetrzyj niestrzępiącą się ściereczką zwilżoną ciepłą wodą. **Bez detergentów i środków czyszczących.** [Instrukcja][withings-clean] |
 | b2 | Wyczyść klawiaturę, myszkę, słuchawki i podkładkę w biurze | Co 2 tygodnie | — |
