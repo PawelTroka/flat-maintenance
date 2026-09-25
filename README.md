@@ -52,6 +52,26 @@ Po zakończeniu wszystkich czynności konserwacyjnych włącz urządzenie. Przyt
 | l11e | Wymień końcówki specjalistyczne | Co 3 miesiące, jeśli używane | Orthodontic, Pik Pocket, Plaque Seeker, końcówka-szczoteczka. [Instrukcja][waterpik-tips] |
 | l11f | Wymień końcówki standardowe | Co 6 miesięcy, jeśli używane | Classic Jet i końcówka do języka. [Instrukcja][waterpik-tips] |
 
+### Suszarka — Candy BPS 8N2BX-S
+
+| Kod | Zadanie | Kiedy | Jak |
+| -- | -- | -- | -- |
+| l19 | **Usuń kłaczki z filtra i jego wnęki** | **Po każdym suszeniu** | Wyjmij i otwórz filtr przy otworze bębna; usuń kłaczki, zamknij i włóż z powrotem. [Instrukcja][candy-dryer-filters] |
+| l20 | **Wyczyść drugi filtr — skraplacza z gąbką** | **Po każdym suszeniu** | Wyjmij filtr z kanału pod filtrem kłaczków. Oddziel gąbkę, oczyść obie części, złóż i zamontuj. [Instrukcja][candy-dryer-filters] |
+| l21 | **Opróżnij zbiornik na wodę** | **Po każdym suszeniu** | Wysuń zbiornik u góry po lewej, podtrzymując obiema rękami. Wylej wodę i wsuń zbiornik do końca. [Instrukcja][candy-dryer-water] |
+
+Mocno zabrudzone filtry można wypłukać pod kranem; przed montażem **całkowicie je wysusz**. [Instrukcja][candy-dryer-filters]
+
+### Pralka — Candy BP 49SBL8-S
+
+Przed ręcznym czyszczeniem pralki zakręć też dopływ wody.
+
+| Kod | Zadanie | Kiedy | Jak |
+| -- | -- | -- | -- |
+| l16 | **Uruchom samoczyszczenie pralki** | **Co 50 prań** | Pusty bęben; wybierz **BĘBEN CZYSTY (90°C)** i naciśnij Start. **Bez detergentu, Calgonu i środka czyszczącego.** [Instrukcja][candy-washer-cycle] |
+| l18 | **Wyczyść filtr pompy odpływowej** | **Co miesiąc** | Poczekaj, aż woda ostygnie. Spuść ją wężykiem pod klapką do płaskiej miski; zatkaj i schowaj wężyk. Odkręć filtr w lewo, wypłucz, oczyść i sprawdź uszczelkę, dokładnie dokręć i zamknij klapkę. [Instrukcja][candy-washer-filter] |
+| l15 | Umyj szufladę; przetrzyj uszczelkę i obudowę | Co miesiąc | Wyjmij szufladę, wciskając zatrzask; wypłucz. Uszczelkę i obudowę przetrzyj miękką ściereczką z wodą z mydłem. [Instrukcja][candy-washer-care] |
+
 ### Robot odkurzający i stacja — Roborock S8 Pro Ultra
 
 Co tydzień sprawdź stan części, poziom wody i zapełnienie worka. Przed czyszczeniem wyłącz robota i odłącz stację od prądu. [Rysunki części][roborock-diagrams]
@@ -158,8 +178,6 @@ Pozostałe sprzątanie — według pomieszczeń:
 | l9b | Uzupełnij żel pod prysznic | Co 2 tygodnie | — |
 | l8 | Usuń kamień z armatury | Co miesiąc | Odkamieniacz / odwapniacz do chromowej armatury |
 | l10 | Uporządkuj kosmetyki i wyrzuć puste opakowania | Co miesiąc | — |
-| l15 | Wyczyść pralkę | Co miesiąc | — |
-| l16 | Odkamień pralkę | Co miesiąc | Machine Care + proszek Calgon. |
 | l17 | Uzupełnij naklejki zapachowe w toaletach | Co 2 miesiące | — |
 
 ## 🏢 Biuro
@@ -249,3 +267,8 @@ Pozostałe sprzątanie — według pomieszczeń:
 [roborock-care]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=68
 [roborock-dock]: https://support.roborock.com/hc/en-us/article_attachments/18342044174873#page=69
 [roborock-diagrams]: https://support.roborock.com/hc/en-us/article_attachments/18342024687769#page=2
+[candy-dryer-filters]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/10/17615855/MAN-000194157_000#page=55
+[candy-dryer-water]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/10/17615855/MAN-000194157_000#page=56
+[candy-washer-cycle]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=20
+[candy-washer-filter]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=32
+[candy-washer-care]: https://d15v10x8t3bz3x.cloudfront.net/Libretti/2025/4/17459192/MAN-000190344_000#page=31
