@@ -35,8 +35,10 @@ Przekreślony trójkąt na metce = **bez wybielacza**, także dla białych rzecz
 | k1 | Wymień ręczniki do rąk i naczyń w kuchni | Codziennie / gdy wilgotne lub brudne | Osobne ręczniki do rąk i do naczyń; brudne do prania l22. |
 | l22 | **Wypierz białe ręczniki z bawełny organicznej** | **Co tydzień; wcześniej, gdy brakuje czystych** | [MALFINI Organic][malfini-care]: osobny wsad, **Bawełna 60°C**, [proszek do kolorów — bez wybielacza][laundry-colour], bez płynu do płukania. **Producent zabrania wybielania i suszenia bębnowego.** Rozwieś i wysusz całkowicie. |
 | s1 | **Wymień i wypierz poszwę, poszewki i prześcieradło z gumką** | **Co tydzień** | Dreamzie, bawełna organiczna (antracyt): osobny wsad, **60°C**, [proszek do kolorów][laundry-colour]. |
+| s5 | **Wypierz wewnętrzne pokrowce poduszek z pianki** | **Co 2 miesiące** | Pokrowce pod poszewkami Dreamzie: zdejmij je z pianki. **Pierz tylko pokrowce, osobno, 30°C** — jeśli metka pozwala. Susz całkowicie; suszarka tylko jeśli metka pozwala, inaczej na powietrzu. |
 | l13 | Wypierz białe ubrania | Co tydzień | [Proszek do białego][laundry-white]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
 | l13a | Wypierz kolorowe i ciemne ubrania | Co tydzień | [Proszek do kolorów][laundry-colour]. Bawełna: 40°C, 1200 obr./min, jeśli metka pozwala. |
+| l13b | **Wypierz biustonosze sportowe i ich wkładki** | Przy każdym praniu biustonoszy | **Przed praniem wyjmij wkładki z miseczek.** Wkładki mogą być w tym samym wsadzie, ale poza biustonoszem. Pranie i suszenie według metek; włóż wkładki z powrotem po całkowitym wyschnięciu. |
 | p12a | Wypierz czarne buty sportowe | Gdy brudne | Osobno od białych. Jeśli metka pozwala na pralkę: program **DELIKATNY, 30°C**. Susz na powietrzu. |
 | p12b | Wypierz białe buty sportowe | Gdy brudne | Osobno od czarnych. Jeśli metka pozwala na pralkę: program **DELIKATNY, 30°C**. Susz na powietrzu. |
 | l14 | **Wysusz pranie całkowicie** | **Po każdym praniu w pralce** | **Susz w suszarce do pełnego wyschnięcia**, program według metki. **Buty, ręczniki MALFINI i inne rzeczy z zakazem suszenia bębnowego:** susz na powietrzu do końca. Po suszarce wykonaj l19–l21. |
@@ -291,7 +293,7 @@ Zmywarka: **Siemens iQ500 SR656D00TE**.
 | z2 | Umyj okna | Co 2 miesiące | Niebieski płyn W5 do okien. |
 | z3 | Umyj balkon | Co 2 miesiące | — |
 | z4 | Usuń zabrudzenia ze ścian | Co 2 miesiące | Biała magiczna gąbka. |
-| z5 | Wypierz poduszki i kołdry | Co 2 miesiące | Poldaun Ecotton: **maks. 30°C**; pozostałe zgodnie z metką. Poszwy i prześcieradła: s1. |
+| z5 | Wypierz poduszki i kołdry | Co 2 miesiące | Poldaun Ecotton: **maks. 30°C**; pozostałe zgodnie z metką. **Wkładów z pianki nie pierz** — ich pokrowce: s5. Poszwy, poszewki i prześcieradła: s1. |
 | z10 | Odkurz pod meblami | Co 2 miesiące | — |
 | z6 | Dokładnie wyczyść szafki kuchenne | Co 2 miesiące | — |
 | z9 | Wyczyść lampy i sufity | Co 3 miesiące | — |
